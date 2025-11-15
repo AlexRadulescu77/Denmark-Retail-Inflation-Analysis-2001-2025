@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+
+# Power BI
+*.pbix
+
+# MySQL
+*.sql~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials (NEVER commit passwords!)
+config.py
+credentials.txt

@@ -1,0 +1,3862 @@
+Date,Category,CPI
+2001-01-01,00 Total,76.7
+2001-01-01,01 Food and non-alcoholic beverages,75.2
+2001-01-01,02 Alcoholic beverages and tobacco,76.3
+2001-01-01,03 Clothing and footwear,88.9
+2001-01-01,04 Housing and utilities,69.4
+2001-01-01,05 Furnishings and household equipment,84.7
+2001-01-01,06 Health,81.2
+2001-01-01,07 Transport,77.7
+2001-01-01,08 Communication,130.4
+2001-01-01,09 Recreation and culture,96.7
+2001-01-01,10 Education,49.8
+2001-01-01,11 Restaurants and hotels,70.4
+2001-01-01,12 Miscellaneous goods and services,68.1
+2001-02-01,00 Total,77.3
+2001-02-01,01 Food and non-alcoholic beverages,75.7
+2001-02-01,02 Alcoholic beverages and tobacco,76.3
+2001-02-01,03 Clothing and footwear,89.7
+2001-02-01,04 Housing and utilities,70.2
+2001-02-01,05 Furnishings and household equipment,85.2
+2001-02-01,06 Health,81.2
+2001-02-01,07 Transport,78.5
+2001-02-01,08 Communication,130.2
+2001-02-01,09 Recreation and culture,96.8
+2001-02-01,10 Education,49.8
+2001-02-01,11 Restaurants and hotels,70.7
+2001-02-01,12 Miscellaneous goods and services,68.2
+2001-03-01,00 Total,77.7
+2001-03-01,01 Food and non-alcoholic beverages,76.2
+2001-03-01,02 Alcoholic beverages and tobacco,76.4
+2001-03-01,03 Clothing and footwear,97.4
+2001-03-01,04 Housing and utilities,70.1
+2001-03-01,05 Furnishings and household equipment,85.5
+2001-03-01,06 Health,81.2
+2001-03-01,07 Transport,78.4
+2001-03-01,08 Communication,129.7
+2001-03-01,09 Recreation and culture,96.9
+2001-03-01,10 Education,49.8
+2001-03-01,11 Restaurants and hotels,70.8
+2001-03-01,12 Miscellaneous goods and services,68.5
+2001-04-01,00 Total,78.0
+2001-04-01,01 Food and non-alcoholic beverages,77.0
+2001-04-01,02 Alcoholic beverages and tobacco,76.4
+2001-04-01,03 Clothing and footwear,100.0
+2001-04-01,04 Housing and utilities,70.2
+2001-04-01,05 Furnishings and household equipment,85.7
+2001-04-01,06 Health,80.0
+2001-04-01,07 Transport,79.0
+2001-04-01,08 Communication,129.4
+2001-04-01,09 Recreation and culture,97.4
+2001-04-01,10 Education,49.8
+2001-04-01,11 Restaurants and hotels,70.9
+2001-04-01,12 Miscellaneous goods and services,68.9
+2001-05-01,00 Total,78.4
+2001-05-01,01 Food and non-alcoholic beverages,77.5
+2001-05-01,02 Alcoholic beverages and tobacco,76.5
+2001-05-01,03 Clothing and footwear,100.1
+2001-05-01,04 Housing and utilities,70.2
+2001-05-01,05 Furnishings and household equipment,85.8
+2001-05-01,06 Health,80.0
+2001-05-01,07 Transport,80.0
+2001-05-01,08 Communication,129.1
+2001-05-01,09 Recreation and culture,98.3
+2001-05-01,10 Education,49.8
+2001-05-01,11 Restaurants and hotels,71.2
+2001-05-01,12 Miscellaneous goods and services,69.4
+2001-06-01,00 Total,78.3
+2001-06-01,01 Food and non-alcoholic beverages,77.7
+2001-06-01,02 Alcoholic beverages and tobacco,75.7
+2001-06-01,03 Clothing and footwear,99.5
+2001-06-01,04 Housing and utilities,70.3
+2001-06-01,05 Furnishings and household equipment,85.9
+2001-06-01,06 Health,80.1
+2001-06-01,07 Transport,79.2
+2001-06-01,08 Communication,128.8
+2001-06-01,09 Recreation and culture,98.0
+2001-06-01,10 Education,50.2
+2001-06-01,11 Restaurants and hotels,71.3
+2001-06-01,12 Miscellaneous goods and services,70.0
+2001-07-01,00 Total,78.1
+2001-07-01,01 Food and non-alcoholic beverages,77.3
+2001-07-01,02 Alcoholic beverages and tobacco,75.5
+2001-07-01,03 Clothing and footwear,91.8
+2001-07-01,04 Housing and utilities,70.4
+2001-07-01,05 Furnishings and household equipment,85.6
+2001-07-01,06 Health,86.6
+2001-07-01,07 Transport,78.9
+2001-07-01,08 Communication,128.8
+2001-07-01,09 Recreation and culture,97.3
+2001-07-01,10 Education,50.2
+2001-07-01,11 Restaurants and hotels,71.4
+2001-07-01,12 Miscellaneous goods and services,70.5
+2001-08-01,00 Total,78.1
+2001-08-01,01 Food and non-alcoholic beverages,77.4
+2001-08-01,02 Alcoholic beverages and tobacco,75.5
+2001-08-01,03 Clothing and footwear,89.4
+2001-08-01,04 Housing and utilities,70.7
+2001-08-01,05 Furnishings and household equipment,85.5
+2001-08-01,06 Health,86.6
+2001-08-01,07 Transport,78.9
+2001-08-01,08 Communication,128.7
+2001-08-01,09 Recreation and culture,97.0
+2001-08-01,10 Education,50.2
+2001-08-01,11 Restaurants and hotels,71.5
+2001-08-01,12 Miscellaneous goods and services,70.5
+2001-09-01,00 Total,78.4
+2001-09-01,01 Food and non-alcoholic beverages,76.6
+2001-09-01,02 Alcoholic beverages and tobacco,75.0
+2001-09-01,03 Clothing and footwear,99.8
+2001-09-01,04 Housing and utilities,70.7
+2001-09-01,05 Furnishings and household equipment,85.8
+2001-09-01,06 Health,86.6
+2001-09-01,07 Transport,79.3
+2001-09-01,08 Communication,128.9
+2001-09-01,09 Recreation and culture,97.4
+2001-09-01,10 Education,51.1
+2001-09-01,11 Restaurants and hotels,71.6
+2001-09-01,12 Miscellaneous goods and services,70.5
+2001-10-01,00 Total,78.5
+2001-10-01,01 Food and non-alcoholic beverages,76.9
+2001-10-01,02 Alcoholic beverages and tobacco,76.2
+2001-10-01,03 Clothing and footwear,101.7
+2001-10-01,04 Housing and utilities,70.7
+2001-10-01,05 Furnishings and household equipment,86.1
+2001-10-01,06 Health,84.4
+2001-10-01,07 Transport,78.6
+2001-10-01,08 Communication,128.9
+2001-10-01,09 Recreation and culture,97.2
+2001-10-01,10 Education,51.7
+2001-10-01,11 Restaurants and hotels,71.8
+2001-10-01,12 Miscellaneous goods and services,70.6
+2001-11-01,00 Total,78.3
+2001-11-01,01 Food and non-alcoholic beverages,76.5
+2001-11-01,02 Alcoholic beverages and tobacco,75.8
+2001-11-01,03 Clothing and footwear,102.0
+2001-11-01,04 Housing and utilities,70.5
+2001-11-01,05 Furnishings and household equipment,86.1
+2001-11-01,06 Health,84.3
+2001-11-01,07 Transport,78.1
+2001-11-01,08 Communication,129.1
+2001-11-01,09 Recreation and culture,97.6
+2001-11-01,10 Education,51.7
+2001-11-01,11 Restaurants and hotels,72.0
+2001-11-01,12 Miscellaneous goods and services,70.6
+2001-12-01,00 Total,78.5
+2001-12-01,01 Food and non-alcoholic beverages,76.7
+2001-12-01,02 Alcoholic beverages and tobacco,75.8
+2001-12-01,03 Clothing and footwear,101.5
+2001-12-01,04 Housing and utilities,70.9
+2001-12-01,05 Furnishings and household equipment,86.2
+2001-12-01,06 Health,84.1
+2001-12-01,07 Transport,78.1
+2001-12-01,08 Communication,129.2
+2001-12-01,09 Recreation and culture,97.7
+2001-12-01,10 Education,51.7
+2001-12-01,11 Restaurants and hotels,72.0
+2001-12-01,12 Miscellaneous goods and services,70.7
+2002-01-01,00 Total,78.6
+2002-01-01,01 Food and non-alcoholic beverages,77.8
+2002-01-01,02 Alcoholic beverages and tobacco,76.5
+2002-01-01,03 Clothing and footwear,91.8
+2002-01-01,04 Housing and utilities,71.2
+2002-01-01,05 Furnishings and household equipment,86.0
+2002-01-01,06 Health,83.7
+2002-01-01,07 Transport,78.9
+2002-01-01,08 Communication,129.4
+2002-01-01,09 Recreation and culture,98.3
+2002-01-01,10 Education,51.7
+2002-01-01,11 Restaurants and hotels,72.1
+2002-01-01,12 Miscellaneous goods and services,71.5
+2002-02-01,00 Total,79.2
+2002-02-01,01 Food and non-alcoholic beverages,78.4
+2002-02-01,02 Alcoholic beverages and tobacco,76.3
+2002-02-01,03 Clothing and footwear,92.4
+2002-02-01,04 Housing and utilities,72.2
+2002-02-01,05 Furnishings and household equipment,86.2
+2002-02-01,06 Health,83.7
+2002-02-01,07 Transport,79.4
+2002-02-01,08 Communication,129.6
+2002-02-01,09 Recreation and culture,98.9
+2002-02-01,10 Education,51.8
+2002-02-01,11 Restaurants and hotels,72.4
+2002-02-01,12 Miscellaneous goods and services,71.6
+2002-03-01,00 Total,79.7
+2002-03-01,01 Food and non-alcoholic beverages,78.6
+2002-03-01,02 Alcoholic beverages and tobacco,76.4
+2002-03-01,03 Clothing and footwear,100.1
+2002-03-01,04 Housing and utilities,72.2
+2002-03-01,05 Furnishings and household equipment,86.6
+2002-03-01,06 Health,83.7
+2002-03-01,07 Transport,80.1
+2002-03-01,08 Communication,129.3
+2002-03-01,09 Recreation and culture,99.0
+2002-03-01,10 Education,51.8
+2002-03-01,11 Restaurants and hotels,72.3
+2002-03-01,12 Miscellaneous goods and services,71.8
+2002-04-01,00 Total,80.0
+2002-04-01,01 Food and non-alcoholic beverages,78.4
+2002-04-01,02 Alcoholic beverages and tobacco,76.0
+2002-04-01,03 Clothing and footwear,101.6
+2002-04-01,04 Housing and utilities,72.5
+2002-04-01,05 Furnishings and household equipment,87.4
+2002-04-01,06 Health,81.6
+2002-04-01,07 Transport,81.2
+2002-04-01,08 Communication,129.9
+2002-04-01,09 Recreation and culture,98.7
+2002-04-01,10 Education,51.8
+2002-04-01,11 Restaurants and hotels,72.4
+2002-04-01,12 Miscellaneous goods and services,72.7
+2002-05-01,00 Total,80.0
+2002-05-01,01 Food and non-alcoholic beverages,78.8
+2002-05-01,02 Alcoholic beverages and tobacco,75.9
+2002-05-01,03 Clothing and footwear,101.9
+2002-05-01,04 Housing and utilities,72.6
+2002-05-01,05 Furnishings and household equipment,87.6
+2002-05-01,06 Health,81.8
+2002-05-01,07 Transport,80.5
+2002-05-01,08 Communication,129.8
+2002-05-01,09 Recreation and culture,99.2
+2002-05-01,10 Education,51.8
+2002-05-01,11 Restaurants and hotels,72.8
+2002-05-01,12 Miscellaneous goods and services,72.7
+2002-06-01,00 Total,80.0
+2002-06-01,01 Food and non-alcoholic beverages,79.0
+2002-06-01,02 Alcoholic beverages and tobacco,76.1
+2002-06-01,03 Clothing and footwear,101.5
+2002-06-01,04 Housing and utilities,72.5
+2002-06-01,05 Furnishings and household equipment,87.6
+2002-06-01,06 Health,82.7
+2002-06-01,07 Transport,80.5
+2002-06-01,08 Communication,129.7
+2002-06-01,09 Recreation and culture,99.0
+2002-06-01,10 Education,51.8
+2002-06-01,11 Restaurants and hotels,72.9
+2002-06-01,12 Miscellaneous goods and services,72.7
+2002-07-01,00 Total,79.8
+2002-07-01,01 Food and non-alcoholic beverages,78.7
+2002-07-01,02 Alcoholic beverages and tobacco,76.1
+2002-07-01,03 Clothing and footwear,92.5
+2002-07-01,04 Housing and utilities,72.4
+2002-07-01,05 Furnishings and household equipment,87.4
+2002-07-01,06 Health,86.0
+2002-07-01,07 Transport,81.0
+2002-07-01,08 Communication,129.7
+2002-07-01,09 Recreation and culture,98.8
+2002-07-01,10 Education,52.8
+2002-07-01,11 Restaurants and hotels,73.0
+2002-07-01,12 Miscellaneous goods and services,74.0
+2002-08-01,00 Total,79.9
+2002-08-01,01 Food and non-alcoholic beverages,78.4
+2002-08-01,02 Alcoholic beverages and tobacco,76.9
+2002-08-01,03 Clothing and footwear,92.8
+2002-08-01,04 Housing and utilities,72.5
+2002-08-01,05 Furnishings and household equipment,87.4
+2002-08-01,06 Health,86.2
+2002-08-01,07 Transport,81.2
+2002-08-01,08 Communication,129.5
+2002-08-01,09 Recreation and culture,98.7
+2002-08-01,10 Education,52.8
+2002-08-01,11 Restaurants and hotels,73.2
+2002-08-01,12 Miscellaneous goods and services,74.1
+2002-09-01,00 Total,80.3
+2002-09-01,01 Food and non-alcoholic beverages,78.2
+2002-09-01,02 Alcoholic beverages and tobacco,76.7
+2002-09-01,03 Clothing and footwear,101.9
+2002-09-01,04 Housing and utilities,72.6
+2002-09-01,05 Furnishings and household equipment,87.6
+2002-09-01,06 Health,85.1
+2002-09-01,07 Transport,81.4
+2002-09-01,08 Communication,129.6
+2002-09-01,09 Recreation and culture,98.9
+2002-09-01,10 Education,56.8
+2002-09-01,11 Restaurants and hotels,73.2
+2002-09-01,12 Miscellaneous goods and services,74.1
+2002-10-01,00 Total,80.5
+2002-10-01,01 Food and non-alcoholic beverages,78.2
+2002-10-01,02 Alcoholic beverages and tobacco,76.7
+2002-10-01,03 Clothing and footwear,103.8
+2002-10-01,04 Housing and utilities,72.7
+2002-10-01,05 Furnishings and household equipment,87.8
+2002-10-01,06 Health,84.1
+2002-10-01,07 Transport,81.8
+2002-10-01,08 Communication,129.5
+2002-10-01,09 Recreation and culture,98.9
+2002-10-01,10 Education,57.4
+2002-10-01,11 Restaurants and hotels,73.3
+2002-10-01,12 Miscellaneous goods and services,74.1
+2002-11-01,00 Total,80.5
+2002-11-01,01 Food and non-alcoholic beverages,78.2
+2002-11-01,02 Alcoholic beverages and tobacco,77.1
+2002-11-01,03 Clothing and footwear,104.4
+2002-11-01,04 Housing and utilities,72.6
+2002-11-01,05 Furnishings and household equipment,87.9
+2002-11-01,06 Health,83.3
+2002-11-01,07 Transport,81.4
+2002-11-01,08 Communication,129.3
+2002-11-01,09 Recreation and culture,99.2
+2002-11-01,10 Education,57.4
+2002-11-01,11 Restaurants and hotels,73.4
+2002-11-01,12 Miscellaneous goods and services,74.2
+2002-12-01,00 Total,80.5
+2002-12-01,01 Food and non-alcoholic beverages,78.1
+2002-12-01,02 Alcoholic beverages and tobacco,76.5
+2002-12-01,03 Clothing and footwear,103.9
+2002-12-01,04 Housing and utilities,72.7
+2002-12-01,05 Furnishings and household equipment,88.0
+2002-12-01,06 Health,83.3
+2002-12-01,07 Transport,81.5
+2002-12-01,08 Communication,129.1
+2002-12-01,09 Recreation and culture,99.3
+2002-12-01,10 Education,57.4
+2002-12-01,11 Restaurants and hotels,73.4
+2002-12-01,12 Miscellaneous goods and services,74.3
+2003-01-01,00 Total,80.6
+2003-01-01,01 Food and non-alcoholic beverages,78.6
+2003-01-01,02 Alcoholic beverages and tobacco,76.9
+2003-01-01,03 Clothing and footwear,93.3
+2003-01-01,04 Housing and utilities,73.2
+2003-01-01,05 Furnishings and household equipment,87.7
+2003-01-01,06 Health,82.8
+2003-01-01,07 Transport,82.5
+2003-01-01,08 Communication,129.6
+2003-01-01,09 Recreation and culture,99.6
+2003-01-01,10 Education,64.5
+2003-01-01,11 Restaurants and hotels,73.6
+2003-01-01,12 Miscellaneous goods and services,75.0
+2003-02-01,00 Total,81.4
+2003-02-01,01 Food and non-alcoholic beverages,79.6
+2003-02-01,02 Alcoholic beverages and tobacco,77.0
+2003-02-01,03 Clothing and footwear,92.9
+2003-02-01,04 Housing and utilities,74.7
+2003-02-01,05 Furnishings and household equipment,87.9
+2003-02-01,06 Health,82.4
+2003-02-01,07 Transport,83.7
+2003-02-01,08 Communication,129.2
+2003-02-01,09 Recreation and culture,100.0
+2003-02-01,10 Education,64.5
+2003-02-01,11 Restaurants and hotels,73.9
+2003-02-01,12 Miscellaneous goods and services,75.1
+2003-03-01,00 Total,82.0
+2003-03-01,01 Food and non-alcoholic beverages,79.9
+2003-03-01,02 Alcoholic beverages and tobacco,76.8
+2003-03-01,03 Clothing and footwear,101.3
+2003-03-01,04 Housing and utilities,75.0
+2003-03-01,05 Furnishings and household equipment,88.1
+2003-03-01,06 Health,81.8
+2003-03-01,07 Transport,84.0
+2003-03-01,08 Communication,129.0
+2003-03-01,09 Recreation and culture,100.2
+2003-03-01,10 Education,64.5
+2003-03-01,11 Restaurants and hotels,74.1
+2003-03-01,12 Miscellaneous goods and services,75.3
+2003-04-01,00 Total,81.9
+2003-04-01,01 Food and non-alcoholic beverages,80.0
+2003-04-01,02 Alcoholic beverages and tobacco,76.5
+2003-04-01,03 Clothing and footwear,103.6
+2003-04-01,04 Housing and utilities,74.6
+2003-04-01,05 Furnishings and household equipment,88.3
+2003-04-01,06 Health,82.6
+2003-04-01,07 Transport,83.3
+2003-04-01,08 Communication,128.9
+2003-04-01,09 Recreation and culture,100.3
+2003-04-01,10 Education,64.5
+2003-04-01,11 Restaurants and hotels,74.2
+2003-04-01,12 Miscellaneous goods and services,76.1
+2003-05-01,00 Total,81.8
+2003-05-01,01 Food and non-alcoholic beverages,79.8
+2003-05-01,02 Alcoholic beverages and tobacco,76.9
+2003-05-01,03 Clothing and footwear,103.7
+2003-05-01,04 Housing and utilities,74.4
+2003-05-01,05 Furnishings and household equipment,88.3
+2003-05-01,06 Health,82.6
+2003-05-01,07 Transport,82.4
+2003-05-01,08 Communication,128.7
+2003-05-01,09 Recreation and culture,100.5
+2003-05-01,10 Education,64.5
+2003-05-01,11 Restaurants and hotels,74.5
+2003-05-01,12 Miscellaneous goods and services,76.3
+2003-06-01,00 Total,81.8
+2003-06-01,01 Food and non-alcoholic beverages,80.0
+2003-06-01,02 Alcoholic beverages and tobacco,76.6
+2003-06-01,03 Clothing and footwear,102.9
+2003-06-01,04 Housing and utilities,74.2
+2003-06-01,05 Furnishings and household equipment,88.3
+2003-06-01,06 Health,82.8
+2003-06-01,07 Transport,82.6
+2003-06-01,08 Communication,125.3
+2003-06-01,09 Recreation and culture,100.9
+2003-06-01,10 Education,65.2
+2003-06-01,11 Restaurants and hotels,74.6
+2003-06-01,12 Miscellaneous goods and services,76.3
+2003-07-01,00 Total,81.3
+2003-07-01,01 Food and non-alcoholic beverages,79.7
+2003-07-01,02 Alcoholic beverages and tobacco,76.9
+2003-07-01,03 Clothing and footwear,92.3
+2003-07-01,04 Housing and utilities,73.9
+2003-07-01,05 Furnishings and household equipment,88.0
+2003-07-01,06 Health,82.9
+2003-07-01,07 Transport,83.4
+2003-07-01,08 Communication,125.3
+2003-07-01,09 Recreation and culture,100.6
+2003-07-01,10 Education,65.2
+2003-07-01,11 Restaurants and hotels,74.7
+2003-07-01,12 Miscellaneous goods and services,76.3
+2003-08-01,00 Total,81.3
+2003-08-01,01 Food and non-alcoholic beverages,79.4
+2003-08-01,02 Alcoholic beverages and tobacco,77.2
+2003-08-01,03 Clothing and footwear,90.2
+2003-08-01,04 Housing and utilities,74.0
+2003-08-01,05 Furnishings and household equipment,88.0
+2003-08-01,06 Health,82.9
+2003-08-01,07 Transport,83.8
+2003-08-01,08 Communication,125.2
+2003-08-01,09 Recreation and culture,100.3
+2003-08-01,10 Education,65.2
+2003-08-01,11 Restaurants and hotels,74.8
+2003-08-01,12 Miscellaneous goods and services,76.3
+2003-09-01,00 Total,81.8
+2003-09-01,01 Food and non-alcoholic beverages,79.6
+2003-09-01,02 Alcoholic beverages and tobacco,76.6
+2003-09-01,03 Clothing and footwear,102.9
+2003-09-01,04 Housing and utilities,74.0
+2003-09-01,05 Furnishings and household equipment,88.2
+2003-09-01,06 Health,86.8
+2003-09-01,07 Transport,83.6
+2003-09-01,08 Communication,124.9
+2003-09-01,09 Recreation and culture,100.1
+2003-09-01,10 Education,66.2
+2003-09-01,11 Restaurants and hotels,75.0
+2003-09-01,12 Miscellaneous goods and services,76.4
+2003-10-01,00 Total,81.6
+2003-10-01,01 Food and non-alcoholic beverages,79.2
+2003-10-01,02 Alcoholic beverages and tobacco,71.6
+2003-10-01,03 Clothing and footwear,105.6
+2003-10-01,04 Housing and utilities,74.0
+2003-10-01,05 Furnishings and household equipment,88.4
+2003-10-01,06 Health,86.7
+2003-10-01,07 Transport,83.2
+2003-10-01,08 Communication,124.9
+2003-10-01,09 Recreation and culture,100.9
+2003-10-01,10 Education,66.5
+2003-10-01,11 Restaurants and hotels,75.0
+2003-10-01,12 Miscellaneous goods and services,76.1
+2003-11-01,00 Total,81.8
+2003-11-01,01 Food and non-alcoholic beverages,79.4
+2003-11-01,02 Alcoholic beverages and tobacco,71.6
+2003-11-01,03 Clothing and footwear,106.4
+2003-11-01,04 Housing and utilities,74.1
+2003-11-01,05 Furnishings and household equipment,88.4
+2003-11-01,06 Health,86.7
+2003-11-01,07 Transport,83.4
+2003-11-01,08 Communication,124.8
+2003-11-01,09 Recreation and culture,100.9
+2003-11-01,10 Education,66.5
+2003-11-01,11 Restaurants and hotels,75.1
+2003-11-01,12 Miscellaneous goods and services,76.2
+2003-12-01,00 Total,81.6
+2003-12-01,01 Food and non-alcoholic beverages,79.0
+2003-12-01,02 Alcoholic beverages and tobacco,71.7
+2003-12-01,03 Clothing and footwear,105.8
+2003-12-01,04 Housing and utilities,74.1
+2003-12-01,05 Furnishings and household equipment,88.3
+2003-12-01,06 Health,86.0
+2003-12-01,07 Transport,83.3
+2003-12-01,08 Communication,124.5
+2003-12-01,09 Recreation and culture,100.5
+2003-12-01,10 Education,66.5
+2003-12-01,11 Restaurants and hotels,75.2
+2003-12-01,12 Miscellaneous goods and services,76.3
+2004-01-01,00 Total,81.6
+2004-01-01,01 Food and non-alcoholic beverages,79.2
+2004-01-01,02 Alcoholic beverages and tobacco,72.1
+2004-01-01,03 Clothing and footwear,92.4
+2004-01-01,04 Housing and utilities,74.5
+2004-01-01,05 Furnishings and household equipment,90.0
+2004-01-01,06 Health,85.6
+2004-01-01,07 Transport,83.9
+2004-01-01,08 Communication,125.0
+2004-01-01,09 Recreation and culture,101.3
+2004-01-01,10 Education,66.9
+2004-01-01,11 Restaurants and hotels,75.3
+2004-01-01,12 Miscellaneous goods and services,77.3
+2004-02-01,00 Total,82.2
+2004-02-01,01 Food and non-alcoholic beverages,78.8
+2004-02-01,02 Alcoholic beverages and tobacco,72.2
+2004-02-01,03 Clothing and footwear,95.6
+2004-02-01,04 Housing and utilities,75.8
+2004-02-01,05 Furnishings and household equipment,90.3
+2004-02-01,06 Health,84.2
+2004-02-01,07 Transport,84.4
+2004-02-01,08 Communication,124.9
+2004-02-01,09 Recreation and culture,101.5
+2004-02-01,10 Education,66.9
+2004-02-01,11 Restaurants and hotels,75.5
+2004-02-01,12 Miscellaneous goods and services,77.3
+2004-03-01,00 Total,82.5
+2004-03-01,01 Food and non-alcoholic beverages,79.3
+2004-03-01,02 Alcoholic beverages and tobacco,71.5
+2004-03-01,03 Clothing and footwear,102.4
+2004-03-01,04 Housing and utilities,75.9
+2004-03-01,05 Furnishings and household equipment,90.5
+2004-03-01,06 Health,83.6
+2004-03-01,07 Transport,85.1
+2004-03-01,08 Communication,124.7
+2004-03-01,09 Recreation and culture,100.6
+2004-03-01,10 Education,66.9
+2004-03-01,11 Restaurants and hotels,75.7
+2004-03-01,12 Miscellaneous goods and services,77.5
+2004-04-01,00 Total,82.6
+2004-04-01,01 Food and non-alcoholic beverages,79.1
+2004-04-01,02 Alcoholic beverages and tobacco,71.4
+2004-04-01,03 Clothing and footwear,104.3
+2004-04-01,04 Housing and utilities,75.8
+2004-04-01,05 Furnishings and household equipment,90.6
+2004-04-01,06 Health,84.7
+2004-04-01,07 Transport,85.0
+2004-04-01,08 Communication,124.4
+2004-04-01,09 Recreation and culture,100.4
+2004-04-01,10 Education,66.9
+2004-04-01,11 Restaurants and hotels,75.8
+2004-04-01,12 Miscellaneous goods and services,78.3
+2004-05-01,00 Total,82.9
+2004-05-01,01 Food and non-alcoholic beverages,79.3
+2004-05-01,02 Alcoholic beverages and tobacco,71.4
+2004-05-01,03 Clothing and footwear,105.2
+2004-05-01,04 Housing and utilities,76.0
+2004-05-01,05 Furnishings and household equipment,90.7
+2004-05-01,06 Health,84.4
+2004-05-01,07 Transport,86.7
+2004-05-01,08 Communication,121.1
+2004-05-01,09 Recreation and culture,99.3
+2004-05-01,10 Education,66.9
+2004-05-01,11 Restaurants and hotels,76.3
+2004-05-01,12 Miscellaneous goods and services,78.4
+2004-06-01,00 Total,82.7
+2004-06-01,01 Food and non-alcoholic beverages,79.0
+2004-06-01,02 Alcoholic beverages and tobacco,71.4
+2004-06-01,03 Clothing and footwear,103.8
+2004-06-01,04 Housing and utilities,76.0
+2004-06-01,05 Furnishings and household equipment,90.7
+2004-06-01,06 Health,84.4
+2004-06-01,07 Transport,85.8
+2004-06-01,08 Communication,121.4
+2004-06-01,09 Recreation and culture,99.6
+2004-06-01,10 Education,67.1
+2004-06-01,11 Restaurants and hotels,76.5
+2004-06-01,12 Miscellaneous goods and services,78.4
+2004-07-01,00 Total,82.4
+2004-07-01,01 Food and non-alcoholic beverages,78.7
+2004-07-01,02 Alcoholic beverages and tobacco,72.0
+2004-07-01,03 Clothing and footwear,91.4
+2004-07-01,04 Housing and utilities,76.0
+2004-07-01,05 Furnishings and household equipment,90.4
+2004-07-01,06 Health,85.4
+2004-07-01,07 Transport,86.6
+2004-07-01,08 Communication,122.1
+2004-07-01,09 Recreation and culture,100.6
+2004-07-01,10 Education,67.1
+2004-07-01,11 Restaurants and hotels,76.6
+2004-07-01,12 Miscellaneous goods and services,78.7
+2004-08-01,00 Total,82.2
+2004-08-01,01 Food and non-alcoholic beverages,78.5
+2004-08-01,02 Alcoholic beverages and tobacco,71.8
+2004-08-01,03 Clothing and footwear,91.5
+2004-08-01,04 Housing and utilities,76.1
+2004-08-01,05 Furnishings and household equipment,90.3
+2004-08-01,06 Health,85.5
+2004-08-01,07 Transport,86.8
+2004-08-01,08 Communication,121.2
+2004-08-01,09 Recreation and culture,97.6
+2004-08-01,10 Education,67.1
+2004-08-01,11 Restaurants and hotels,76.8
+2004-08-01,12 Miscellaneous goods and services,78.7
+2004-09-01,00 Total,82.7
+2004-09-01,01 Food and non-alcoholic beverages,78.5
+2004-09-01,02 Alcoholic beverages and tobacco,72.3
+2004-09-01,03 Clothing and footwear,102.7
+2004-09-01,04 Housing and utilities,76.2
+2004-09-01,05 Furnishings and household equipment,90.5
+2004-09-01,06 Health,87.2
+2004-09-01,07 Transport,86.4
+2004-09-01,08 Communication,120.5
+2004-09-01,09 Recreation and culture,98.0
+2004-09-01,10 Education,68.2
+2004-09-01,11 Restaurants and hotels,76.8
+2004-09-01,12 Miscellaneous goods and services,78.6
+2004-10-01,00 Total,83.0
+2004-10-01,01 Food and non-alcoholic beverages,78.1
+2004-10-01,02 Alcoholic beverages and tobacco,72.3
+2004-10-01,03 Clothing and footwear,104.2
+2004-10-01,04 Housing and utilities,76.5
+2004-10-01,05 Furnishings and household equipment,90.5
+2004-10-01,06 Health,87.4
+2004-10-01,07 Transport,87.6
+2004-10-01,08 Communication,120.8
+2004-10-01,09 Recreation and culture,97.7
+2004-10-01,10 Education,68.5
+2004-10-01,11 Restaurants and hotels,77.0
+2004-10-01,12 Miscellaneous goods and services,78.7
+2004-11-01,00 Total,82.8
+2004-11-01,01 Food and non-alcoholic beverages,77.9
+2004-11-01,02 Alcoholic beverages and tobacco,71.5
+2004-11-01,03 Clothing and footwear,104.0
+2004-11-01,04 Housing and utilities,76.5
+2004-11-01,05 Furnishings and household equipment,90.5
+2004-11-01,06 Health,87.1
+2004-11-01,07 Transport,86.8
+2004-11-01,08 Communication,120.2
+2004-11-01,09 Recreation and culture,97.1
+2004-11-01,10 Education,68.5
+2004-11-01,11 Restaurants and hotels,77.2
+2004-11-01,12 Miscellaneous goods and services,78.8
+2004-12-01,00 Total,82.6
+2004-12-01,01 Food and non-alcoholic beverages,78.1
+2004-12-01,02 Alcoholic beverages and tobacco,71.4
+2004-12-01,03 Clothing and footwear,103.3
+2004-12-01,04 Housing and utilities,76.4
+2004-12-01,05 Furnishings and household equipment,90.5
+2004-12-01,06 Health,87.0
+2004-12-01,07 Transport,85.8
+2004-12-01,08 Communication,119.7
+2004-12-01,09 Recreation and culture,97.1
+2004-12-01,10 Education,68.5
+2004-12-01,11 Restaurants and hotels,77.3
+2004-12-01,12 Miscellaneous goods and services,78.8
+2005-01-01,00 Total,82.4
+2005-01-01,01 Food and non-alcoholic beverages,78.2
+2005-01-01,02 Alcoholic beverages and tobacco,73.8
+2005-01-01,03 Clothing and footwear,89.1
+2005-01-01,04 Housing and utilities,76.6
+2005-01-01,05 Furnishings and household equipment,90.2
+2005-01-01,06 Health,86.2
+2005-01-01,07 Transport,86.5
+2005-01-01,08 Communication,120.9
+2005-01-01,09 Recreation and culture,97.4
+2005-01-01,10 Education,69.1
+2005-01-01,11 Restaurants and hotels,77.5
+2005-01-01,12 Miscellaneous goods and services,79.5
+2005-02-01,00 Total,83.2
+2005-02-01,01 Food and non-alcoholic beverages,78.7
+2005-02-01,02 Alcoholic beverages and tobacco,73.4
+2005-02-01,03 Clothing and footwear,93.1
+2005-02-01,04 Housing and utilities,77.8
+2005-02-01,05 Furnishings and household equipment,90.6
+2005-02-01,06 Health,85.9
+2005-02-01,07 Transport,87.2
+2005-02-01,08 Communication,119.9
+2005-02-01,09 Recreation and culture,98.2
+2005-02-01,10 Education,69.1
+2005-02-01,11 Restaurants and hotels,77.6
+2005-02-01,12 Miscellaneous goods and services,79.6
+2005-03-01,00 Total,83.7
+2005-03-01,01 Food and non-alcoholic beverages,79.7
+2005-03-01,02 Alcoholic beverages and tobacco,73.1
+2005-03-01,03 Clothing and footwear,101.3
+2005-03-01,04 Housing and utilities,78.0
+2005-03-01,05 Furnishings and household equipment,91.0
+2005-03-01,06 Health,85.6
+2005-03-01,07 Transport,87.8
+2005-03-01,08 Communication,120.0
+2005-03-01,09 Recreation and culture,97.4
+2005-03-01,10 Education,69.1
+2005-03-01,11 Restaurants and hotels,77.7
+2005-03-01,12 Miscellaneous goods and services,79.5
+2005-04-01,00 Total,84.1
+2005-04-01,01 Food and non-alcoholic beverages,78.9
+2005-04-01,02 Alcoholic beverages and tobacco,73.1
+2005-04-01,03 Clothing and footwear,104.8
+2005-04-01,04 Housing and utilities,78.3
+2005-04-01,05 Furnishings and household equipment,91.3
+2005-04-01,06 Health,86.9
+2005-04-01,07 Transport,89.0
+2005-04-01,08 Communication,119.8
+2005-04-01,09 Recreation and culture,97.4
+2005-04-01,10 Education,69.1
+2005-04-01,11 Restaurants and hotels,77.9
+2005-04-01,12 Miscellaneous goods and services,80.3
+2005-05-01,00 Total,84.1
+2005-05-01,01 Food and non-alcoholic beverages,79.2
+2005-05-01,02 Alcoholic beverages and tobacco,72.4
+2005-05-01,03 Clothing and footwear,104.7
+2005-05-01,04 Housing and utilities,78.3
+2005-05-01,05 Furnishings and household equipment,91.2
+2005-05-01,06 Health,86.9
+2005-05-01,07 Transport,88.5
+2005-05-01,08 Communication,120.4
+2005-05-01,09 Recreation and culture,97.1
+2005-05-01,10 Education,69.1
+2005-05-01,11 Restaurants and hotels,78.3
+2005-05-01,12 Miscellaneous goods and services,80.4
+2005-06-01,00 Total,84.2
+2005-06-01,01 Food and non-alcoholic beverages,79.6
+2005-06-01,02 Alcoholic beverages and tobacco,73.1
+2005-06-01,03 Clothing and footwear,103.1
+2005-06-01,04 Housing and utilities,78.4
+2005-06-01,05 Furnishings and household equipment,91.1
+2005-06-01,06 Health,87.8
+2005-06-01,07 Transport,88.9
+2005-06-01,08 Communication,119.9
+2005-06-01,09 Recreation and culture,96.8
+2005-06-01,10 Education,69.0
+2005-06-01,11 Restaurants and hotels,78.1
+2005-06-01,12 Miscellaneous goods and services,80.4
+2005-07-01,00 Total,84.1
+2005-07-01,01 Food and non-alcoholic beverages,79.7
+2005-07-01,02 Alcoholic beverages and tobacco,73.6
+2005-07-01,03 Clothing and footwear,90.0
+2005-07-01,04 Housing and utilities,78.6
+2005-07-01,05 Furnishings and household equipment,91.1
+2005-07-01,06 Health,88.6
+2005-07-01,07 Transport,90.3
+2005-07-01,08 Communication,119.7
+2005-07-01,09 Recreation and culture,98.3
+2005-07-01,10 Education,69.0
+2005-07-01,11 Restaurants and hotels,78.3
+2005-07-01,12 Miscellaneous goods and services,80.4
+2005-08-01,00 Total,84.1
+2005-08-01,01 Food and non-alcoholic beverages,79.8
+2005-08-01,02 Alcoholic beverages and tobacco,73.1
+2005-08-01,03 Clothing and footwear,93.3
+2005-08-01,04 Housing and utilities,78.7
+2005-08-01,05 Furnishings and household equipment,91.1
+2005-08-01,06 Health,89.2
+2005-08-01,07 Transport,90.4
+2005-08-01,08 Communication,119.3
+2005-08-01,09 Recreation and culture,96.6
+2005-08-01,10 Education,69.0
+2005-08-01,11 Restaurants and hotels,78.4
+2005-08-01,12 Miscellaneous goods and services,80.4
+2005-09-01,00 Total,84.7
+2005-09-01,01 Food and non-alcoholic beverages,79.5
+2005-09-01,02 Alcoholic beverages and tobacco,73.2
+2005-09-01,03 Clothing and footwear,102.6
+2005-09-01,04 Housing and utilities,78.9
+2005-09-01,05 Furnishings and household equipment,91.4
+2005-09-01,06 Health,89.3
+2005-09-01,07 Transport,91.7
+2005-09-01,08 Communication,118.8
+2005-09-01,09 Recreation and culture,96.8
+2005-09-01,10 Education,68.8
+2005-09-01,11 Restaurants and hotels,78.5
+2005-09-01,12 Miscellaneous goods and services,80.5
+2005-10-01,00 Total,84.7
+2005-10-01,01 Food and non-alcoholic beverages,79.1
+2005-10-01,02 Alcoholic beverages and tobacco,72.9
+2005-10-01,03 Clothing and footwear,103.8
+2005-10-01,04 Housing and utilities,79.1
+2005-10-01,05 Furnishings and household equipment,91.4
+2005-10-01,06 Health,88.9
+2005-10-01,07 Transport,91.0
+2005-10-01,08 Communication,119.0
+2005-10-01,09 Recreation and culture,96.6
+2005-10-01,10 Education,69.3
+2005-10-01,11 Restaurants and hotels,78.8
+2005-10-01,12 Miscellaneous goods and services,80.5
+2005-11-01,00 Total,84.4
+2005-11-01,01 Food and non-alcoholic beverages,78.9
+2005-11-01,02 Alcoholic beverages and tobacco,73.2
+2005-11-01,03 Clothing and footwear,103.0
+2005-11-01,04 Housing and utilities,79.0
+2005-11-01,05 Furnishings and household equipment,91.5
+2005-11-01,06 Health,88.8
+2005-11-01,07 Transport,89.7
+2005-11-01,08 Communication,118.8
+2005-11-01,09 Recreation and culture,96.5
+2005-11-01,10 Education,69.3
+2005-11-01,11 Restaurants and hotels,78.9
+2005-11-01,12 Miscellaneous goods and services,80.6
+2005-12-01,00 Total,84.5
+2005-12-01,01 Food and non-alcoholic beverages,79.3
+2005-12-01,02 Alcoholic beverages and tobacco,73.4
+2005-12-01,03 Clothing and footwear,103.1
+2005-12-01,04 Housing and utilities,78.9
+2005-12-01,05 Furnishings and household equipment,91.4
+2005-12-01,06 Health,88.4
+2005-12-01,07 Transport,89.5
+2005-12-01,08 Communication,118.7
+2005-12-01,09 Recreation and culture,97.1
+2005-12-01,10 Education,69.3
+2005-12-01,11 Restaurants and hotels,78.9
+2005-12-01,12 Miscellaneous goods and services,80.7
+2006-01-01,00 Total,84.2
+2006-01-01,01 Food and non-alcoholic beverages,79.2
+2006-01-01,02 Alcoholic beverages and tobacco,72.9
+2006-01-01,03 Clothing and footwear,87.8
+2006-01-01,04 Housing and utilities,79.2
+2006-01-01,05 Furnishings and household equipment,91.4
+2006-01-01,06 Health,88.4
+2006-01-01,07 Transport,90.6
+2006-01-01,08 Communication,119.6
+2006-01-01,09 Recreation and culture,97.5
+2006-01-01,10 Education,69.3
+2006-01-01,11 Restaurants and hotels,79.2
+2006-01-01,12 Miscellaneous goods and services,81.7
+2006-02-01,00 Total,85.0
+2006-02-01,01 Food and non-alcoholic beverages,80.0
+2006-02-01,02 Alcoholic beverages and tobacco,73.5
+2006-02-01,03 Clothing and footwear,93.3
+2006-02-01,04 Housing and utilities,80.3
+2006-02-01,05 Furnishings and household equipment,91.6
+2006-02-01,06 Health,88.2
+2006-02-01,07 Transport,90.3
+2006-02-01,08 Communication,119.0
+2006-02-01,09 Recreation and culture,98.5
+2006-02-01,10 Education,70.2
+2006-02-01,11 Restaurants and hotels,79.2
+2006-02-01,12 Miscellaneous goods and services,81.8
+2006-03-01,00 Total,85.3
+2006-03-01,01 Food and non-alcoholic beverages,80.2
+2006-03-01,02 Alcoholic beverages and tobacco,74.2
+2006-03-01,03 Clothing and footwear,99.6
+2006-03-01,04 Housing and utilities,80.4
+2006-03-01,05 Furnishings and household equipment,91.6
+2006-03-01,06 Health,87.8
+2006-03-01,07 Transport,90.5
+2006-03-01,08 Communication,116.7
+2006-03-01,09 Recreation and culture,97.9
+2006-03-01,10 Education,70.2
+2006-03-01,11 Restaurants and hotels,79.4
+2006-03-01,12 Miscellaneous goods and services,82.0
+2006-04-01,00 Total,85.7
+2006-04-01,01 Food and non-alcoholic beverages,80.3
+2006-04-01,02 Alcoholic beverages and tobacco,73.3
+2006-04-01,03 Clothing and footwear,102.0
+2006-04-01,04 Housing and utilities,80.7
+2006-04-01,05 Furnishings and household equipment,91.8
+2006-04-01,06 Health,88.2
+2006-04-01,07 Transport,91.7
+2006-04-01,08 Communication,117.3
+2006-04-01,09 Recreation and culture,98.7
+2006-04-01,10 Education,70.2
+2006-04-01,11 Restaurants and hotels,79.7
+2006-04-01,12 Miscellaneous goods and services,81.7
+2006-05-01,00 Total,85.8
+2006-05-01,01 Food and non-alcoholic beverages,80.9
+2006-05-01,02 Alcoholic beverages and tobacco,73.4
+2006-05-01,03 Clothing and footwear,101.8
+2006-05-01,04 Housing and utilities,80.8
+2006-05-01,05 Furnishings and household equipment,91.8
+2006-05-01,06 Health,88.1
+2006-05-01,07 Transport,92.1
+2006-05-01,08 Communication,116.5
+2006-05-01,09 Recreation and culture,98.7
+2006-05-01,10 Education,70.2
+2006-05-01,11 Restaurants and hotels,80.1
+2006-05-01,12 Miscellaneous goods and services,81.3
+2006-06-01,00 Total,86.0
+2006-06-01,01 Food and non-alcoholic beverages,81.8
+2006-06-01,02 Alcoholic beverages and tobacco,74.0
+2006-06-01,03 Clothing and footwear,99.9
+2006-06-01,04 Housing and utilities,80.9
+2006-06-01,05 Furnishings and household equipment,92.1
+2006-06-01,06 Health,87.8
+2006-06-01,07 Transport,92.4
+2006-06-01,08 Communication,116.5
+2006-06-01,09 Recreation and culture,98.9
+2006-06-01,10 Education,71.1
+2006-06-01,11 Restaurants and hotels,80.2
+2006-06-01,12 Miscellaneous goods and services,81.4
+2006-07-01,00 Total,85.8
+2006-07-01,01 Food and non-alcoholic beverages,82.0
+2006-07-01,02 Alcoholic beverages and tobacco,74.5
+2006-07-01,03 Clothing and footwear,87.5
+2006-07-01,04 Housing and utilities,81.0
+2006-07-01,05 Furnishings and household equipment,91.9
+2006-07-01,06 Health,88.2
+2006-07-01,07 Transport,93.3
+2006-07-01,08 Communication,117.6
+2006-07-01,09 Recreation and culture,100.3
+2006-07-01,10 Education,71.1
+2006-07-01,11 Restaurants and hotels,80.4
+2006-07-01,12 Miscellaneous goods and services,81.3
+2006-08-01,00 Total,85.8
+2006-08-01,01 Food and non-alcoholic beverages,82.3
+2006-08-01,02 Alcoholic beverages and tobacco,73.5
+2006-08-01,03 Clothing and footwear,91.2
+2006-08-01,04 Housing and utilities,81.0
+2006-08-01,05 Furnishings and household equipment,92.0
+2006-08-01,06 Health,88.2
+2006-08-01,07 Transport,93.3
+2006-08-01,08 Communication,117.2
+2006-08-01,09 Recreation and culture,98.0
+2006-08-01,10 Education,71.1
+2006-08-01,11 Restaurants and hotels,80.6
+2006-08-01,12 Miscellaneous goods and services,81.4
+2006-09-01,00 Total,86.1
+2006-09-01,01 Food and non-alcoholic beverages,82.4
+2006-09-01,02 Alcoholic beverages and tobacco,74.1
+2006-09-01,03 Clothing and footwear,100.8
+2006-09-01,04 Housing and utilities,81.0
+2006-09-01,05 Furnishings and household equipment,92.2
+2006-09-01,06 Health,89.4
+2006-09-01,07 Transport,91.2
+2006-09-01,08 Communication,117.0
+2006-09-01,09 Recreation and culture,98.7
+2006-09-01,10 Education,71.8
+2006-09-01,11 Restaurants and hotels,80.6
+2006-09-01,12 Miscellaneous goods and services,81.5
+2006-10-01,00 Total,86.0
+2006-10-01,01 Food and non-alcoholic beverages,81.8
+2006-10-01,02 Alcoholic beverages and tobacco,74.1
+2006-10-01,03 Clothing and footwear,102.4
+2006-10-01,04 Housing and utilities,81.0
+2006-10-01,05 Furnishings and household equipment,92.5
+2006-10-01,06 Health,89.9
+2006-10-01,07 Transport,90.5
+2006-10-01,08 Communication,118.5
+2006-10-01,09 Recreation and culture,97.8
+2006-10-01,10 Education,72.8
+2006-10-01,11 Restaurants and hotels,80.9
+2006-10-01,12 Miscellaneous goods and services,81.6
+2006-11-01,00 Total,85.9
+2006-11-01,01 Food and non-alcoholic beverages,82.6
+2006-11-01,02 Alcoholic beverages and tobacco,74.1
+2006-11-01,03 Clothing and footwear,101.2
+2006-11-01,04 Housing and utilities,80.8
+2006-11-01,05 Furnishings and household equipment,92.2
+2006-11-01,06 Health,89.9
+2006-11-01,07 Transport,90.7
+2006-11-01,08 Communication,118.1
+2006-11-01,09 Recreation and culture,97.1
+2006-11-01,10 Education,72.8
+2006-11-01,11 Restaurants and hotels,81.0
+2006-11-01,12 Miscellaneous goods and services,81.7
+2006-12-01,00 Total,86.0
+2006-12-01,01 Food and non-alcoholic beverages,83.0
+2006-12-01,02 Alcoholic beverages and tobacco,73.9
+2006-12-01,03 Clothing and footwear,101.5
+2006-12-01,04 Housing and utilities,80.8
+2006-12-01,05 Furnishings and household equipment,92.3
+2006-12-01,06 Health,89.4
+2006-12-01,07 Transport,90.7
+2006-12-01,08 Communication,116.8
+2006-12-01,09 Recreation and culture,96.8
+2006-12-01,10 Education,72.8
+2006-12-01,11 Restaurants and hotels,81.1
+2006-12-01,12 Miscellaneous goods and services,81.7
+2007-01-01,00 Total,85.7
+2007-01-01,01 Food and non-alcoholic beverages,83.6
+2007-01-01,02 Alcoholic beverages and tobacco,74.3
+2007-01-01,03 Clothing and footwear,85.7
+2007-01-01,04 Housing and utilities,81.4
+2007-01-01,05 Furnishings and household equipment,92.2
+2007-01-01,06 Health,89.4
+2007-01-01,07 Transport,90.6
+2007-01-01,08 Communication,117.3
+2007-01-01,09 Recreation and culture,97.8
+2007-01-01,10 Education,73.2
+2007-01-01,11 Restaurants and hotels,81.3
+2007-01-01,12 Miscellaneous goods and services,82.3
+2007-02-01,00 Total,86.6
+2007-02-01,01 Food and non-alcoholic beverages,83.9
+2007-02-01,02 Alcoholic beverages and tobacco,74.9
+2007-02-01,03 Clothing and footwear,91.3
+2007-02-01,04 Housing and utilities,82.6
+2007-02-01,05 Furnishings and household equipment,92.5
+2007-02-01,06 Health,89.1
+2007-02-01,07 Transport,91.5
+2007-02-01,08 Communication,117.4
+2007-02-01,09 Recreation and culture,98.7
+2007-02-01,10 Education,73.2
+2007-02-01,11 Restaurants and hotels,81.5
+2007-02-01,12 Miscellaneous goods and services,82.4
+2007-03-01,00 Total,87.0
+2007-03-01,01 Food and non-alcoholic beverages,83.7
+2007-03-01,02 Alcoholic beverages and tobacco,75.3
+2007-03-01,03 Clothing and footwear,99.2
+2007-03-01,04 Housing and utilities,82.6
+2007-03-01,05 Furnishings and household equipment,92.9
+2007-03-01,06 Health,88.8
+2007-03-01,07 Transport,92.3
+2007-03-01,08 Communication,117.1
+2007-03-01,09 Recreation and culture,98.1
+2007-03-01,10 Education,73.2
+2007-03-01,11 Restaurants and hotels,81.5
+2007-03-01,12 Miscellaneous goods and services,82.1
+2007-04-01,00 Total,87.1
+2007-04-01,01 Food and non-alcoholic beverages,84.4
+2007-04-01,02 Alcoholic beverages and tobacco,75.5
+2007-04-01,03 Clothing and footwear,101.4
+2007-04-01,04 Housing and utilities,82.1
+2007-04-01,05 Furnishings and household equipment,93.4
+2007-04-01,06 Health,89.7
+2007-04-01,07 Transport,92.8
+2007-04-01,08 Communication,117.3
+2007-04-01,09 Recreation and culture,98.0
+2007-04-01,10 Education,73.2
+2007-04-01,11 Restaurants and hotels,81.6
+2007-04-01,12 Miscellaneous goods and services,82.2
+2007-05-01,00 Total,87.3
+2007-05-01,01 Food and non-alcoholic beverages,84.7
+2007-05-01,02 Alcoholic beverages and tobacco,74.7
+2007-05-01,03 Clothing and footwear,101.5
+2007-05-01,04 Housing and utilities,82.2
+2007-05-01,05 Furnishings and household equipment,93.1
+2007-05-01,06 Health,89.7
+2007-05-01,07 Transport,93.8
+2007-05-01,08 Communication,116.6
+2007-05-01,09 Recreation and culture,98.0
+2007-05-01,10 Education,73.2
+2007-05-01,11 Restaurants and hotels,82.1
+2007-05-01,12 Miscellaneous goods and services,82.4
+2007-06-01,00 Total,87.2
+2007-06-01,01 Food and non-alcoholic beverages,84.1
+2007-06-01,02 Alcoholic beverages and tobacco,74.8
+2007-06-01,03 Clothing and footwear,99.8
+2007-06-01,04 Housing and utilities,82.3
+2007-06-01,05 Furnishings and household equipment,93.0
+2007-06-01,06 Health,89.2
+2007-06-01,07 Transport,93.7
+2007-06-01,08 Communication,117.0
+2007-06-01,09 Recreation and culture,98.1
+2007-06-01,10 Education,74.0
+2007-06-01,11 Restaurants and hotels,82.3
+2007-06-01,12 Miscellaneous goods and services,82.4
+2007-07-01,00 Total,86.8
+2007-07-01,01 Food and non-alcoholic beverages,84.0
+2007-07-01,02 Alcoholic beverages and tobacco,75.0
+2007-07-01,03 Clothing and footwear,86.3
+2007-07-01,04 Housing and utilities,82.4
+2007-07-01,05 Furnishings and household equipment,93.2
+2007-07-01,06 Health,89.2
+2007-07-01,07 Transport,93.9
+2007-07-01,08 Communication,118.1
+2007-07-01,09 Recreation and culture,100.0
+2007-07-01,10 Education,74.0
+2007-07-01,11 Restaurants and hotels,82.4
+2007-07-01,12 Miscellaneous goods and services,81.8
+2007-08-01,00 Total,86.6
+2007-08-01,01 Food and non-alcoholic beverages,83.7
+2007-08-01,02 Alcoholic beverages and tobacco,74.6
+2007-08-01,03 Clothing and footwear,89.5
+2007-08-01,04 Housing and utilities,82.5
+2007-08-01,05 Furnishings and household equipment,93.4
+2007-08-01,06 Health,89.2
+2007-08-01,07 Transport,92.9
+2007-08-01,08 Communication,118.6
+2007-08-01,09 Recreation and culture,98.3
+2007-08-01,10 Education,74.0
+2007-08-01,11 Restaurants and hotels,82.5
+2007-08-01,12 Miscellaneous goods and services,81.8
+2007-09-01,00 Total,87.2
+2007-09-01,01 Food and non-alcoholic beverages,84.8
+2007-09-01,02 Alcoholic beverages and tobacco,74.7
+2007-09-01,03 Clothing and footwear,96.9
+2007-09-01,04 Housing and utilities,82.5
+2007-09-01,05 Furnishings and household equipment,93.5
+2007-09-01,06 Health,89.2
+2007-09-01,07 Transport,93.2
+2007-09-01,08 Communication,117.9
+2007-09-01,09 Recreation and culture,98.2
+2007-09-01,10 Education,75.1
+2007-09-01,11 Restaurants and hotels,82.5
+2007-09-01,12 Miscellaneous goods and services,81.9
+2007-10-01,00 Total,87.5
+2007-10-01,01 Food and non-alcoholic beverages,86.2
+2007-10-01,02 Alcoholic beverages and tobacco,75.3
+2007-10-01,03 Clothing and footwear,99.2
+2007-10-01,04 Housing and utilities,82.4
+2007-10-01,05 Furnishings and household equipment,93.6
+2007-10-01,06 Health,88.7
+2007-10-01,07 Transport,92.8
+2007-10-01,08 Communication,118.3
+2007-10-01,09 Recreation and culture,99.0
+2007-10-01,10 Education,76.2
+2007-10-01,11 Restaurants and hotels,83.0
+2007-10-01,12 Miscellaneous goods and services,81.2
+2007-11-01,00 Total,88.0
+2007-11-01,01 Food and non-alcoholic beverages,88.3
+2007-11-01,02 Alcoholic beverages and tobacco,75.6
+2007-11-01,03 Clothing and footwear,99.0
+2007-11-01,04 Housing and utilities,82.8
+2007-11-01,05 Furnishings and household equipment,93.4
+2007-11-01,06 Health,88.8
+2007-11-01,07 Transport,94.5
+2007-11-01,08 Communication,117.5
+2007-11-01,09 Recreation and culture,98.8
+2007-11-01,10 Education,76.2
+2007-11-01,11 Restaurants and hotels,83.3
+2007-11-01,12 Miscellaneous goods and services,81.4
+2007-12-01,00 Total,88.0
+2007-12-01,01 Food and non-alcoholic beverages,88.7
+2007-12-01,02 Alcoholic beverages and tobacco,75.5
+2007-12-01,03 Clothing and footwear,98.6
+2007-12-01,04 Housing and utilities,82.7
+2007-12-01,05 Furnishings and household equipment,93.6
+2007-12-01,06 Health,89.1
+2007-12-01,07 Transport,93.7
+2007-12-01,08 Communication,117.3
+2007-12-01,09 Recreation and culture,98.9
+2007-12-01,10 Education,76.2
+2007-12-01,11 Restaurants and hotels,83.4
+2007-12-01,12 Miscellaneous goods and services,81.4
+2008-01-01,00 Total,88.2
+2008-01-01,01 Food and non-alcoholic beverages,89.5
+2008-01-01,02 Alcoholic beverages and tobacco,76.5
+2008-01-01,03 Clothing and footwear,84.5
+2008-01-01,04 Housing and utilities,84.0
+2008-01-01,05 Furnishings and household equipment,93.5
+2008-01-01,06 Health,88.7
+2008-01-01,07 Transport,95.0
+2008-01-01,08 Communication,119.4
+2008-01-01,09 Recreation and culture,98.8
+2008-01-01,10 Education,76.7
+2008-01-01,11 Restaurants and hotels,84.0
+2008-01-01,12 Miscellaneous goods and services,82.5
+2008-02-01,00 Total,89.3
+2008-02-01,01 Food and non-alcoholic beverages,89.7
+2008-02-01,02 Alcoholic beverages and tobacco,76.5
+2008-02-01,03 Clothing and footwear,93.5
+2008-02-01,04 Housing and utilities,85.3
+2008-02-01,05 Furnishings and household equipment,94.0
+2008-02-01,06 Health,88.2
+2008-02-01,07 Transport,95.1
+2008-02-01,08 Communication,117.9
+2008-02-01,09 Recreation and culture,100.5
+2008-02-01,10 Education,76.7
+2008-02-01,11 Restaurants and hotels,84.6
+2008-02-01,12 Miscellaneous goods and services,82.7
+2008-03-01,00 Total,89.7
+2008-03-01,01 Food and non-alcoholic beverages,90.0
+2008-03-01,02 Alcoholic beverages and tobacco,77.7
+2008-03-01,03 Clothing and footwear,98.1
+2008-03-01,04 Housing and utilities,85.5
+2008-03-01,05 Furnishings and household equipment,94.3
+2008-03-01,06 Health,88.4
+2008-03-01,07 Transport,95.5
+2008-03-01,08 Communication,117.8
+2008-03-01,09 Recreation and culture,99.3
+2008-03-01,10 Education,76.7
+2008-03-01,11 Restaurants and hotels,84.9
+2008-03-01,12 Miscellaneous goods and services,83.3
+2008-04-01,00 Total,90.0
+2008-04-01,01 Food and non-alcoholic beverages,90.9
+2008-04-01,02 Alcoholic beverages and tobacco,78.3
+2008-04-01,03 Clothing and footwear,98.8
+2008-04-01,04 Housing and utilities,85.6
+2008-04-01,05 Furnishings and household equipment,94.6
+2008-04-01,06 Health,89.5
+2008-04-01,07 Transport,95.9
+2008-04-01,08 Communication,117.3
+2008-04-01,09 Recreation and culture,99.0
+2008-04-01,10 Education,76.7
+2008-04-01,11 Restaurants and hotels,85.3
+2008-04-01,12 Miscellaneous goods and services,83.6
+2008-05-01,00 Total,90.3
+2008-05-01,01 Food and non-alcoholic beverages,91.6
+2008-05-01,02 Alcoholic beverages and tobacco,78.3
+2008-05-01,03 Clothing and footwear,98.8
+2008-05-01,04 Housing and utilities,85.6
+2008-05-01,05 Furnishings and household equipment,95.1
+2008-05-01,06 Health,88.9
+2008-05-01,07 Transport,97.2
+2008-05-01,08 Communication,117.1
+2008-05-01,09 Recreation and culture,98.8
+2008-05-01,10 Education,76.7
+2008-05-01,11 Restaurants and hotels,86.0
+2008-05-01,12 Miscellaneous goods and services,83.8
+2008-06-01,00 Total,90.5
+2008-06-01,01 Food and non-alcoholic beverages,92.0
+2008-06-01,02 Alcoholic beverages and tobacco,78.4
+2008-06-01,03 Clothing and footwear,97.7
+2008-06-01,04 Housing and utilities,85.9
+2008-06-01,05 Furnishings and household equipment,95.0
+2008-06-01,06 Health,88.9
+2008-06-01,07 Transport,98.3
+2008-06-01,08 Communication,117.2
+2008-06-01,09 Recreation and culture,98.8
+2008-06-01,10 Education,76.7
+2008-06-01,11 Restaurants and hotels,86.3
+2008-06-01,12 Miscellaneous goods and services,83.9
+2008-07-01,00 Total,90.3
+2008-07-01,01 Food and non-alcoholic beverages,92.5
+2008-07-01,02 Alcoholic beverages and tobacco,78.5
+2008-07-01,03 Clothing and footwear,81.9
+2008-07-01,04 Housing and utilities,86.5
+2008-07-01,05 Furnishings and household equipment,95.0
+2008-07-01,06 Health,88.9
+2008-07-01,07 Transport,98.9
+2008-07-01,08 Communication,118.8
+2008-07-01,09 Recreation and culture,99.5
+2008-07-01,10 Education,76.9
+2008-07-01,11 Restaurants and hotels,86.6
+2008-07-01,12 Miscellaneous goods and services,84.1
+2008-08-01,00 Total,90.4
+2008-08-01,01 Food and non-alcoholic beverages,92.5
+2008-08-01,02 Alcoholic beverages and tobacco,78.8
+2008-08-01,03 Clothing and footwear,91.3
+2008-08-01,04 Housing and utilities,86.2
+2008-08-01,05 Furnishings and household equipment,95.5
+2008-08-01,06 Health,89.1
+2008-08-01,07 Transport,97.5
+2008-08-01,08 Communication,117.8
+2008-08-01,09 Recreation and culture,98.6
+2008-08-01,10 Education,76.9
+2008-08-01,11 Restaurants and hotels,86.8
+2008-08-01,12 Miscellaneous goods and services,84.3
+2008-09-01,00 Total,90.8
+2008-09-01,01 Food and non-alcoholic beverages,92.1
+2008-09-01,02 Alcoholic beverages and tobacco,79.1
+2008-09-01,03 Clothing and footwear,99.4
+2008-09-01,04 Housing and utilities,85.9
+2008-09-01,05 Furnishings and household equipment,95.9
+2008-09-01,06 Health,90.4
+2008-09-01,07 Transport,98.0
+2008-09-01,08 Communication,118.0
+2008-09-01,09 Recreation and culture,98.8
+2008-09-01,10 Education,77.6
+2008-09-01,11 Restaurants and hotels,87.3
+2008-09-01,12 Miscellaneous goods and services,84.3
+2008-10-01,00 Total,90.7
+2008-10-01,01 Food and non-alcoholic beverages,91.7
+2008-10-01,02 Alcoholic beverages and tobacco,78.7
+2008-10-01,03 Clothing and footwear,100.5
+2008-10-01,04 Housing and utilities,86.3
+2008-10-01,05 Furnishings and household equipment,95.7
+2008-10-01,06 Health,91.1
+2008-10-01,07 Transport,95.7
+2008-10-01,08 Communication,117.1
+2008-10-01,09 Recreation and culture,98.9
+2008-10-01,10 Education,79.3
+2008-10-01,11 Restaurants and hotels,87.6
+2008-10-01,12 Miscellaneous goods and services,83.9
+2008-11-01,00 Total,90.4
+2008-11-01,01 Food and non-alcoholic beverages,92.3
+2008-11-01,02 Alcoholic beverages and tobacco,79.4
+2008-11-01,03 Clothing and footwear,99.7
+2008-11-01,04 Housing and utilities,86.0
+2008-11-01,05 Furnishings and household equipment,96.4
+2008-11-01,06 Health,91.1
+2008-11-01,07 Transport,93.5
+2008-11-01,08 Communication,117.3
+2008-11-01,09 Recreation and culture,98.8
+2008-11-01,10 Education,79.3
+2008-11-01,11 Restaurants and hotels,87.9
+2008-11-01,12 Miscellaneous goods and services,83.9
+2008-12-01,00 Total,90.1
+2008-12-01,01 Food and non-alcoholic beverages,92.5
+2008-12-01,02 Alcoholic beverages and tobacco,79.2
+2008-12-01,03 Clothing and footwear,98.6
+2008-12-01,04 Housing and utilities,85.6
+2008-12-01,05 Furnishings and household equipment,96.2
+2008-12-01,06 Health,91.3
+2008-12-01,07 Transport,92.0
+2008-12-01,08 Communication,116.7
+2008-12-01,09 Recreation and culture,98.6
+2008-12-01,10 Education,79.3
+2008-12-01,11 Restaurants and hotels,88.0
+2008-12-01,12 Miscellaneous goods and services,84.0
+2009-01-01,00 Total,89.8
+2009-01-01,01 Food and non-alcoholic beverages,92.9
+2009-01-01,02 Alcoholic beverages and tobacco,79.3
+2009-01-01,03 Clothing and footwear,86.1
+2009-01-01,04 Housing and utilities,85.6
+2009-01-01,05 Furnishings and household equipment,96.3
+2009-01-01,06 Health,91.4
+2009-01-01,07 Transport,92.3
+2009-01-01,08 Communication,116.7
+2009-01-01,09 Recreation and culture,99.2
+2009-01-01,10 Education,80.0
+2009-01-01,11 Restaurants and hotels,88.0
+2009-01-01,12 Miscellaneous goods and services,85.3
+2009-02-01,00 Total,90.9
+2009-02-01,01 Food and non-alcoholic beverages,92.5
+2009-02-01,02 Alcoholic beverages and tobacco,80.0
+2009-02-01,03 Clothing and footwear,89.8
+2009-02-01,04 Housing and utilities,87.6
+2009-02-01,05 Furnishings and household equipment,96.5
+2009-02-01,06 Health,91.3
+2009-02-01,07 Transport,93.3
+2009-02-01,08 Communication,114.0
+2009-02-01,09 Recreation and culture,101.8
+2009-02-01,10 Education,80.0
+2009-02-01,11 Restaurants and hotels,87.9
+2009-02-01,12 Miscellaneous goods and services,85.4
+2009-03-01,00 Total,91.2
+2009-03-01,01 Food and non-alcoholic beverages,92.0
+2009-03-01,02 Alcoholic beverages and tobacco,80.2
+2009-03-01,03 Clothing and footwear,98.5
+2009-03-01,04 Housing and utilities,87.6
+2009-03-01,05 Furnishings and household equipment,97.6
+2009-03-01,06 Health,91.4
+2009-03-01,07 Transport,93.3
+2009-03-01,08 Communication,114.3
+2009-03-01,09 Recreation and culture,99.6
+2009-03-01,10 Education,80.0
+2009-03-01,11 Restaurants and hotels,88.0
+2009-03-01,12 Miscellaneous goods and services,86.4
+2009-04-01,00 Total,91.1
+2009-04-01,01 Food and non-alcoholic beverages,91.6
+2009-04-01,02 Alcoholic beverages and tobacco,80.1
+2009-04-01,03 Clothing and footwear,99.9
+2009-04-01,04 Housing and utilities,87.3
+2009-04-01,05 Furnishings and household equipment,96.4
+2009-04-01,06 Health,92.2
+2009-04-01,07 Transport,93.7
+2009-04-01,08 Communication,113.2
+2009-04-01,09 Recreation and culture,99.3
+2009-04-01,10 Education,80.0
+2009-04-01,11 Restaurants and hotels,88.0
+2009-04-01,12 Miscellaneous goods and services,86.8
+2009-05-01,00 Total,91.4
+2009-05-01,01 Food and non-alcoholic beverages,91.6
+2009-05-01,02 Alcoholic beverages and tobacco,80.3
+2009-05-01,03 Clothing and footwear,100.8
+2009-05-01,04 Housing and utilities,87.3
+2009-05-01,05 Furnishings and household equipment,98.6
+2009-05-01,06 Health,92.1
+2009-05-01,07 Transport,94.2
+2009-05-01,08 Communication,113.0
+2009-05-01,09 Recreation and culture,99.4
+2009-05-01,10 Education,80.0
+2009-05-01,11 Restaurants and hotels,88.1
+2009-05-01,12 Miscellaneous goods and services,87.0
+2009-06-01,00 Total,91.6
+2009-06-01,01 Food and non-alcoholic beverages,91.8
+2009-06-01,02 Alcoholic beverages and tobacco,80.3
+2009-06-01,03 Clothing and footwear,99.1
+2009-06-01,04 Housing and utilities,87.5
+2009-06-01,05 Furnishings and household equipment,99.3
+2009-06-01,06 Health,92.2
+2009-06-01,07 Transport,95.3
+2009-06-01,08 Communication,113.0
+2009-06-01,09 Recreation and culture,99.5
+2009-06-01,10 Education,80.5
+2009-06-01,11 Restaurants and hotels,88.0
+2009-06-01,12 Miscellaneous goods and services,86.9
+2009-07-01,00 Total,91.2
+2009-07-01,01 Food and non-alcoholic beverages,91.7
+2009-07-01,02 Alcoholic beverages and tobacco,80.2
+2009-07-01,03 Clothing and footwear,87.1
+2009-07-01,04 Housing and utilities,87.8
+2009-07-01,05 Furnishings and household equipment,98.0
+2009-07-01,06 Health,92.2
+2009-07-01,07 Transport,94.9
+2009-07-01,08 Communication,114.6
+2009-07-01,09 Recreation and culture,101.0
+2009-07-01,10 Education,80.5
+2009-07-01,11 Restaurants and hotels,88.0
+2009-07-01,12 Miscellaneous goods and services,86.6
+2009-08-01,00 Total,91.4
+2009-08-01,01 Food and non-alcoholic beverages,91.3
+2009-08-01,02 Alcoholic beverages and tobacco,79.9
+2009-08-01,03 Clothing and footwear,92.3
+2009-08-01,04 Housing and utilities,87.9
+2009-08-01,05 Furnishings and household equipment,98.5
+2009-08-01,06 Health,91.9
+2009-08-01,07 Transport,95.8
+2009-08-01,08 Communication,114.9
+2009-08-01,09 Recreation and culture,99.4
+2009-08-01,10 Education,81.0
+2009-08-01,11 Restaurants and hotels,88.1
+2009-08-01,12 Miscellaneous goods and services,86.8
+2009-09-01,00 Total,91.6
+2009-09-01,01 Food and non-alcoholic beverages,90.7
+2009-09-01,02 Alcoholic beverages and tobacco,80.1
+2009-09-01,03 Clothing and footwear,100.7
+2009-09-01,04 Housing and utilities,87.4
+2009-09-01,05 Furnishings and household equipment,98.2
+2009-09-01,06 Health,93.0
+2009-09-01,07 Transport,95.1
+2009-09-01,08 Communication,115.4
+2009-09-01,09 Recreation and culture,99.8
+2009-09-01,10 Education,81.9
+2009-09-01,11 Restaurants and hotels,88.2
+2009-09-01,12 Miscellaneous goods and services,86.7
+2009-10-01,00 Total,91.6
+2009-10-01,01 Food and non-alcoholic beverages,90.3
+2009-10-01,02 Alcoholic beverages and tobacco,80.2
+2009-10-01,03 Clothing and footwear,101.4
+2009-10-01,04 Housing and utilities,87.5
+2009-10-01,05 Furnishings and household equipment,98.6
+2009-10-01,06 Health,93.5
+2009-10-01,07 Transport,94.8
+2009-10-01,08 Communication,114.5
+2009-10-01,09 Recreation and culture,100.3
+2009-10-01,10 Education,82.8
+2009-10-01,11 Restaurants and hotels,88.3
+2009-10-01,12 Miscellaneous goods and services,86.7
+2009-11-01,00 Total,91.6
+2009-11-01,01 Food and non-alcoholic beverages,90.2
+2009-11-01,02 Alcoholic beverages and tobacco,79.8
+2009-11-01,03 Clothing and footwear,101.3
+2009-11-01,04 Housing and utilities,87.5
+2009-11-01,05 Furnishings and household equipment,98.3
+2009-11-01,06 Health,93.8
+2009-11-01,07 Transport,95.5
+2009-11-01,08 Communication,114.3
+2009-11-01,09 Recreation and culture,99.3
+2009-11-01,10 Education,82.8
+2009-11-01,11 Restaurants and hotels,88.5
+2009-11-01,12 Miscellaneous goods and services,86.8
+2009-12-01,00 Total,91.4
+2009-12-01,01 Food and non-alcoholic beverages,89.7
+2009-12-01,02 Alcoholic beverages and tobacco,80.0
+2009-12-01,03 Clothing and footwear,99.7
+2009-12-01,04 Housing and utilities,87.5
+2009-12-01,05 Furnishings and household equipment,97.9
+2009-12-01,06 Health,93.8
+2009-12-01,07 Transport,95.1
+2009-12-01,08 Communication,114.6
+2009-12-01,09 Recreation and culture,99.2
+2009-12-01,10 Education,82.8
+2009-12-01,11 Restaurants and hotels,88.6
+2009-12-01,12 Miscellaneous goods and services,86.9
+2010-01-01,00 Total,91.6
+2010-01-01,01 Food and non-alcoholic beverages,90.4
+2010-01-01,02 Alcoholic beverages and tobacco,84.0
+2010-01-01,03 Clothing and footwear,89.3
+2010-01-01,04 Housing and utilities,88.1
+2010-01-01,05 Furnishings and household equipment,96.7
+2010-01-01,06 Health,93.6
+2010-01-01,07 Transport,96.6
+2010-01-01,08 Communication,112.3
+2010-01-01,09 Recreation and culture,98.9
+2010-01-01,10 Education,83.2
+2010-01-01,11 Restaurants and hotels,88.8
+2010-01-01,12 Miscellaneous goods and services,88.5
+2010-02-01,00 Total,92.7
+2010-02-01,01 Food and non-alcoholic beverages,90.7
+2010-02-01,02 Alcoholic beverages and tobacco,84.2
+2010-02-01,03 Clothing and footwear,93.2
+2010-02-01,04 Housing and utilities,90.4
+2010-02-01,05 Furnishings and household equipment,98.4
+2010-02-01,06 Health,93.7
+2010-02-01,07 Transport,96.6
+2010-02-01,08 Communication,112.7
+2010-02-01,09 Recreation and culture,100.1
+2010-02-01,10 Education,83.2
+2010-02-01,11 Restaurants and hotels,89.0
+2010-02-01,12 Miscellaneous goods and services,88.6
+2010-03-01,00 Total,93.3
+2010-03-01,01 Food and non-alcoholic beverages,91.5
+2010-03-01,02 Alcoholic beverages and tobacco,84.3
+2010-03-01,03 Clothing and footwear,99.8
+2010-03-01,04 Housing and utilities,90.5
+2010-03-01,05 Furnishings and household equipment,98.7
+2010-03-01,06 Health,93.5
+2010-03-01,07 Transport,97.6
+2010-03-01,08 Communication,111.4
+2010-03-01,09 Recreation and culture,99.6
+2010-03-01,10 Education,83.2
+2010-03-01,11 Restaurants and hotels,89.2
+2010-03-01,12 Miscellaneous goods and services,88.8
+2010-04-01,00 Total,93.4
+2010-04-01,01 Food and non-alcoholic beverages,91.4
+2010-04-01,02 Alcoholic beverages and tobacco,84.4
+2010-04-01,03 Clothing and footwear,100.5
+2010-04-01,04 Housing and utilities,90.8
+2010-04-01,05 Furnishings and household equipment,98.0
+2010-04-01,06 Health,93.6
+2010-04-01,07 Transport,97.9
+2010-04-01,08 Communication,111.6
+2010-04-01,09 Recreation and culture,99.3
+2010-04-01,10 Education,83.2
+2010-04-01,11 Restaurants and hotels,89.3
+2010-04-01,12 Miscellaneous goods and services,89.4
+2010-05-01,00 Total,93.4
+2010-05-01,01 Food and non-alcoholic beverages,91.1
+2010-05-01,02 Alcoholic beverages and tobacco,84.4
+2010-05-01,03 Clothing and footwear,100.2
+2010-05-01,04 Housing and utilities,90.8
+2010-05-01,05 Furnishings and household equipment,97.8
+2010-05-01,06 Health,93.5
+2010-05-01,07 Transport,97.7
+2010-05-01,08 Communication,110.8
+2010-05-01,09 Recreation and culture,99.5
+2010-05-01,10 Education,83.2
+2010-05-01,11 Restaurants and hotels,89.6
+2010-05-01,12 Miscellaneous goods and services,89.8
+2010-06-01,00 Total,93.3
+2010-06-01,01 Food and non-alcoholic beverages,90.9
+2010-06-01,02 Alcoholic beverages and tobacco,84.3
+2010-06-01,03 Clothing and footwear,97.3
+2010-06-01,04 Housing and utilities,90.8
+2010-06-01,05 Furnishings and household equipment,98.3
+2010-06-01,06 Health,93.6
+2010-06-01,07 Transport,97.5
+2010-06-01,08 Communication,110.3
+2010-06-01,09 Recreation and culture,99.7
+2010-06-01,10 Education,83.6
+2010-06-01,11 Restaurants and hotels,89.7
+2010-06-01,12 Miscellaneous goods and services,89.7
+2010-07-01,00 Total,93.2
+2010-07-01,01 Food and non-alcoholic beverages,92.1
+2010-07-01,02 Alcoholic beverages and tobacco,87.5
+2010-07-01,03 Clothing and footwear,85.9
+2010-07-01,04 Housing and utilities,91.3
+2010-07-01,05 Furnishings and household equipment,97.5
+2010-07-01,06 Health,93.6
+2010-07-01,07 Transport,97.2
+2010-07-01,08 Communication,110.1
+2010-07-01,09 Recreation and culture,101.1
+2010-07-01,10 Education,83.6
+2010-07-01,11 Restaurants and hotels,89.7
+2010-07-01,12 Miscellaneous goods and services,90.1
+2010-08-01,00 Total,93.6
+2010-08-01,01 Food and non-alcoholic beverages,92.6
+2010-08-01,02 Alcoholic beverages and tobacco,87.4
+2010-08-01,03 Clothing and footwear,92.6
+2010-08-01,04 Housing and utilities,91.3
+2010-08-01,05 Furnishings and household equipment,98.6
+2010-08-01,06 Health,93.6
+2010-08-01,07 Transport,97.2
+2010-08-01,08 Communication,109.9
+2010-08-01,09 Recreation and culture,100.0
+2010-08-01,10 Education,85.6
+2010-08-01,11 Restaurants and hotels,89.7
+2010-08-01,12 Miscellaneous goods and services,90.1
+2010-09-01,00 Total,93.9
+2010-09-01,01 Food and non-alcoholic beverages,92.2
+2010-09-01,02 Alcoholic beverages and tobacco,87.5
+2010-09-01,03 Clothing and footwear,99.7
+2010-09-01,04 Housing and utilities,90.9
+2010-09-01,05 Furnishings and household equipment,99.2
+2010-09-01,06 Health,93.6
+2010-09-01,07 Transport,97.5
+2010-09-01,08 Communication,110.4
+2010-09-01,09 Recreation and culture,100.8
+2010-09-01,10 Education,85.6
+2010-09-01,11 Restaurants and hotels,89.9
+2010-09-01,12 Miscellaneous goods and services,90.2
+2010-10-01,00 Total,93.8
+2010-10-01,01 Food and non-alcoholic beverages,92.1
+2010-10-01,02 Alcoholic beverages and tobacco,87.2
+2010-10-01,03 Clothing and footwear,100.2
+2010-10-01,04 Housing and utilities,90.9
+2010-10-01,05 Furnishings and household equipment,98.6
+2010-10-01,06 Health,93.9
+2010-10-01,07 Transport,97.5
+2010-10-01,08 Communication,110.0
+2010-10-01,09 Recreation and culture,100.3
+2010-10-01,10 Education,86.5
+2010-10-01,11 Restaurants and hotels,90.0
+2010-10-01,12 Miscellaneous goods and services,90.2
+2010-11-01,00 Total,93.9
+2010-11-01,01 Food and non-alcoholic beverages,92.5
+2010-11-01,02 Alcoholic beverages and tobacco,88.4
+2010-11-01,03 Clothing and footwear,99.2
+2010-11-01,04 Housing and utilities,90.8
+2010-11-01,05 Furnishings and household equipment,98.5
+2010-11-01,06 Health,93.7
+2010-11-01,07 Transport,97.6
+2010-11-01,08 Communication,111.3
+2010-11-01,09 Recreation and culture,100.0
+2010-11-01,10 Education,86.5
+2010-11-01,11 Restaurants and hotels,90.3
+2010-11-01,12 Miscellaneous goods and services,90.3
+2010-12-01,00 Total,94.0
+2010-12-01,01 Food and non-alcoholic beverages,92.9
+2010-12-01,02 Alcoholic beverages and tobacco,88.3
+2010-12-01,03 Clothing and footwear,98.3
+2010-12-01,04 Housing and utilities,91.0
+2010-12-01,05 Furnishings and household equipment,97.8
+2010-12-01,06 Health,94.1
+2010-12-01,07 Transport,98.3
+2010-12-01,08 Communication,111.2
+2010-12-01,09 Recreation and culture,99.9
+2010-12-01,10 Education,86.5
+2010-12-01,11 Restaurants and hotels,90.3
+2010-12-01,12 Miscellaneous goods and services,90.4
+2011-01-01,00 Total,94.1
+2011-01-01,01 Food and non-alcoholic beverages,92.7
+2011-01-01,02 Alcoholic beverages and tobacco,88.0
+2011-01-01,03 Clothing and footwear,85.2
+2011-01-01,04 Housing and utilities,91.7
+2011-01-01,05 Furnishings and household equipment,98.1
+2011-01-01,06 Health,96.6
+2011-01-01,07 Transport,99.3
+2011-01-01,08 Communication,111.8
+2011-01-01,09 Recreation and culture,101.1
+2011-01-01,10 Education,87.5
+2011-01-01,11 Restaurants and hotels,90.7
+2011-01-01,12 Miscellaneous goods and services,91.1
+2011-02-01,00 Total,95.2
+2011-02-01,01 Food and non-alcoholic beverages,93.5
+2011-02-01,02 Alcoholic beverages and tobacco,88.3
+2011-02-01,03 Clothing and footwear,92.6
+2011-02-01,04 Housing and utilities,93.8
+2011-02-01,05 Furnishings and household equipment,98.8
+2011-02-01,06 Health,97.0
+2011-02-01,07 Transport,99.5
+2011-02-01,08 Communication,112.8
+2011-02-01,09 Recreation and culture,101.3
+2011-02-01,10 Education,87.5
+2011-02-01,11 Restaurants and hotels,90.8
+2011-02-01,12 Miscellaneous goods and services,91.2
+2011-03-01,00 Total,95.8
+2011-03-01,01 Food and non-alcoholic beverages,94.1
+2011-03-01,02 Alcoholic beverages and tobacco,88.5
+2011-03-01,03 Clothing and footwear,98.5
+2011-03-01,04 Housing and utilities,94.0
+2011-03-01,05 Furnishings and household equipment,99.7
+2011-03-01,06 Health,96.6
+2011-03-01,07 Transport,100.2
+2011-03-01,08 Communication,113.3
+2011-03-01,09 Recreation and culture,100.7
+2011-03-01,10 Education,87.5
+2011-03-01,11 Restaurants and hotels,91.2
+2011-03-01,12 Miscellaneous goods and services,91.3
+2011-04-01,00 Total,96.2
+2011-04-01,01 Food and non-alcoholic beverages,94.6
+2011-04-01,02 Alcoholic beverages and tobacco,88.9
+2011-04-01,03 Clothing and footwear,101.8
+2011-04-01,04 Housing and utilities,94.2
+2011-04-01,05 Furnishings and household equipment,99.3
+2011-04-01,06 Health,96.4
+2011-04-01,07 Transport,101.2
+2011-04-01,08 Communication,114.6
+2011-04-01,09 Recreation and culture,100.0
+2011-04-01,10 Education,87.5
+2011-04-01,11 Restaurants and hotels,91.5
+2011-04-01,12 Miscellaneous goods and services,91.7
+2011-05-01,00 Total,96.3
+2011-05-01,01 Food and non-alcoholic beverages,95.3
+2011-05-01,02 Alcoholic beverages and tobacco,89.3
+2011-05-01,03 Clothing and footwear,101.5
+2011-05-01,04 Housing and utilities,94.2
+2011-05-01,05 Furnishings and household equipment,100.1
+2011-05-01,06 Health,96.4
+2011-05-01,07 Transport,101.4
+2011-05-01,08 Communication,114.5
+2011-05-01,09 Recreation and culture,99.5
+2011-05-01,10 Education,87.5
+2011-05-01,11 Restaurants and hotels,91.8
+2011-05-01,12 Miscellaneous goods and services,91.9
+2011-06-01,00 Total,96.1
+2011-06-01,01 Food and non-alcoholic beverages,95.9
+2011-06-01,02 Alcoholic beverages and tobacco,89.9
+2011-06-01,03 Clothing and footwear,99.3
+2011-06-01,04 Housing and utilities,94.2
+2011-06-01,05 Furnishings and household equipment,99.7
+2011-06-01,06 Health,96.1
+2011-06-01,07 Transport,100.9
+2011-06-01,08 Communication,115.0
+2011-06-01,09 Recreation and culture,98.5
+2011-06-01,10 Education,87.5
+2011-06-01,11 Restaurants and hotels,91.9
+2011-06-01,12 Miscellaneous goods and services,92.0
+2011-07-01,00 Total,96.0
+2011-07-01,01 Food and non-alcoholic beverages,95.9
+2011-07-01,02 Alcoholic beverages and tobacco,90.1
+2011-07-01,03 Clothing and footwear,88.4
+2011-07-01,04 Housing and utilities,94.9
+2011-07-01,05 Furnishings and household equipment,99.8
+2011-07-01,06 Health,96.5
+2011-07-01,07 Transport,101.1
+2011-07-01,08 Communication,114.7
+2011-07-01,09 Recreation and culture,99.9
+2011-07-01,10 Education,87.5
+2011-07-01,11 Restaurants and hotels,92.1
+2011-07-01,12 Miscellaneous goods and services,92.2
+2011-08-01,00 Total,96.0
+2011-08-01,01 Food and non-alcoholic beverages,95.6
+2011-08-01,02 Alcoholic beverages and tobacco,89.8
+2011-08-01,03 Clothing and footwear,94.0
+2011-08-01,04 Housing and utilities,94.8
+2011-08-01,05 Furnishings and household equipment,99.9
+2011-08-01,06 Health,96.2
+2011-08-01,07 Transport,100.4
+2011-08-01,08 Communication,113.4
+2011-08-01,09 Recreation and culture,98.8
+2011-08-01,10 Education,88.2
+2011-08-01,11 Restaurants and hotels,92.1
+2011-08-01,12 Miscellaneous goods and services,92.2
+2011-09-01,00 Total,96.3
+2011-09-01,01 Food and non-alcoholic beverages,95.1
+2011-09-01,02 Alcoholic beverages and tobacco,89.7
+2011-09-01,03 Clothing and footwear,102.3
+2011-09-01,04 Housing and utilities,94.4
+2011-09-01,05 Furnishings and household equipment,99.9
+2011-09-01,06 Health,96.1
+2011-09-01,07 Transport,100.8
+2011-09-01,08 Communication,113.1
+2011-09-01,09 Recreation and culture,99.4
+2011-09-01,10 Education,89.2
+2011-09-01,11 Restaurants and hotels,92.2
+2011-09-01,12 Miscellaneous goods and services,92.2
+2011-10-01,00 Total,96.4
+2011-10-01,01 Food and non-alcoholic beverages,96.4
+2011-10-01,02 Alcoholic beverages and tobacco,90.0
+2011-10-01,03 Clothing and footwear,102.8
+2011-10-01,04 Housing and utilities,94.4
+2011-10-01,05 Furnishings and household equipment,99.2
+2011-10-01,06 Health,96.0
+2011-10-01,07 Transport,100.7
+2011-10-01,08 Communication,112.6
+2011-10-01,09 Recreation and culture,99.1
+2011-10-01,10 Education,90.6
+2011-10-01,11 Restaurants and hotels,92.5
+2011-10-01,12 Miscellaneous goods and services,92.3
+2011-11-01,00 Total,96.3
+2011-11-01,01 Food and non-alcoholic beverages,97.1
+2011-11-01,02 Alcoholic beverages and tobacco,90.4
+2011-11-01,03 Clothing and footwear,102.5
+2011-11-01,04 Housing and utilities,94.4
+2011-11-01,05 Furnishings and household equipment,99.8
+2011-11-01,06 Health,95.5
+2011-11-01,07 Transport,99.9
+2011-11-01,08 Communication,113.9
+2011-11-01,09 Recreation and culture,98.0
+2011-11-01,10 Education,90.6
+2011-11-01,11 Restaurants and hotels,93.0
+2011-11-01,12 Miscellaneous goods and services,92.4
+2011-12-01,00 Total,96.3
+2011-12-01,01 Food and non-alcoholic beverages,97.8
+2011-12-01,02 Alcoholic beverages and tobacco,90.5
+2011-12-01,03 Clothing and footwear,101.3
+2011-12-01,04 Housing and utilities,94.4
+2011-12-01,05 Furnishings and household equipment,99.0
+2011-12-01,06 Health,96.4
+2011-12-01,07 Transport,99.9
+2011-12-01,08 Communication,113.3
+2011-12-01,09 Recreation and culture,98.1
+2011-12-01,10 Education,90.6
+2011-12-01,11 Restaurants and hotels,93.0
+2011-12-01,12 Miscellaneous goods and services,92.4
+2012-01-01,00 Total,96.7
+2012-01-01,01 Food and non-alcoholic beverages,98.0
+2012-01-01,02 Alcoholic beverages and tobacco,92.3
+2012-01-01,03 Clothing and footwear,90.3
+2012-01-01,04 Housing and utilities,94.8
+2012-01-01,05 Furnishings and household equipment,99.7
+2012-01-01,06 Health,96.7
+2012-01-01,07 Transport,101.1
+2012-01-01,08 Communication,113.9
+2012-01-01,09 Recreation and culture,99.2
+2012-01-01,10 Education,90.9
+2012-01-01,11 Restaurants and hotels,93.3
+2012-01-01,12 Miscellaneous goods and services,95.0
+2012-02-01,00 Total,97.8
+2012-02-01,01 Food and non-alcoholic beverages,98.8
+2012-02-01,02 Alcoholic beverages and tobacco,93.4
+2012-02-01,03 Clothing and footwear,95.1
+2012-02-01,04 Housing and utilities,96.5
+2012-02-01,05 Furnishings and household equipment,100.3
+2012-02-01,06 Health,96.2
+2012-02-01,07 Transport,102.3
+2012-02-01,08 Communication,112.7
+2012-02-01,09 Recreation and culture,100.0
+2012-02-01,10 Education,90.9
+2012-02-01,11 Restaurants and hotels,94.0
+2012-02-01,12 Miscellaneous goods and services,95.1
+2012-03-01,00 Total,98.3
+2012-03-01,01 Food and non-alcoholic beverages,98.9
+2012-03-01,02 Alcoholic beverages and tobacco,93.6
+2012-03-01,03 Clothing and footwear,102.1
+2012-03-01,04 Housing and utilities,96.9
+2012-03-01,05 Furnishings and household equipment,100.1
+2012-03-01,06 Health,95.8
+2012-03-01,07 Transport,103.0
+2012-03-01,08 Communication,112.9
+2012-03-01,09 Recreation and culture,99.8
+2012-03-01,10 Education,90.9
+2012-03-01,11 Restaurants and hotels,94.3
+2012-03-01,12 Miscellaneous goods and services,95.1
+2012-04-01,00 Total,98.3
+2012-04-01,01 Food and non-alcoholic beverages,98.7
+2012-04-01,02 Alcoholic beverages and tobacco,96.1
+2012-04-01,03 Clothing and footwear,103.1
+2012-04-01,04 Housing and utilities,96.6
+2012-04-01,05 Furnishings and household equipment,99.9
+2012-04-01,06 Health,96.7
+2012-04-01,07 Transport,102.9
+2012-04-01,08 Communication,111.7
+2012-04-01,09 Recreation and culture,99.2
+2012-04-01,10 Education,90.9
+2012-04-01,11 Restaurants and hotels,94.4
+2012-04-01,12 Miscellaneous goods and services,95.5
+2012-05-01,00 Total,98.4
+2012-05-01,01 Food and non-alcoholic beverages,99.0
+2012-05-01,02 Alcoholic beverages and tobacco,97.0
+2012-05-01,03 Clothing and footwear,103.4
+2012-05-01,04 Housing and utilities,96.5
+2012-05-01,05 Furnishings and household equipment,100.2
+2012-05-01,06 Health,96.4
+2012-05-01,07 Transport,101.9
+2012-05-01,08 Communication,111.9
+2012-05-01,09 Recreation and culture,98.8
+2012-05-01,10 Education,90.9
+2012-05-01,11 Restaurants and hotels,95.6
+2012-05-01,12 Miscellaneous goods and services,95.9
+2012-06-01,00 Total,98.2
+2012-06-01,01 Food and non-alcoholic beverages,99.9
+2012-06-01,02 Alcoholic beverages and tobacco,97.3
+2012-06-01,03 Clothing and footwear,100.1
+2012-06-01,04 Housing and utilities,96.5
+2012-06-01,05 Furnishings and household equipment,99.6
+2012-06-01,06 Health,96.4
+2012-06-01,07 Transport,101.7
+2012-06-01,08 Communication,107.7
+2012-06-01,09 Recreation and culture,99.1
+2012-06-01,10 Education,90.9
+2012-06-01,11 Restaurants and hotels,95.5
+2012-06-01,12 Miscellaneous goods and services,95.9
+2012-07-01,00 Total,98.2
+2012-07-01,01 Food and non-alcoholic beverages,99.7
+2012-07-01,02 Alcoholic beverages and tobacco,97.4
+2012-07-01,03 Clothing and footwear,90.1
+2012-07-01,04 Housing and utilities,97.1
+2012-07-01,05 Furnishings and household equipment,99.6
+2012-07-01,06 Health,96.4
+2012-07-01,07 Transport,103.0
+2012-07-01,08 Communication,105.9
+2012-07-01,09 Recreation and culture,100.0
+2012-07-01,10 Education,90.9
+2012-07-01,11 Restaurants and hotels,95.7
+2012-07-01,12 Miscellaneous goods and services,95.9
+2012-08-01,00 Total,98.5
+2012-08-01,01 Food and non-alcoholic beverages,100.2
+2012-08-01,02 Alcoholic beverages and tobacco,97.5
+2012-08-01,03 Clothing and footwear,93.3
+2012-08-01,04 Housing and utilities,97.2
+2012-08-01,05 Furnishings and household equipment,101.3
+2012-08-01,06 Health,96.3
+2012-08-01,07 Transport,103.6
+2012-08-01,08 Communication,105.8
+2012-08-01,09 Recreation and culture,99.5
+2012-08-01,10 Education,91.5
+2012-08-01,11 Restaurants and hotels,95.9
+2012-08-01,12 Miscellaneous goods and services,96.0
+2012-09-01,00 Total,98.7
+2012-09-01,01 Food and non-alcoholic beverages,99.5
+2012-09-01,02 Alcoholic beverages and tobacco,97.3
+2012-09-01,03 Clothing and footwear,103.1
+2012-09-01,04 Housing and utilities,96.8
+2012-09-01,05 Furnishings and household equipment,101.0
+2012-09-01,06 Health,96.4
+2012-09-01,07 Transport,103.2
+2012-09-01,08 Communication,106.1
+2012-09-01,09 Recreation and culture,99.7
+2012-09-01,10 Education,91.8
+2012-09-01,11 Restaurants and hotels,96.2
+2012-09-01,12 Miscellaneous goods and services,96.0
+2012-10-01,00 Total,98.7
+2012-10-01,01 Food and non-alcoholic beverages,99.5
+2012-10-01,02 Alcoholic beverages and tobacco,97.9
+2012-10-01,03 Clothing and footwear,103.6
+2012-10-01,04 Housing and utilities,96.8
+2012-10-01,05 Furnishings and household equipment,101.0
+2012-10-01,06 Health,96.5
+2012-10-01,07 Transport,102.5
+2012-10-01,08 Communication,106.0
+2012-10-01,09 Recreation and culture,99.5
+2012-10-01,10 Education,93.1
+2012-10-01,11 Restaurants and hotels,96.2
+2012-10-01,12 Miscellaneous goods and services,95.8
+2012-11-01,00 Total,98.5
+2012-11-01,01 Food and non-alcoholic beverages,100.4
+2012-11-01,02 Alcoholic beverages and tobacco,97.7
+2012-11-01,03 Clothing and footwear,103.7
+2012-11-01,04 Housing and utilities,96.6
+2012-11-01,05 Furnishings and household equipment,100.7
+2012-11-01,06 Health,96.5
+2012-11-01,07 Transport,101.5
+2012-11-01,08 Communication,105.8
+2012-11-01,09 Recreation and culture,98.8
+2012-11-01,10 Education,93.1
+2012-11-01,11 Restaurants and hotels,96.5
+2012-11-01,12 Miscellaneous goods and services,95.8
+2012-12-01,00 Total,98.3
+2012-12-01,01 Food and non-alcoholic beverages,100.5
+2012-12-01,02 Alcoholic beverages and tobacco,97.7
+2012-12-01,03 Clothing and footwear,101.5
+2012-12-01,04 Housing and utilities,96.5
+2012-12-01,05 Furnishings and household equipment,100.6
+2012-12-01,06 Health,96.3
+2012-12-01,07 Transport,100.9
+2012-12-01,08 Communication,104.2
+2012-12-01,09 Recreation and culture,98.5
+2012-12-01,10 Education,93.1
+2012-12-01,11 Restaurants and hotels,96.6
+2012-12-01,12 Miscellaneous goods and services,95.7
+2013-01-01,00 Total,97.9
+2013-01-01,01 Food and non-alcoholic beverages,100.2
+2013-01-01,02 Alcoholic beverages and tobacco,97.8
+2013-01-01,03 Clothing and footwear,88.0
+2013-01-01,04 Housing and utilities,97.0
+2013-01-01,05 Furnishings and household equipment,99.8
+2013-01-01,06 Health,96.3
+2013-01-01,07 Transport,101.6
+2013-01-01,08 Communication,104.6
+2013-01-01,09 Recreation and culture,99.9
+2013-01-01,10 Education,93.5
+2013-01-01,11 Restaurants and hotels,96.7
+2013-01-01,12 Miscellaneous goods and services,94.7
+2013-02-01,00 Total,99.0
+2013-02-01,01 Food and non-alcoholic beverages,100.0
+2013-02-01,02 Alcoholic beverages and tobacco,98.0
+2013-02-01,03 Clothing and footwear,94.8
+2013-02-01,04 Housing and utilities,98.7
+2013-02-01,05 Furnishings and household equipment,99.5
+2013-02-01,06 Health,96.5
+2013-02-01,07 Transport,102.5
+2013-02-01,08 Communication,104.7
+2013-02-01,09 Recreation and culture,102.0
+2013-02-01,10 Education,93.5
+2013-02-01,11 Restaurants and hotels,97.0
+2013-02-01,12 Miscellaneous goods and services,94.7
+2013-03-01,00 Total,99.3
+2013-03-01,01 Food and non-alcoholic beverages,100.5
+2013-03-01,02 Alcoholic beverages and tobacco,98.3
+2013-03-01,03 Clothing and footwear,102.6
+2013-03-01,04 Housing and utilities,98.7
+2013-03-01,05 Furnishings and household equipment,100.7
+2013-03-01,06 Health,96.3
+2013-03-01,07 Transport,102.0
+2013-03-01,08 Communication,104.7
+2013-03-01,09 Recreation and culture,100.1
+2013-03-01,10 Education,93.5
+2013-03-01,11 Restaurants and hotels,96.9
+2013-03-01,12 Miscellaneous goods and services,94.7
+2013-04-01,00 Total,99.1
+2013-04-01,01 Food and non-alcoholic beverages,99.8
+2013-04-01,02 Alcoholic beverages and tobacco,98.9
+2013-04-01,03 Clothing and footwear,104.0
+2013-04-01,04 Housing and utilities,98.5
+2013-04-01,05 Furnishings and household equipment,98.7
+2013-04-01,06 Health,96.8
+2013-04-01,07 Transport,101.2
+2013-04-01,08 Communication,106.8
+2013-04-01,09 Recreation and culture,100.0
+2013-04-01,10 Education,93.5
+2013-04-01,11 Restaurants and hotels,97.0
+2013-04-01,12 Miscellaneous goods and services,94.9
+2013-05-01,00 Total,99.2
+2013-05-01,01 Food and non-alcoholic beverages,99.9
+2013-05-01,02 Alcoholic beverages and tobacco,99.0
+2013-05-01,03 Clothing and footwear,102.8
+2013-05-01,04 Housing and utilities,98.6
+2013-05-01,05 Furnishings and household equipment,101.1
+2013-05-01,06 Health,97.0
+2013-05-01,07 Transport,101.2
+2013-05-01,08 Communication,106.7
+2013-05-01,09 Recreation and culture,99.9
+2013-05-01,10 Education,93.5
+2013-05-01,11 Restaurants and hotels,97.3
+2013-05-01,12 Miscellaneous goods and services,95.0
+2013-06-01,00 Total,99.1
+2013-06-01,01 Food and non-alcoholic beverages,100.2
+2013-06-01,02 Alcoholic beverages and tobacco,99.0
+2013-06-01,03 Clothing and footwear,99.2
+2013-06-01,04 Housing and utilities,98.6
+2013-06-01,05 Furnishings and household equipment,99.6
+2013-06-01,06 Health,96.7
+2013-06-01,07 Transport,101.3
+2013-06-01,08 Communication,106.8
+2013-06-01,09 Recreation and culture,100.4
+2013-06-01,10 Education,93.5
+2013-06-01,11 Restaurants and hotels,97.5
+2013-06-01,12 Miscellaneous goods and services,95.5
+2013-07-01,00 Total,98.8
+2013-07-01,01 Food and non-alcoholic beverages,99.8
+2013-07-01,02 Alcoholic beverages and tobacco,99.2
+2013-07-01,03 Clothing and footwear,91.6
+2013-07-01,04 Housing and utilities,98.8
+2013-07-01,05 Furnishings and household equipment,99.9
+2013-07-01,06 Health,97.0
+2013-07-01,07 Transport,102.0
+2013-07-01,08 Communication,106.3
+2013-07-01,09 Recreation and culture,99.7
+2013-07-01,10 Education,93.5
+2013-07-01,11 Restaurants and hotels,97.7
+2013-07-01,12 Miscellaneous goods and services,95.7
+2013-08-01,00 Total,98.9
+2013-08-01,01 Food and non-alcoholic beverages,99.8
+2013-08-01,02 Alcoholic beverages and tobacco,99.2
+2013-08-01,03 Clothing and footwear,96.4
+2013-08-01,04 Housing and utilities,98.7
+2013-08-01,05 Furnishings and household equipment,100.9
+2013-08-01,06 Health,96.8
+2013-08-01,07 Transport,101.6
+2013-08-01,08 Communication,105.9
+2013-08-01,09 Recreation and culture,98.3
+2013-08-01,10 Education,94.5
+2013-08-01,11 Restaurants and hotels,97.7
+2013-08-01,12 Miscellaneous goods and services,95.8
+2013-09-01,00 Total,99.2
+2013-09-01,01 Food and non-alcoholic beverages,100.1
+2013-09-01,02 Alcoholic beverages and tobacco,98.8
+2013-09-01,03 Clothing and footwear,103.2
+2013-09-01,04 Housing and utilities,98.5
+2013-09-01,05 Furnishings and household equipment,101.0
+2013-09-01,06 Health,97.3
+2013-09-01,07 Transport,101.7
+2013-09-01,08 Communication,105.7
+2013-09-01,09 Recreation and culture,98.0
+2013-09-01,10 Education,95.1
+2013-09-01,11 Restaurants and hotels,97.9
+2013-09-01,12 Miscellaneous goods and services,96.1
+2013-10-01,00 Total,99.3
+2013-10-01,01 Food and non-alcoholic beverages,99.3
+2013-10-01,02 Alcoholic beverages and tobacco,98.7
+2013-10-01,03 Clothing and footwear,104.7
+2013-10-01,04 Housing and utilities,98.6
+2013-10-01,05 Furnishings and household equipment,100.1
+2013-10-01,06 Health,98.2
+2013-10-01,07 Transport,101.2
+2013-10-01,08 Communication,106.4
+2013-10-01,09 Recreation and culture,98.7
+2013-10-01,10 Education,96.4
+2013-10-01,11 Restaurants and hotels,98.1
+2013-10-01,12 Miscellaneous goods and services,96.4
+2013-11-01,00 Total,99.1
+2013-11-01,01 Food and non-alcoholic beverages,99.3
+2013-11-01,02 Alcoholic beverages and tobacco,99.2
+2013-11-01,03 Clothing and footwear,103.3
+2013-11-01,04 Housing and utilities,98.5
+2013-11-01,05 Furnishings and household equipment,100.1
+2013-11-01,06 Health,98.9
+2013-11-01,07 Transport,100.7
+2013-11-01,08 Communication,106.3
+2013-11-01,09 Recreation and culture,98.1
+2013-11-01,10 Education,96.4
+2013-11-01,11 Restaurants and hotels,98.3
+2013-11-01,12 Miscellaneous goods and services,96.5
+2013-12-01,00 Total,99.0
+2013-12-01,01 Food and non-alcoholic beverages,99.3
+2013-12-01,02 Alcoholic beverages and tobacco,99.1
+2013-12-01,03 Clothing and footwear,103.1
+2013-12-01,04 Housing and utilities,98.5
+2013-12-01,05 Furnishings and household equipment,99.1
+2013-12-01,06 Health,99.0
+2013-12-01,07 Transport,100.6
+2013-12-01,08 Communication,106.1
+2013-12-01,09 Recreation and culture,98.1
+2013-12-01,10 Education,96.4
+2013-12-01,11 Restaurants and hotels,98.4
+2013-12-01,12 Miscellaneous goods and services,96.4
+2014-01-01,00 Total,98.9
+2014-01-01,01 Food and non-alcoholic beverages,99.2
+2014-01-01,02 Alcoholic beverages and tobacco,100.2
+2014-01-01,03 Clothing and footwear,93.9
+2014-01-01,04 Housing and utilities,98.8
+2014-01-01,05 Furnishings and household equipment,99.0
+2014-01-01,06 Health,98.8
+2014-01-01,07 Transport,100.1
+2014-01-01,08 Communication,106.4
+2014-01-01,09 Recreation and culture,98.9
+2014-01-01,10 Education,96.5
+2014-01-01,11 Restaurants and hotels,98.2
+2014-01-01,12 Miscellaneous goods and services,97.8
+2014-02-01,00 Total,99.5
+2014-02-01,01 Food and non-alcoholic beverages,98.8
+2014-02-01,02 Alcoholic beverages and tobacco,100.5
+2014-02-01,03 Clothing and footwear,96.2
+2014-02-01,04 Housing and utilities,100.1
+2014-02-01,05 Furnishings and household equipment,99.3
+2014-02-01,06 Health,99.2
+2014-02-01,07 Transport,100.8
+2014-02-01,08 Communication,106.3
+2014-02-01,09 Recreation and culture,100.0
+2014-02-01,10 Education,96.5
+2014-02-01,11 Restaurants and hotels,98.1
+2014-02-01,12 Miscellaneous goods and services,97.8
+2014-03-01,00 Total,99.6
+2014-03-01,01 Food and non-alcoholic beverages,98.4
+2014-03-01,02 Alcoholic beverages and tobacco,100.0
+2014-03-01,03 Clothing and footwear,103.0
+2014-03-01,04 Housing and utilities,100.0
+2014-03-01,05 Furnishings and household equipment,99.8
+2014-03-01,06 Health,99.2
+2014-03-01,07 Transport,100.5
+2014-03-01,08 Communication,105.0
+2014-03-01,09 Recreation and culture,99.1
+2014-03-01,10 Education,96.5
+2014-03-01,11 Restaurants and hotels,98.2
+2014-03-01,12 Miscellaneous goods and services,97.7
+2014-04-01,00 Total,99.8
+2014-04-01,01 Food and non-alcoholic beverages,98.4
+2014-04-01,02 Alcoholic beverages and tobacco,99.9
+2014-04-01,03 Clothing and footwear,104.3
+2014-04-01,04 Housing and utilities,100.1
+2014-04-01,05 Furnishings and household equipment,99.0
+2014-04-01,06 Health,99.4
+2014-04-01,07 Transport,100.9
+2014-04-01,08 Communication,104.9
+2014-04-01,09 Recreation and culture,99.0
+2014-04-01,10 Education,96.5
+2014-04-01,11 Restaurants and hotels,98.3
+2014-04-01,12 Miscellaneous goods and services,98.0
+2014-05-01,00 Total,99.7
+2014-05-01,01 Food and non-alcoholic beverages,98.9
+2014-05-01,02 Alcoholic beverages and tobacco,99.4
+2014-05-01,03 Clothing and footwear,103.0
+2014-05-01,04 Housing and utilities,100.1
+2014-05-01,05 Furnishings and household equipment,99.7
+2014-05-01,06 Health,99.3
+2014-05-01,07 Transport,100.5
+2014-05-01,08 Communication,104.6
+2014-05-01,09 Recreation and culture,99.1
+2014-05-01,10 Education,96.5
+2014-05-01,11 Restaurants and hotels,98.8
+2014-05-01,12 Miscellaneous goods and services,98.0
+2014-06-01,00 Total,99.7
+2014-06-01,01 Food and non-alcoholic beverages,99.3
+2014-06-01,02 Alcoholic beverages and tobacco,100.2
+2014-06-01,03 Clothing and footwear,100.8
+2014-06-01,04 Housing and utilities,100.1
+2014-06-01,05 Furnishings and household equipment,97.6
+2014-06-01,06 Health,99.0
+2014-06-01,07 Transport,101.5
+2014-06-01,08 Communication,104.4
+2014-06-01,09 Recreation and culture,98.2
+2014-06-01,10 Education,96.5
+2014-06-01,11 Restaurants and hotels,99.0
+2014-06-01,12 Miscellaneous goods and services,98.0
+2014-07-01,00 Total,99.5
+2014-07-01,01 Food and non-alcoholic beverages,99.7
+2014-07-01,02 Alcoholic beverages and tobacco,99.8
+2014-07-01,03 Clothing and footwear,90.7
+2014-07-01,04 Housing and utilities,100.2
+2014-07-01,05 Furnishings and household equipment,98.9
+2014-07-01,06 Health,99.2
+2014-07-01,07 Transport,102.0
+2014-07-01,08 Communication,103.7
+2014-07-01,09 Recreation and culture,99.6
+2014-07-01,10 Education,96.5
+2014-07-01,11 Restaurants and hotels,98.9
+2014-07-01,12 Miscellaneous goods and services,98.2
+2014-08-01,00 Total,99.4
+2014-08-01,01 Food and non-alcoholic beverages,99.4
+2014-08-01,02 Alcoholic beverages and tobacco,99.5
+2014-08-01,03 Clothing and footwear,93.7
+2014-08-01,04 Housing and utilities,100.2
+2014-08-01,05 Furnishings and household equipment,99.7
+2014-08-01,06 Health,99.2
+2014-08-01,07 Transport,101.4
+2014-08-01,08 Communication,103.9
+2014-08-01,09 Recreation and culture,98.2
+2014-08-01,10 Education,96.9
+2014-08-01,11 Restaurants and hotels,99.1
+2014-08-01,12 Miscellaneous goods and services,97.6
+2014-09-01,00 Total,99.7
+2014-09-01,01 Food and non-alcoholic beverages,99.0
+2014-09-01,02 Alcoholic beverages and tobacco,98.9
+2014-09-01,03 Clothing and footwear,102.3
+2014-09-01,04 Housing and utilities,99.8
+2014-09-01,05 Furnishings and household equipment,99.7
+2014-09-01,06 Health,99.1
+2014-09-01,07 Transport,101.3
+2014-09-01,08 Communication,104.1
+2014-09-01,09 Recreation and culture,98.8
+2014-09-01,10 Education,97.3
+2014-09-01,11 Restaurants and hotels,99.5
+2014-09-01,12 Miscellaneous goods and services,97.6
+2014-10-01,00 Total,99.8
+2014-10-01,01 Food and non-alcoholic beverages,99.2
+2014-10-01,02 Alcoholic beverages and tobacco,99.4
+2014-10-01,03 Clothing and footwear,102.6
+2014-10-01,04 Housing and utilities,100.1
+2014-10-01,05 Furnishings and household equipment,99.0
+2014-10-01,06 Health,99.9
+2014-10-01,07 Transport,100.8
+2014-10-01,08 Communication,103.5
+2014-10-01,09 Recreation and culture,98.7
+2014-10-01,10 Education,98.5
+2014-10-01,11 Restaurants and hotels,99.6
+2014-10-01,12 Miscellaneous goods and services,97.9
+2014-11-01,00 Total,99.6
+2014-11-01,01 Food and non-alcoholic beverages,98.8
+2014-11-01,02 Alcoholic beverages and tobacco,99.1
+2014-11-01,03 Clothing and footwear,103.0
+2014-11-01,04 Housing and utilities,100.0
+2014-11-01,05 Furnishings and household equipment,99.0
+2014-11-01,06 Health,100.2
+2014-11-01,07 Transport,100.1
+2014-11-01,08 Communication,103.0
+2014-11-01,09 Recreation and culture,98.1
+2014-11-01,10 Education,98.5
+2014-11-01,11 Restaurants and hotels,99.7
+2014-11-01,12 Miscellaneous goods and services,97.8
+2014-12-01,00 Total,99.4
+2014-12-01,01 Food and non-alcoholic beverages,98.7
+2014-12-01,02 Alcoholic beverages and tobacco,99.4
+2014-12-01,03 Clothing and footwear,101.2
+2014-12-01,04 Housing and utilities,99.9
+2014-12-01,05 Furnishings and household equipment,99.5
+2014-12-01,06 Health,100.1
+2014-12-01,07 Transport,98.6
+2014-12-01,08 Communication,101.9
+2014-12-01,09 Recreation and culture,99.3
+2014-12-01,10 Education,98.5
+2014-12-01,11 Restaurants and hotels,99.7
+2014-12-01,12 Miscellaneous goods and services,97.8
+2015-01-01,00 Total,98.8
+2015-01-01,01 Food and non-alcoholic beverages,99.5
+2015-01-01,02 Alcoholic beverages and tobacco,99.9
+2015-01-01,03 Clothing and footwear,92.0
+2015-01-01,04 Housing and utilities,99.1
+2015-01-01,05 Furnishings and household equipment,98.1
+2015-01-01,06 Health,99.6
+2015-01-01,07 Transport,97.8
+2015-01-01,08 Communication,101.8
+2015-01-01,09 Recreation and culture,99.6
+2015-01-01,10 Education,99.2
+2015-01-01,11 Restaurants and hotels,99.5
+2015-01-01,12 Miscellaneous goods and services,99.1
+2015-02-01,00 Total,99.8
+2015-02-01,01 Food and non-alcoholic beverages,99.2
+2015-02-01,02 Alcoholic beverages and tobacco,99.8
+2015-02-01,03 Clothing and footwear,96.2
+2015-02-01,04 Housing and utilities,100.3
+2015-02-01,05 Furnishings and household equipment,100.1
+2015-02-01,06 Health,100.0
+2015-02-01,07 Transport,99.8
+2015-02-01,08 Communication,101.7
+2015-02-01,09 Recreation and culture,101.1
+2015-02-01,10 Education,99.2
+2015-02-01,11 Restaurants and hotels,99.2
+2015-02-01,12 Miscellaneous goods and services,99.1
+2015-03-01,00 Total,100.2
+2015-03-01,01 Food and non-alcoholic beverages,99.7
+2015-03-01,02 Alcoholic beverages and tobacco,100.0
+2015-03-01,03 Clothing and footwear,103.7
+2015-03-01,04 Housing and utilities,100.2
+2015-03-01,05 Furnishings and household equipment,100.8
+2015-03-01,06 Health,100.2
+2015-03-01,07 Transport,100.1
+2015-03-01,08 Communication,101.8
+2015-03-01,09 Recreation and culture,100.2
+2015-03-01,10 Education,99.2
+2015-03-01,11 Restaurants and hotels,100.0
+2015-03-01,12 Miscellaneous goods and services,99.2
+2015-04-01,00 Total,100.3
+2015-04-01,01 Food and non-alcoholic beverages,99.8
+2015-04-01,02 Alcoholic beverages and tobacco,100.2
+2015-04-01,03 Clothing and footwear,104.6
+2015-04-01,04 Housing and utilities,100.2
+2015-04-01,05 Furnishings and household equipment,99.1
+2015-04-01,06 Health,100.7
+2015-04-01,07 Transport,101.0
+2015-04-01,08 Communication,101.7
+2015-04-01,09 Recreation and culture,100.4
+2015-04-01,10 Education,99.2
+2015-04-01,11 Restaurants and hotels,99.9
+2015-04-01,12 Miscellaneous goods and services,99.3
+2015-05-01,00 Total,100.4
+2015-05-01,01 Food and non-alcoholic beverages,100.0
+2015-05-01,02 Alcoholic beverages and tobacco,99.8
+2015-05-01,03 Clothing and footwear,103.1
+2015-05-01,04 Housing and utilities,100.2
+2015-05-01,05 Furnishings and household equipment,99.8
+2015-05-01,06 Health,100.5
+2015-05-01,07 Transport,101.3
+2015-05-01,08 Communication,101.4
+2015-05-01,09 Recreation and culture,100.3
+2015-05-01,10 Education,99.2
+2015-05-01,11 Restaurants and hotels,100.2
+2015-05-01,12 Miscellaneous goods and services,99.3
+2015-06-01,00 Total,100.3
+2015-06-01,01 Food and non-alcoholic beverages,100.8
+2015-06-01,02 Alcoholic beverages and tobacco,100.2
+2015-06-01,03 Clothing and footwear,100.9
+2015-06-01,04 Housing and utilities,100.2
+2015-06-01,05 Furnishings and household equipment,99.7
+2015-06-01,06 Health,100.2
+2015-06-01,07 Transport,101.7
+2015-06-01,08 Communication,99.3
+2015-06-01,09 Recreation and culture,99.5
+2015-06-01,10 Education,99.2
+2015-06-01,11 Restaurants and hotels,100.2
+2015-06-01,12 Miscellaneous goods and services,99.3
+2015-07-01,00 Total,100.2
+2015-07-01,01 Food and non-alcoholic beverages,100.7
+2015-07-01,02 Alcoholic beverages and tobacco,100.1
+2015-07-01,03 Clothing and footwear,93.6
+2015-07-01,04 Housing and utilities,100.4
+2015-07-01,05 Furnishings and household equipment,100.5
+2015-07-01,06 Health,99.9
+2015-07-01,07 Transport,102.2
+2015-07-01,08 Communication,99.1
+2015-07-01,09 Recreation and culture,100.4
+2015-07-01,10 Education,99.2
+2015-07-01,11 Restaurants and hotels,99.2
+2015-07-01,12 Miscellaneous goods and services,100.6
+2015-08-01,00 Total,100.0
+2015-08-01,01 Food and non-alcoholic beverages,100.2
+2015-08-01,02 Alcoholic beverages and tobacco,100.0
+2015-08-01,03 Clothing and footwear,95.6
+2015-08-01,04 Housing and utilities,100.3
+2015-08-01,05 Furnishings and household equipment,100.4
+2015-08-01,06 Health,99.8
+2015-08-01,07 Transport,100.6
+2015-08-01,08 Communication,99.0
+2015-08-01,09 Recreation and culture,99.3
+2015-08-01,10 Education,99.8
+2015-08-01,11 Restaurants and hotels,99.9
+2015-08-01,12 Miscellaneous goods and services,100.6
+2015-09-01,00 Total,100.2
+2015-09-01,01 Food and non-alcoholic beverages,100.4
+2015-09-01,02 Alcoholic beverages and tobacco,100.3
+2015-09-01,03 Clothing and footwear,102.0
+2015-09-01,04 Housing and utilities,100.0
+2015-09-01,05 Furnishings and household equipment,101.2
+2015-09-01,06 Health,99.6
+2015-09-01,07 Transport,99.5
+2015-09-01,08 Communication,98.8
+2015-09-01,09 Recreation and culture,99.4
+2015-09-01,10 Education,100.7
+2015-09-01,11 Restaurants and hotels,100.6
+2015-09-01,12 Miscellaneous goods and services,100.7
+2015-10-01,00 Total,100.1
+2015-10-01,01 Food and non-alcoholic beverages,100.4
+2015-10-01,02 Alcoholic beverages and tobacco,100.0
+2015-10-01,03 Clothing and footwear,103.0
+2015-10-01,04 Housing and utilities,99.8
+2015-10-01,05 Furnishings and household equipment,100.2
+2015-10-01,06 Health,100.0
+2015-10-01,07 Transport,99.3
+2015-10-01,08 Communication,98.5
+2015-10-01,09 Recreation and culture,100.0
+2015-10-01,10 Education,101.6
+2015-10-01,11 Restaurants and hotels,100.3
+2015-10-01,12 Miscellaneous goods and services,100.9
+2015-11-01,00 Total,99.9
+2015-11-01,01 Food and non-alcoholic beverages,99.6
+2015-11-01,02 Alcoholic beverages and tobacco,100.0
+2015-11-01,03 Clothing and footwear,102.8
+2015-11-01,04 Housing and utilities,99.7
+2015-11-01,05 Furnishings and household equipment,99.6
+2015-11-01,06 Health,99.9
+2015-11-01,07 Transport,98.9
+2015-11-01,08 Communication,98.6
+2015-11-01,09 Recreation and culture,99.5
+2015-11-01,10 Education,101.6
+2015-11-01,11 Restaurants and hotels,100.4
+2015-11-01,12 Miscellaneous goods and services,101.1
+2015-12-01,00 Total,99.8
+2015-12-01,01 Food and non-alcoholic beverages,99.8
+2015-12-01,02 Alcoholic beverages and tobacco,99.8
+2015-12-01,03 Clothing and footwear,102.4
+2015-12-01,04 Housing and utilities,99.6
+2015-12-01,05 Furnishings and household equipment,100.4
+2015-12-01,06 Health,99.6
+2015-12-01,07 Transport,97.8
+2015-12-01,08 Communication,98.4
+2015-12-01,09 Recreation and culture,100.4
+2015-12-01,10 Education,101.6
+2015-12-01,11 Restaurants and hotels,100.5
+2015-12-01,12 Miscellaneous goods and services,100.9
+2016-01-01,00 Total,99.4
+2016-01-01,01 Food and non-alcoholic beverages,99.4
+2016-01-01,02 Alcoholic beverages and tobacco,100.4
+2016-01-01,03 Clothing and footwear,92.1
+2016-01-01,04 Housing and utilities,99.8
+2016-01-01,05 Furnishings and household equipment,99.5
+2016-01-01,06 Health,99.3
+2016-01-01,07 Transport,97.6
+2016-01-01,08 Communication,99.7
+2016-01-01,09 Recreation and culture,100.5
+2016-01-01,10 Education,101.7
+2016-01-01,11 Restaurants and hotels,100.0
+2016-01-01,12 Miscellaneous goods and services,102.0
+2016-02-01,00 Total,100.1
+2016-02-01,01 Food and non-alcoholic beverages,99.9
+2016-02-01,02 Alcoholic beverages and tobacco,99.8
+2016-02-01,03 Clothing and footwear,94.0
+2016-02-01,04 Housing and utilities,101.0
+2016-02-01,05 Furnishings and household equipment,101.1
+2016-02-01,06 Health,99.1
+2016-02-01,07 Transport,97.4
+2016-02-01,08 Communication,100.1
+2016-02-01,09 Recreation and culture,101.6
+2016-02-01,10 Education,101.7
+2016-02-01,11 Restaurants and hotels,100.5
+2016-02-01,12 Miscellaneous goods and services,101.8
+2016-03-01,00 Total,100.2
+2016-03-01,01 Food and non-alcoholic beverages,99.0
+2016-03-01,02 Alcoholic beverages and tobacco,100.0
+2016-03-01,03 Clothing and footwear,99.5
+2016-03-01,04 Housing and utilities,100.9
+2016-03-01,05 Furnishings and household equipment,100.7
+2016-03-01,06 Health,99.3
+2016-03-01,07 Transport,97.8
+2016-03-01,08 Communication,98.5
+2016-03-01,09 Recreation and culture,100.6
+2016-03-01,10 Education,101.7
+2016-03-01,11 Restaurants and hotels,101.1
+2016-03-01,12 Miscellaneous goods and services,101.9
+2016-04-01,00 Total,100.3
+2016-04-01,01 Food and non-alcoholic beverages,99.5
+2016-04-01,02 Alcoholic beverages and tobacco,100.5
+2016-04-01,03 Clothing and footwear,100.5
+2016-04-01,04 Housing and utilities,100.9
+2016-04-01,05 Furnishings and household equipment,99.4
+2016-04-01,06 Health,99.2
+2016-04-01,07 Transport,98.4
+2016-04-01,08 Communication,98.1
+2016-04-01,09 Recreation and culture,100.8
+2016-04-01,10 Education,101.7
+2016-04-01,11 Restaurants and hotels,102.0
+2016-04-01,12 Miscellaneous goods and services,101.5
+2016-05-01,00 Total,100.5
+2016-05-01,01 Food and non-alcoholic beverages,100.4
+2016-05-01,02 Alcoholic beverages and tobacco,100.2
+2016-05-01,03 Clothing and footwear,100.2
+2016-05-01,04 Housing and utilities,100.9
+2016-05-01,05 Furnishings and household equipment,100.4
+2016-05-01,06 Health,99.2
+2016-05-01,07 Transport,98.6
+2016-05-01,08 Communication,98.1
+2016-05-01,09 Recreation and culture,100.2
+2016-05-01,10 Education,101.7
+2016-05-01,11 Restaurants and hotels,103.1
+2016-05-01,12 Miscellaneous goods and services,102.0
+2016-06-01,00 Total,100.6
+2016-06-01,01 Food and non-alcoholic beverages,100.5
+2016-06-01,02 Alcoholic beverages and tobacco,100.0
+2016-06-01,03 Clothing and footwear,98.5
+2016-06-01,04 Housing and utilities,101.0
+2016-06-01,05 Furnishings and household equipment,100.0
+2016-06-01,06 Health,99.8
+2016-06-01,07 Transport,99.2
+2016-06-01,08 Communication,98.1
+2016-06-01,09 Recreation and culture,100.6
+2016-06-01,10 Education,101.7
+2016-06-01,11 Restaurants and hotels,103.4
+2016-06-01,12 Miscellaneous goods and services,101.7
+2016-07-01,00 Total,100.5
+2016-07-01,01 Food and non-alcoholic beverages,100.5
+2016-07-01,02 Alcoholic beverages and tobacco,100.3
+2016-07-01,03 Clothing and footwear,91.8
+2016-07-01,04 Housing and utilities,100.7
+2016-07-01,05 Furnishings and household equipment,100.3
+2016-07-01,06 Health,99.6
+2016-07-01,07 Transport,99.3
+2016-07-01,08 Communication,89.0
+2016-07-01,09 Recreation and culture,102.3
+2016-07-01,10 Education,101.7
+2016-07-01,11 Restaurants and hotels,107.9
+2016-07-01,12 Miscellaneous goods and services,101.6
+2016-08-01,00 Total,100.2
+2016-08-01,01 Food and non-alcoholic beverages,100.6
+2016-08-01,02 Alcoholic beverages and tobacco,100.9
+2016-08-01,03 Clothing and footwear,95.9
+2016-08-01,04 Housing and utilities,100.7
+2016-08-01,05 Furnishings and household equipment,99.2
+2016-08-01,06 Health,99.6
+2016-08-01,07 Transport,98.4
+2016-08-01,08 Communication,88.6
+2016-08-01,09 Recreation and culture,100.5
+2016-08-01,10 Education,103.2
+2016-08-01,11 Restaurants and hotels,105.5
+2016-08-01,12 Miscellaneous goods and services,101.6
+2016-09-01,00 Total,100.2
+2016-09-01,01 Food and non-alcoholic beverages,100.2
+2016-09-01,02 Alcoholic beverages and tobacco,100.5
+2016-09-01,03 Clothing and footwear,99.0
+2016-09-01,04 Housing and utilities,100.7
+2016-09-01,05 Furnishings and household equipment,98.5
+2016-09-01,06 Health,99.5
+2016-09-01,07 Transport,98.8
+2016-09-01,08 Communication,88.3
+2016-09-01,09 Recreation and culture,100.9
+2016-09-01,10 Education,103.2
+2016-09-01,11 Restaurants and hotels,102.6
+2016-09-01,12 Miscellaneous goods and services,101.8
+2016-10-01,00 Total,100.4
+2016-10-01,01 Food and non-alcoholic beverages,99.8
+2016-10-01,02 Alcoholic beverages and tobacco,100.1
+2016-10-01,03 Clothing and footwear,99.7
+2016-10-01,04 Housing and utilities,100.8
+2016-10-01,05 Furnishings and household equipment,99.9
+2016-10-01,06 Health,100.6
+2016-10-01,07 Transport,99.3
+2016-10-01,08 Communication,88.1
+2016-10-01,09 Recreation and culture,101.4
+2016-10-01,10 Education,104.8
+2016-10-01,11 Restaurants and hotels,102.5
+2016-10-01,12 Miscellaneous goods and services,102.0
+2016-11-01,00 Total,100.3
+2016-11-01,01 Food and non-alcoholic beverages,100.6
+2016-11-01,02 Alcoholic beverages and tobacco,100.4
+2016-11-01,03 Clothing and footwear,99.7
+2016-11-01,04 Housing and utilities,101.1
+2016-11-01,05 Furnishings and household equipment,99.5
+2016-11-01,06 Health,100.5
+2016-11-01,07 Transport,98.1
+2016-11-01,08 Communication,88.3
+2016-11-01,09 Recreation and culture,100.5
+2016-11-01,10 Education,104.8
+2016-11-01,11 Restaurants and hotels,101.6
+2016-11-01,12 Miscellaneous goods and services,102.0
+2016-12-01,00 Total,100.3
+2016-12-01,01 Food and non-alcoholic beverages,100.9
+2016-12-01,02 Alcoholic beverages and tobacco,100.0
+2016-12-01,03 Clothing and footwear,99.4
+2016-12-01,04 Housing and utilities,101.2
+2016-12-01,05 Furnishings and household equipment,99.1
+2016-12-01,06 Health,100.1
+2016-12-01,07 Transport,99.4
+2016-12-01,08 Communication,88.2
+2016-12-01,09 Recreation and culture,99.7
+2016-12-01,10 Education,104.8
+2016-12-01,11 Restaurants and hotels,101.6
+2016-12-01,12 Miscellaneous goods and services,101.8
+2017-01-01,00 Total,100.3
+2017-01-01,01 Food and non-alcoholic beverages,101.4
+2017-01-01,02 Alcoholic beverages and tobacco,101.0
+2017-01-01,03 Clothing and footwear,90.6
+2017-01-01,04 Housing and utilities,101.1
+2017-01-01,05 Furnishings and household equipment,97.7
+2017-01-01,06 Health,100.1
+2017-01-01,07 Transport,100.0
+2017-01-01,08 Communication,88.2
+2017-01-01,09 Recreation and culture,101.7
+2017-01-01,10 Education,105.2
+2017-01-01,11 Restaurants and hotels,101.4
+2017-01-01,12 Miscellaneous goods and services,102.4
+2017-02-01,00 Total,101.1
+2017-02-01,01 Food and non-alcoholic beverages,102.5
+2017-02-01,02 Alcoholic beverages and tobacco,100.7
+2017-02-01,03 Clothing and footwear,93.1
+2017-02-01,04 Housing and utilities,102.4
+2017-02-01,05 Furnishings and household equipment,99.4
+2017-02-01,06 Health,100.0
+2017-02-01,07 Transport,100.5
+2017-02-01,08 Communication,88.4
+2017-02-01,09 Recreation and culture,102.4
+2017-02-01,10 Education,105.2
+2017-02-01,11 Restaurants and hotels,101.3
+2017-02-01,12 Miscellaneous goods and services,102.3
+2017-03-01,00 Total,101.2
+2017-03-01,01 Food and non-alcoholic beverages,101.4
+2017-03-01,02 Alcoholic beverages and tobacco,100.6
+2017-03-01,03 Clothing and footwear,98.9
+2017-03-01,04 Housing and utilities,102.5
+2017-03-01,05 Furnishings and household equipment,99.4
+2017-03-01,06 Health,100.4
+2017-03-01,07 Transport,99.7
+2017-03-01,08 Communication,88.3
+2017-03-01,09 Recreation and culture,101.7
+2017-03-01,10 Education,105.2
+2017-03-01,11 Restaurants and hotels,101.5
+2017-03-01,12 Miscellaneous goods and services,102.6
+2017-04-01,00 Total,101.4
+2017-04-01,01 Food and non-alcoholic beverages,101.5
+2017-04-01,02 Alcoholic beverages and tobacco,100.4
+2017-04-01,03 Clothing and footwear,99.8
+2017-04-01,04 Housing and utilities,102.1
+2017-04-01,05 Furnishings and household equipment,98.9
+2017-04-01,06 Health,100.5
+2017-04-01,07 Transport,100.9
+2017-04-01,08 Communication,87.8
+2017-04-01,09 Recreation and culture,102.3
+2017-04-01,10 Education,105.2
+2017-04-01,11 Restaurants and hotels,103.4
+2017-04-01,12 Miscellaneous goods and services,103.1
+2017-05-01,00 Total,101.3
+2017-05-01,01 Food and non-alcoholic beverages,102.2
+2017-05-01,02 Alcoholic beverages and tobacco,100.4
+2017-05-01,03 Clothing and footwear,99.9
+2017-05-01,04 Housing and utilities,102.0
+2017-05-01,05 Furnishings and household equipment,98.5
+2017-05-01,06 Health,100.4
+2017-05-01,07 Transport,100.1
+2017-05-01,08 Communication,88.1
+2017-05-01,09 Recreation and culture,101.4
+2017-05-01,10 Education,105.2
+2017-05-01,11 Restaurants and hotels,104.5
+2017-05-01,12 Miscellaneous goods and services,103.0
+2017-06-01,00 Total,101.2
+2017-06-01,01 Food and non-alcoholic beverages,102.9
+2017-06-01,02 Alcoholic beverages and tobacco,100.5
+2017-06-01,03 Clothing and footwear,97.6
+2017-06-01,04 Housing and utilities,101.9
+2017-06-01,05 Furnishings and household equipment,97.7
+2017-06-01,06 Health,100.0
+2017-06-01,07 Transport,99.6
+2017-06-01,08 Communication,87.8
+2017-06-01,09 Recreation and culture,101.6
+2017-06-01,10 Education,105.2
+2017-06-01,11 Restaurants and hotels,104.9
+2017-06-01,12 Miscellaneous goods and services,102.9
+2017-07-01,00 Total,102.0
+2017-07-01,01 Food and non-alcoholic beverages,104.6
+2017-07-01,02 Alcoholic beverages and tobacco,101.2
+2017-07-01,03 Clothing and footwear,90.8
+2017-07-01,04 Housing and utilities,101.9
+2017-07-01,05 Furnishings and household equipment,98.4
+2017-07-01,06 Health,100.0
+2017-07-01,07 Transport,100.6
+2017-07-01,08 Communication,87.6
+2017-07-01,09 Recreation and culture,104.5
+2017-07-01,10 Education,105.2
+2017-07-01,11 Restaurants and hotels,111.8
+2017-07-01,12 Miscellaneous goods and services,103.4
+2017-08-01,00 Total,101.7
+2017-08-01,01 Food and non-alcoholic beverages,104.0
+2017-08-01,02 Alcoholic beverages and tobacco,101.3
+2017-08-01,03 Clothing and footwear,93.7
+2017-08-01,04 Housing and utilities,101.9
+2017-08-01,05 Furnishings and household equipment,97.9
+2017-08-01,06 Health,99.9
+2017-08-01,07 Transport,100.2
+2017-08-01,08 Communication,87.4
+2017-08-01,09 Recreation and culture,102.2
+2017-08-01,10 Education,106.7
+2017-08-01,11 Restaurants and hotels,110.7
+2017-08-01,12 Miscellaneous goods and services,103.5
+2017-09-01,00 Total,101.8
+2017-09-01,01 Food and non-alcoholic beverages,103.9
+2017-09-01,02 Alcoholic beverages and tobacco,101.2
+2017-09-01,03 Clothing and footwear,99.3
+2017-09-01,04 Housing and utilities,102.0
+2017-09-01,05 Furnishings and household equipment,98.0
+2017-09-01,06 Health,100.0
+2017-09-01,07 Transport,101.0
+2017-09-01,08 Communication,87.2
+2017-09-01,09 Recreation and culture,102.5
+2017-09-01,10 Education,106.7
+2017-09-01,11 Restaurants and hotels,104.8
+2017-09-01,12 Miscellaneous goods and services,103.5
+2017-10-01,00 Total,101.9
+2017-10-01,01 Food and non-alcoholic beverages,103.7
+2017-10-01,02 Alcoholic beverages and tobacco,101.2
+2017-10-01,03 Clothing and footwear,100.1
+2017-10-01,04 Housing and utilities,102.4
+2017-10-01,05 Furnishings and household equipment,98.8
+2017-10-01,06 Health,101.0
+2017-10-01,07 Transport,100.7
+2017-10-01,08 Communication,87.0
+2017-10-01,09 Recreation and culture,102.2
+2017-10-01,10 Education,107.5
+2017-10-01,11 Restaurants and hotels,104.7
+2017-10-01,12 Miscellaneous goods and services,103.6
+2017-11-01,00 Total,101.6
+2017-11-01,01 Food and non-alcoholic beverages,104.0
+2017-11-01,02 Alcoholic beverages and tobacco,100.9
+2017-11-01,03 Clothing and footwear,100.0
+2017-11-01,04 Housing and utilities,102.3
+2017-11-01,05 Furnishings and household equipment,98.4
+2017-11-01,06 Health,101.0
+2017-11-01,07 Transport,100.3
+2017-11-01,08 Communication,86.7
+2017-11-01,09 Recreation and culture,100.7
+2017-11-01,10 Education,107.5
+2017-11-01,11 Restaurants and hotels,103.6
+2017-11-01,12 Miscellaneous goods and services,103.7
+2017-12-01,00 Total,101.3
+2017-12-01,01 Food and non-alcoholic beverages,102.9
+2017-12-01,02 Alcoholic beverages and tobacco,100.0
+2017-12-01,03 Clothing and footwear,98.3
+2017-12-01,04 Housing and utilities,102.1
+2017-12-01,05 Furnishings and household equipment,97.5
+2017-12-01,06 Health,100.8
+2017-12-01,07 Transport,100.6
+2017-12-01,08 Communication,86.7
+2017-12-01,09 Recreation and culture,100.8
+2017-12-01,10 Education,107.5
+2017-12-01,11 Restaurants and hotels,103.6
+2017-12-01,12 Miscellaneous goods and services,103.5
+2018-01-01,00 Total,101.0
+2018-01-01,01 Food and non-alcoholic beverages,103.0
+2018-01-01,02 Alcoholic beverages and tobacco,101.7
+2018-01-01,03 Clothing and footwear,89.4
+2018-01-01,04 Housing and utilities,102.3
+2018-01-01,05 Furnishings and household equipment,96.7
+2018-01-01,06 Health,100.1
+2018-01-01,07 Transport,100.2
+2018-01-01,08 Communication,86.7
+2018-01-01,09 Recreation and culture,101.1
+2018-01-01,10 Education,108.0
+2018-01-01,11 Restaurants and hotels,103.5
+2018-01-01,12 Miscellaneous goods and services,103.7
+2018-02-01,00 Total,101.7
+2018-02-01,01 Food and non-alcoholic beverages,103.4
+2018-02-01,02 Alcoholic beverages and tobacco,102.3
+2018-02-01,03 Clothing and footwear,93.5
+2018-02-01,04 Housing and utilities,103.1
+2018-02-01,05 Furnishings and household equipment,97.5
+2018-02-01,06 Health,100.5
+2018-02-01,07 Transport,100.6
+2018-02-01,08 Communication,87.0
+2018-02-01,09 Recreation and culture,102.8
+2018-02-01,10 Education,108.0
+2018-02-01,11 Restaurants and hotels,103.5
+2018-02-01,12 Miscellaneous goods and services,104.0
+2018-03-01,00 Total,101.7
+2018-03-01,01 Food and non-alcoholic beverages,102.4
+2018-03-01,02 Alcoholic beverages and tobacco,101.1
+2018-03-01,03 Clothing and footwear,99.4
+2018-03-01,04 Housing and utilities,103.2
+2018-03-01,05 Furnishings and household equipment,97.4
+2018-03-01,06 Health,100.9
+2018-03-01,07 Transport,100.4
+2018-03-01,08 Communication,85.3
+2018-03-01,09 Recreation and culture,101.7
+2018-03-01,10 Education,108.0
+2018-03-01,11 Restaurants and hotels,103.8
+2018-03-01,12 Miscellaneous goods and services,103.9
+2018-04-01,00 Total,102.2
+2018-04-01,01 Food and non-alcoholic beverages,102.9
+2018-04-01,02 Alcoholic beverages and tobacco,102.2
+2018-04-01,03 Clothing and footwear,101.4
+2018-04-01,04 Housing and utilities,103.3
+2018-04-01,05 Furnishings and household equipment,97.6
+2018-04-01,06 Health,101.3
+2018-04-01,07 Transport,101.2
+2018-04-01,08 Communication,85.9
+2018-04-01,09 Recreation and culture,101.9
+2018-04-01,10 Education,108.0
+2018-04-01,11 Restaurants and hotels,104.5
+2018-04-01,12 Miscellaneous goods and services,104.7
+2018-05-01,00 Total,102.4
+2018-05-01,01 Food and non-alcoholic beverages,102.9
+2018-05-01,02 Alcoholic beverages and tobacco,101.7
+2018-05-01,03 Clothing and footwear,100.3
+2018-05-01,04 Housing and utilities,103.3
+2018-05-01,05 Furnishings and household equipment,97.8
+2018-05-01,06 Health,101.1
+2018-05-01,07 Transport,102.6
+2018-05-01,08 Communication,85.9
+2018-05-01,09 Recreation and culture,100.7
+2018-05-01,10 Education,108.0
+2018-05-01,11 Restaurants and hotels,107.3
+2018-05-01,12 Miscellaneous goods and services,104.5
+2018-06-01,00 Total,102.3
+2018-06-01,01 Food and non-alcoholic beverages,102.9
+2018-06-01,02 Alcoholic beverages and tobacco,102.0
+2018-06-01,03 Clothing and footwear,96.4
+2018-06-01,04 Housing and utilities,103.4
+2018-06-01,05 Furnishings and household equipment,96.8
+2018-06-01,06 Health,101.2
+2018-06-01,07 Transport,102.8
+2018-06-01,08 Communication,86.2
+2018-06-01,09 Recreation and culture,101.2
+2018-06-01,10 Education,108.0
+2018-06-01,11 Restaurants and hotels,108.5
+2018-06-01,12 Miscellaneous goods and services,104.4
+2018-07-01,00 Total,103.1
+2018-07-01,01 Food and non-alcoholic beverages,103.6
+2018-07-01,02 Alcoholic beverages and tobacco,102.7
+2018-07-01,03 Clothing and footwear,90.0
+2018-07-01,04 Housing and utilities,103.0
+2018-07-01,05 Furnishings and household equipment,97.1
+2018-07-01,06 Health,101.1
+2018-07-01,07 Transport,103.9
+2018-07-01,08 Communication,85.9
+2018-07-01,09 Recreation and culture,105.9
+2018-07-01,10 Education,108.0
+2018-07-01,11 Restaurants and hotels,115.9
+2018-07-01,12 Miscellaneous goods and services,104.1
+2018-08-01,00 Total,102.7
+2018-08-01,01 Food and non-alcoholic beverages,102.5
+2018-08-01,02 Alcoholic beverages and tobacco,102.4
+2018-08-01,03 Clothing and footwear,92.5
+2018-08-01,04 Housing and utilities,103.2
+2018-08-01,05 Furnishings and household equipment,97.3
+2018-08-01,06 Health,101.1
+2018-08-01,07 Transport,103.7
+2018-08-01,08 Communication,85.8
+2018-08-01,09 Recreation and culture,102.8
+2018-08-01,10 Education,109.3
+2018-08-01,11 Restaurants and hotels,114.3
+2018-08-01,12 Miscellaneous goods and services,103.9
+2018-09-01,00 Total,102.4
+2018-09-01,01 Food and non-alcoholic beverages,103.1
+2018-09-01,02 Alcoholic beverages and tobacco,102.3
+2018-09-01,03 Clothing and footwear,97.8
+2018-09-01,04 Housing and utilities,103.4
+2018-09-01,05 Furnishings and household equipment,96.9
+2018-09-01,06 Health,100.9
+2018-09-01,07 Transport,103.0
+2018-09-01,08 Communication,85.4
+2018-09-01,09 Recreation and culture,102.7
+2018-09-01,10 Education,109.3
+2018-09-01,11 Restaurants and hotels,106.4
+2018-09-01,12 Miscellaneous goods and services,104.2
+2018-10-01,00 Total,102.7
+2018-10-01,01 Food and non-alcoholic beverages,102.9
+2018-10-01,02 Alcoholic beverages and tobacco,102.0
+2018-10-01,03 Clothing and footwear,98.9
+2018-10-01,04 Housing and utilities,103.6
+2018-10-01,05 Furnishings and household equipment,98.0
+2018-10-01,06 Health,101.3
+2018-10-01,07 Transport,103.8
+2018-10-01,08 Communication,85.5
+2018-10-01,09 Recreation and culture,103.4
+2018-10-01,10 Education,110.4
+2018-10-01,11 Restaurants and hotels,106.3
+2018-10-01,12 Miscellaneous goods and services,103.8
+2018-11-01,00 Total,102.4
+2018-11-01,01 Food and non-alcoholic beverages,103.2
+2018-11-01,02 Alcoholic beverages and tobacco,102.4
+2018-11-01,03 Clothing and footwear,98.7
+2018-11-01,04 Housing and utilities,103.6
+2018-11-01,05 Furnishings and household equipment,97.1
+2018-11-01,06 Health,102.1
+2018-11-01,07 Transport,102.6
+2018-11-01,08 Communication,85.0
+2018-11-01,09 Recreation and culture,102.4
+2018-11-01,10 Education,110.4
+2018-11-01,11 Restaurants and hotels,105.1
+2018-11-01,12 Miscellaneous goods and services,103.7
+2018-12-01,00 Total,102.1
+2018-12-01,01 Food and non-alcoholic beverages,102.7
+2018-12-01,02 Alcoholic beverages and tobacco,101.7
+2018-12-01,03 Clothing and footwear,98.3
+2018-12-01,04 Housing and utilities,103.6
+2018-12-01,05 Furnishings and household equipment,96.3
+2018-12-01,06 Health,101.7
+2018-12-01,07 Transport,101.3
+2018-12-01,08 Communication,85.0
+2018-12-01,09 Recreation and culture,102.4
+2018-12-01,10 Education,110.4
+2018-12-01,11 Restaurants and hotels,105.4
+2018-12-01,12 Miscellaneous goods and services,103.3
+2019-01-01,00 Total,102.3
+2019-01-01,01 Food and non-alcoholic beverages,104.1
+2019-01-01,02 Alcoholic beverages and tobacco,103.9
+2019-01-01,03 Clothing and footwear,91.0
+2019-01-01,04 Housing and utilities,103.8
+2019-01-01,05 Furnishings and household equipment,97.4
+2019-01-01,06 Health,101.7
+2019-01-01,07 Transport,101.2
+2019-01-01,08 Communication,86.1
+2019-01-01,09 Recreation and culture,103.8
+2019-01-01,10 Education,111.1
+2019-01-01,11 Restaurants and hotels,104.4
+2019-01-01,12 Miscellaneous goods and services,104.1
+2019-02-01,00 Total,102.8
+2019-02-01,01 Food and non-alcoholic beverages,104.5
+2019-02-01,02 Alcoholic beverages and tobacco,103.9
+2019-02-01,03 Clothing and footwear,92.1
+2019-02-01,04 Housing and utilities,104.6
+2019-02-01,05 Furnishings and household equipment,97.0
+2019-02-01,06 Health,101.6
+2019-02-01,07 Transport,102.3
+2019-02-01,08 Communication,86.0
+2019-02-01,09 Recreation and culture,104.5
+2019-02-01,10 Education,111.1
+2019-02-01,11 Restaurants and hotels,104.4
+2019-02-01,12 Miscellaneous goods and services,104.2
+2019-03-01,00 Total,102.9
+2019-03-01,01 Food and non-alcoholic beverages,104.1
+2019-03-01,02 Alcoholic beverages and tobacco,103.7
+2019-03-01,03 Clothing and footwear,95.7
+2019-03-01,04 Housing and utilities,104.3
+2019-03-01,05 Furnishings and household equipment,97.5
+2019-03-01,06 Health,102.6
+2019-03-01,07 Transport,102.4
+2019-03-01,08 Communication,85.6
+2019-03-01,09 Recreation and culture,103.9
+2019-03-01,10 Education,111.1
+2019-03-01,11 Restaurants and hotels,105.0
+2019-03-01,12 Miscellaneous goods and services,104.5
+2019-04-01,00 Total,103.2
+2019-04-01,01 Food and non-alcoholic beverages,103.5
+2019-04-01,02 Alcoholic beverages and tobacco,102.8
+2019-04-01,03 Clothing and footwear,96.5
+2019-04-01,04 Housing and utilities,104.5
+2019-04-01,05 Furnishings and household equipment,98.1
+2019-04-01,06 Health,102.5
+2019-04-01,07 Transport,104.1
+2019-04-01,08 Communication,85.7
+2019-04-01,09 Recreation and culture,104.0
+2019-04-01,10 Education,111.1
+2019-04-01,11 Restaurants and hotels,106.1
+2019-04-01,12 Miscellaneous goods and services,104.3
+2019-05-01,00 Total,103.1
+2019-05-01,01 Food and non-alcoholic beverages,104.2
+2019-05-01,02 Alcoholic beverages and tobacco,103.1
+2019-05-01,03 Clothing and footwear,96.0
+2019-05-01,04 Housing and utilities,104.1
+2019-05-01,05 Furnishings and household equipment,98.0
+2019-05-01,06 Health,102.3
+2019-05-01,07 Transport,104.2
+2019-05-01,08 Communication,85.7
+2019-05-01,09 Recreation and culture,102.7
+2019-05-01,10 Education,111.1
+2019-05-01,11 Restaurants and hotels,108.2
+2019-05-01,12 Miscellaneous goods and services,104.4
+2019-06-01,00 Total,102.9
+2019-06-01,01 Food and non-alcoholic beverages,105.0
+2019-06-01,02 Alcoholic beverages and tobacco,103.4
+2019-06-01,03 Clothing and footwear,90.8
+2019-06-01,04 Housing and utilities,104.0
+2019-06-01,05 Furnishings and household equipment,95.8
+2019-06-01,06 Health,102.1
+2019-06-01,07 Transport,103.6
+2019-06-01,08 Communication,85.2
+2019-06-01,09 Recreation and culture,103.1
+2019-06-01,10 Education,111.1
+2019-06-01,11 Restaurants and hotels,109.9
+2019-06-01,12 Miscellaneous goods and services,104.2
+2019-07-01,00 Total,103.5
+2019-07-01,01 Food and non-alcoholic beverages,105.9
+2019-07-01,02 Alcoholic beverages and tobacco,104.0
+2019-07-01,03 Clothing and footwear,87.4
+2019-07-01,04 Housing and utilities,103.6
+2019-07-01,05 Furnishings and household equipment,96.6
+2019-07-01,06 Health,102.5
+2019-07-01,07 Transport,104.5
+2019-07-01,08 Communication,85.7
+2019-07-01,09 Recreation and culture,106.8
+2019-07-01,10 Education,111.1
+2019-07-01,11 Restaurants and hotels,111.9
+2019-07-01,12 Miscellaneous goods and services,104.2
+2019-08-01,00 Total,103.1
+2019-08-01,01 Food and non-alcoholic beverages,104.8
+2019-08-01,02 Alcoholic beverages and tobacco,103.6
+2019-08-01,03 Clothing and footwear,89.5
+2019-08-01,04 Housing and utilities,103.7
+2019-08-01,05 Furnishings and household equipment,97.3
+2019-08-01,06 Health,102.5
+2019-08-01,07 Transport,103.3
+2019-08-01,08 Communication,86.1
+2019-08-01,09 Recreation and culture,104.5
+2019-08-01,10 Education,111.9
+2019-08-01,11 Restaurants and hotels,112.9
+2019-08-01,12 Miscellaneous goods and services,104.0
+2019-09-01,00 Total,102.9
+2019-09-01,01 Food and non-alcoholic beverages,104.4
+2019-09-01,02 Alcoholic beverages and tobacco,103.5
+2019-09-01,03 Clothing and footwear,94.5
+2019-09-01,04 Housing and utilities,103.6
+2019-09-01,05 Furnishings and household equipment,96.6
+2019-09-01,06 Health,102.5
+2019-09-01,07 Transport,103.1
+2019-09-01,08 Communication,85.6
+2019-09-01,09 Recreation and culture,104.3
+2019-09-01,10 Education,111.9
+2019-09-01,11 Restaurants and hotels,108.4
+2019-09-01,12 Miscellaneous goods and services,104.1
+2019-10-01,00 Total,103.3
+2019-10-01,01 Food and non-alcoholic beverages,104.2
+2019-10-01,02 Alcoholic beverages and tobacco,103.0
+2019-10-01,03 Clothing and footwear,95.7
+2019-10-01,04 Housing and utilities,104.0
+2019-10-01,05 Furnishings and household equipment,97.8
+2019-10-01,06 Health,103.1
+2019-10-01,07 Transport,103.7
+2019-10-01,08 Communication,85.2
+2019-10-01,09 Recreation and culture,104.9
+2019-10-01,10 Education,112.8
+2019-10-01,11 Restaurants and hotels,108.0
+2019-10-01,12 Miscellaneous goods and services,104.4
+2019-11-01,00 Total,103.1
+2019-11-01,01 Food and non-alcoholic beverages,104.4
+2019-11-01,02 Alcoholic beverages and tobacco,102.9
+2019-11-01,03 Clothing and footwear,95.9
+2019-11-01,04 Housing and utilities,104.2
+2019-11-01,05 Furnishings and household equipment,97.2
+2019-11-01,06 Health,103.6
+2019-11-01,07 Transport,102.9
+2019-11-01,08 Communication,85.2
+2019-11-01,09 Recreation and culture,104.0
+2019-11-01,10 Education,112.8
+2019-11-01,11 Restaurants and hotels,106.9
+2019-11-01,12 Miscellaneous goods and services,104.4
+2019-12-01,00 Total,102.9
+2019-12-01,01 Food and non-alcoholic beverages,103.6
+2019-12-01,02 Alcoholic beverages and tobacco,101.6
+2019-12-01,03 Clothing and footwear,95.2
+2019-12-01,04 Housing and utilities,104.3
+2019-12-01,05 Furnishings and household equipment,96.3
+2019-12-01,06 Health,103.7
+2019-12-01,07 Transport,103.1
+2019-12-01,08 Communication,84.9
+2019-12-01,09 Recreation and culture,103.8
+2019-12-01,10 Education,112.8
+2019-12-01,11 Restaurants and hotels,107.2
+2019-12-01,12 Miscellaneous goods and services,104.4
+2020-01-01,00 Total,103.0
+2020-01-01,01 Food and non-alcoholic beverages,104.1
+2020-01-01,02 Alcoholic beverages and tobacco,103.1
+2020-01-01,03 Clothing and footwear,86.2
+2020-01-01,04 Housing and utilities,104.3
+2020-01-01,05 Furnishings and household equipment,97.9
+2020-01-01,06 Health,103.9
+2020-01-01,07 Transport,103.9
+2020-01-01,08 Communication,84.4
+2020-01-01,09 Recreation and culture,105.0
+2020-01-01,10 Education,113.1
+2020-01-01,11 Restaurants and hotels,106.5
+2020-01-01,12 Miscellaneous goods and services,106.2
+2020-02-01,00 Total,103.6
+2020-02-01,01 Food and non-alcoholic beverages,104.9
+2020-02-01,02 Alcoholic beverages and tobacco,103.0
+2020-02-01,03 Clothing and footwear,90.7
+2020-02-01,04 Housing and utilities,104.7
+2020-02-01,05 Furnishings and household equipment,97.6
+2020-02-01,06 Health,104.5
+2020-02-01,07 Transport,103.7
+2020-02-01,08 Communication,84.6
+2020-02-01,09 Recreation and culture,106.7
+2020-02-01,10 Education,113.1
+2020-02-01,11 Restaurants and hotels,106.1
+2020-02-01,12 Miscellaneous goods and services,106.1
+2020-03-01,00 Total,103.3
+2020-03-01,01 Food and non-alcoholic beverages,105.3
+2020-03-01,02 Alcoholic beverages and tobacco,103.0
+2020-03-01,03 Clothing and footwear,94.8
+2020-03-01,04 Housing and utilities,104.6
+2020-03-01,05 Furnishings and household equipment,97.0
+2020-03-01,06 Health,104.2
+2020-03-01,07 Transport,101.5
+2020-03-01,08 Communication,84.2
+2020-03-01,09 Recreation and culture,105.2
+2020-03-01,10 Education,113.1
+2020-03-01,11 Restaurants and hotels,106.5
+2020-03-01,12 Miscellaneous goods and services,106.1
+2020-04-01,00 Total,103.2
+2020-04-01,01 Food and non-alcoholic beverages,105.1
+2020-04-01,02 Alcoholic beverages and tobacco,103.0
+2020-04-01,03 Clothing and footwear,95.1
+2020-04-01,04 Housing and utilities,104.2
+2020-04-01,05 Furnishings and household equipment,97.7
+2020-04-01,06 Health,103.8
+2020-04-01,07 Transport,100.6
+2020-04-01,08 Communication,83.5
+2020-04-01,09 Recreation and culture,105.1
+2020-04-01,10 Education,113.1
+2020-04-01,11 Restaurants and hotels,108.8
+2020-04-01,12 Miscellaneous goods and services,106.0
+2020-05-01,00 Total,103.1
+2020-05-01,01 Food and non-alcoholic beverages,105.4
+2020-05-01,02 Alcoholic beverages and tobacco,103.5
+2020-05-01,03 Clothing and footwear,93.4
+2020-05-01,04 Housing and utilities,104.1
+2020-05-01,05 Furnishings and household equipment,97.2
+2020-05-01,06 Health,104.8
+2020-05-01,07 Transport,100.4
+2020-05-01,08 Communication,83.6
+2020-05-01,09 Recreation and culture,103.6
+2020-05-01,10 Education,113.1
+2020-05-01,11 Restaurants and hotels,109.8
+2020-05-01,12 Miscellaneous goods and services,106.4
+2020-06-01,00 Total,103.2
+2020-06-01,01 Food and non-alcoholic beverages,105.8
+2020-06-01,02 Alcoholic beverages and tobacco,104.4
+2020-06-01,03 Clothing and footwear,92.3
+2020-06-01,04 Housing and utilities,104.2
+2020-06-01,05 Furnishings and household equipment,96.5
+2020-06-01,06 Health,104.9
+2020-06-01,07 Transport,102.0
+2020-06-01,08 Communication,83.7
+2020-06-01,09 Recreation and culture,104.0
+2020-06-01,10 Education,113.1
+2020-06-01,11 Restaurants and hotels,107.7
+2020-06-01,12 Miscellaneous goods and services,106.1
+2020-07-01,00 Total,104.0
+2020-07-01,01 Food and non-alcoholic beverages,106.6
+2020-07-01,02 Alcoholic beverages and tobacco,109.1
+2020-07-01,03 Clothing and footwear,89.0
+2020-07-01,04 Housing and utilities,104.2
+2020-07-01,05 Furnishings and household equipment,97.2
+2020-07-01,06 Health,104.2
+2020-07-01,07 Transport,103.2
+2020-07-01,08 Communication,82.6
+2020-07-01,09 Recreation and culture,106.6
+2020-07-01,10 Education,113.1
+2020-07-01,11 Restaurants and hotels,111.5
+2020-07-01,12 Miscellaneous goods and services,106.6
+2020-08-01,00 Total,103.6
+2020-08-01,01 Food and non-alcoholic beverages,105.5
+2020-08-01,02 Alcoholic beverages and tobacco,114.4
+2020-08-01,03 Clothing and footwear,90.4
+2020-08-01,04 Housing and utilities,104.3
+2020-08-01,05 Furnishings and household equipment,95.2
+2020-08-01,06 Health,103.9
+2020-08-01,07 Transport,102.4
+2020-08-01,08 Communication,82.9
+2020-08-01,09 Recreation and culture,105.1
+2020-08-01,10 Education,115.3
+2020-08-01,11 Restaurants and hotels,109.8
+2020-08-01,12 Miscellaneous goods and services,106.5
+2020-09-01,00 Total,103.5
+2020-09-01,01 Food and non-alcoholic beverages,104.5
+2020-09-01,02 Alcoholic beverages and tobacco,113.9
+2020-09-01,03 Clothing and footwear,94.0
+2020-09-01,04 Housing and utilities,104.2
+2020-09-01,05 Furnishings and household equipment,96.0
+2020-09-01,06 Health,103.5
+2020-09-01,07 Transport,102.3
+2020-09-01,08 Communication,82.1
+2020-09-01,09 Recreation and culture,104.4
+2020-09-01,10 Education,115.3
+2020-09-01,11 Restaurants and hotels,107.9
+2020-09-01,12 Miscellaneous goods and services,106.4
+2020-10-01,00 Total,103.7
+2020-10-01,01 Food and non-alcoholic beverages,104.8
+2020-10-01,02 Alcoholic beverages and tobacco,114.8
+2020-10-01,03 Clothing and footwear,93.9
+2020-10-01,04 Housing and utilities,104.5
+2020-10-01,05 Furnishings and household equipment,96.3
+2020-10-01,06 Health,104.1
+2020-10-01,07 Transport,102.3
+2020-10-01,08 Communication,82.7
+2020-10-01,09 Recreation and culture,104.6
+2020-10-01,10 Education,116.9
+2020-10-01,11 Restaurants and hotels,108.6
+2020-10-01,12 Miscellaneous goods and services,106.6
+2020-11-01,00 Total,103.6
+2020-11-01,01 Food and non-alcoholic beverages,104.9
+2020-11-01,02 Alcoholic beverages and tobacco,120.2
+2020-11-01,03 Clothing and footwear,93.4
+2020-11-01,04 Housing and utilities,104.2
+2020-11-01,05 Furnishings and household equipment,96.7
+2020-11-01,06 Health,104.7
+2020-11-01,07 Transport,101.0
+2020-11-01,08 Communication,81.8
+2020-11-01,09 Recreation and culture,104.1
+2020-11-01,10 Education,116.9
+2020-11-01,11 Restaurants and hotels,107.5
+2020-11-01,12 Miscellaneous goods and services,106.7
+2020-12-01,00 Total,103.4
+2020-12-01,01 Food and non-alcoholic beverages,103.8
+2020-12-01,02 Alcoholic beverages and tobacco,118.9
+2020-12-01,03 Clothing and footwear,91.8
+2020-12-01,04 Housing and utilities,104.4
+2020-12-01,05 Furnishings and household equipment,95.5
+2020-12-01,06 Health,104.4
+2020-12-01,07 Transport,101.8
+2020-12-01,08 Communication,81.9
+2020-12-01,09 Recreation and culture,103.8
+2020-12-01,10 Education,116.9
+2020-12-01,11 Restaurants and hotels,107.5
+2020-12-01,12 Miscellaneous goods and services,106.5
+2021-01-01,00 Total,103.6
+2021-01-01,01 Food and non-alcoholic beverages,104.4
+2021-01-01,02 Alcoholic beverages and tobacco,121.0
+2021-01-01,03 Clothing and footwear,88.4
+2021-01-01,04 Housing and utilities,104.6
+2021-01-01,05 Furnishings and household equipment,95.2
+2021-01-01,06 Health,104.3
+2021-01-01,07 Transport,102.9
+2021-01-01,08 Communication,80.8
+2021-01-01,09 Recreation and culture,103.8
+2021-01-01,10 Education,117.0
+2021-01-01,11 Restaurants and hotels,107.2
+2021-01-01,12 Miscellaneous goods and services,107.6
+2021-02-01,00 Total,104.2
+2021-02-01,01 Food and non-alcoholic beverages,105.0
+2021-02-01,02 Alcoholic beverages and tobacco,118.9
+2021-02-01,03 Clothing and footwear,90.1
+2021-02-01,04 Housing and utilities,106.0
+2021-02-01,05 Furnishings and household equipment,95.1
+2021-02-01,06 Health,104.8
+2021-02-01,07 Transport,103.5
+2021-02-01,08 Communication,80.8
+2021-02-01,09 Recreation and culture,104.3
+2021-02-01,10 Education,117.0
+2021-02-01,11 Restaurants and hotels,107.4
+2021-02-01,12 Miscellaneous goods and services,107.5
+2021-03-01,00 Total,104.3
+2021-03-01,01 Food and non-alcoholic beverages,104.2
+2021-03-01,02 Alcoholic beverages and tobacco,118.4
+2021-03-01,03 Clothing and footwear,91.9
+2021-03-01,04 Housing and utilities,106.0
+2021-03-01,05 Furnishings and household equipment,94.8
+2021-03-01,06 Health,104.4
+2021-03-01,07 Transport,104.2
+2021-03-01,08 Communication,80.8
+2021-03-01,09 Recreation and culture,104.8
+2021-03-01,10 Education,117.0
+2021-03-01,11 Restaurants and hotels,107.7
+2021-03-01,12 Miscellaneous goods and services,107.4
+2021-04-01,00 Total,104.7
+2021-04-01,01 Food and non-alcoholic beverages,105.3
+2021-04-01,02 Alcoholic beverages and tobacco,119.6
+2021-04-01,03 Clothing and footwear,92.9
+2021-04-01,04 Housing and utilities,105.9
+2021-04-01,05 Furnishings and household equipment,94.8
+2021-04-01,06 Health,104.7
+2021-04-01,07 Transport,104.4
+2021-04-01,08 Communication,81.2
+2021-04-01,09 Recreation and culture,104.9
+2021-04-01,10 Education,117.1
+2021-04-01,11 Restaurants and hotels,108.5
+2021-04-01,12 Miscellaneous goods and services,108.3
+2021-05-01,00 Total,104.9
+2021-05-01,01 Food and non-alcoholic beverages,105.4
+2021-05-01,02 Alcoholic beverages and tobacco,119.4
+2021-05-01,03 Clothing and footwear,94.2
+2021-05-01,04 Housing and utilities,106.1
+2021-05-01,05 Furnishings and household equipment,94.7
+2021-05-01,06 Health,104.9
+2021-05-01,07 Transport,105.2
+2021-05-01,08 Communication,80.8
+2021-05-01,09 Recreation and culture,104.4
+2021-05-01,10 Education,117.1
+2021-05-01,11 Restaurants and hotels,110.7
+2021-05-01,12 Miscellaneous goods and services,108.5
+2021-06-01,00 Total,105.0
+2021-06-01,01 Food and non-alcoholic beverages,105.5
+2021-06-01,02 Alcoholic beverages and tobacco,118.7
+2021-06-01,03 Clothing and footwear,92.1
+2021-06-01,04 Housing and utilities,106.3
+2021-06-01,05 Furnishings and household equipment,95.0
+2021-06-01,06 Health,104.5
+2021-06-01,07 Transport,106.1
+2021-06-01,08 Communication,80.5
+2021-06-01,09 Recreation and culture,104.4
+2021-06-01,10 Education,117.1
+2021-06-01,11 Restaurants and hotels,111.1
+2021-06-01,12 Miscellaneous goods and services,108.5
+2021-07-01,00 Total,105.7
+2021-07-01,01 Food and non-alcoholic beverages,107.2
+2021-07-01,02 Alcoholic beverages and tobacco,119.8
+2021-07-01,03 Clothing and footwear,88.1
+2021-07-01,04 Housing and utilities,107.0
+2021-07-01,05 Furnishings and household equipment,95.7
+2021-07-01,06 Health,103.9
+2021-07-01,07 Transport,107.3
+2021-07-01,08 Communication,80.6
+2021-07-01,09 Recreation and culture,105.1
+2021-07-01,10 Education,117.1
+2021-07-01,11 Restaurants and hotels,115.0
+2021-07-01,12 Miscellaneous goods and services,108.5
+2021-08-01,00 Total,105.5
+2021-08-01,01 Food and non-alcoholic beverages,106.1
+2021-08-01,02 Alcoholic beverages and tobacco,119.7
+2021-08-01,03 Clothing and footwear,89.8
+2021-08-01,04 Housing and utilities,107.3
+2021-08-01,05 Furnishings and household equipment,94.4
+2021-08-01,06 Health,103.9
+2021-08-01,07 Transport,106.9
+2021-08-01,08 Communication,81.7
+2021-08-01,09 Recreation and culture,104.8
+2021-08-01,10 Education,118.2
+2021-08-01,11 Restaurants and hotels,112.4
+2021-08-01,12 Miscellaneous goods and services,108.2
+2021-09-01,00 Total,105.8
+2021-09-01,01 Food and non-alcoholic beverages,106.1
+2021-09-01,02 Alcoholic beverages and tobacco,119.3
+2021-09-01,03 Clothing and footwear,93.0
+2021-09-01,04 Housing and utilities,107.5
+2021-09-01,05 Furnishings and household equipment,95.7
+2021-09-01,06 Health,103.4
+2021-09-01,07 Transport,107.3
+2021-09-01,08 Communication,81.9
+2021-09-01,09 Recreation and culture,105.6
+2021-09-01,10 Education,118.2
+2021-09-01,11 Restaurants and hotels,111.1
+2021-09-01,12 Miscellaneous goods and services,108.1
+2021-10-01,00 Total,106.8
+2021-10-01,01 Food and non-alcoholic beverages,106.2
+2021-10-01,02 Alcoholic beverages and tobacco,119.4
+2021-10-01,03 Clothing and footwear,93.8
+2021-10-01,04 Housing and utilities,109.1
+2021-10-01,05 Furnishings and household equipment,96.5
+2021-10-01,06 Health,103.9
+2021-10-01,07 Transport,109.6
+2021-10-01,08 Communication,82.4
+2021-10-01,09 Recreation and culture,106.2
+2021-10-01,10 Education,119.4
+2021-10-01,11 Restaurants and hotels,112.0
+2021-10-01,12 Miscellaneous goods and services,108.1
+2021-11-01,00 Total,107.1
+2021-11-01,01 Food and non-alcoholic beverages,107.1
+2021-11-01,02 Alcoholic beverages and tobacco,119.8
+2021-11-01,03 Clothing and footwear,94.6
+2021-11-01,04 Housing and utilities,109.7
+2021-11-01,05 Furnishings and household equipment,95.4
+2021-11-01,06 Health,104.4
+2021-11-01,07 Transport,110.6
+2021-11-01,08 Communication,81.9
+2021-11-01,09 Recreation and culture,105.7
+2021-11-01,10 Education,119.4
+2021-11-01,11 Restaurants and hotels,111.5
+2021-11-01,12 Miscellaneous goods and services,108.3
+2021-12-01,00 Total,106.6
+2021-12-01,01 Food and non-alcoholic beverages,105.5
+2021-12-01,02 Alcoholic beverages and tobacco,118.7
+2021-12-01,03 Clothing and footwear,94.0
+2021-12-01,04 Housing and utilities,109.8
+2021-12-01,05 Furnishings and household equipment,95.6
+2021-12-01,06 Health,104.7
+2021-12-01,07 Transport,108.5
+2021-12-01,08 Communication,81.0
+2021-12-01,09 Recreation and culture,105.4
+2021-12-01,10 Education,119.4
+2021-12-01,11 Restaurants and hotels,111.4
+2021-12-01,12 Miscellaneous goods and services,108.2
+2022-01-01,00 Total,108.1
+2022-01-01,01 Food and non-alcoholic beverages,108.6
+2022-01-01,02 Alcoholic beverages and tobacco,120.6
+2022-01-01,03 Clothing and footwear,88.1
+2022-01-01,04 Housing and utilities,112.9
+2022-01-01,05 Furnishings and household equipment,96.6
+2022-01-01,06 Health,105.2
+2022-01-01,07 Transport,109.7
+2022-01-01,08 Communication,80.6
+2022-01-01,09 Recreation and culture,106.0
+2022-01-01,10 Education,119.5
+2022-01-01,11 Restaurants and hotels,111.5
+2022-01-01,12 Miscellaneous goods and services,110.0
+2022-02-01,00 Total,109.2
+2022-02-01,01 Food and non-alcoholic beverages,110.8
+2022-02-01,02 Alcoholic beverages and tobacco,120.9
+2022-02-01,03 Clothing and footwear,89.1
+2022-02-01,04 Housing and utilities,113.1
+2022-02-01,05 Furnishings and household equipment,99.8
+2022-02-01,06 Health,106.0
+2022-02-01,07 Transport,111.6
+2022-02-01,08 Communication,81.2
+2022-02-01,09 Recreation and culture,107.0
+2022-02-01,10 Education,119.6
+2022-02-01,11 Restaurants and hotels,112.4
+2022-02-01,12 Miscellaneous goods and services,110.4
+2022-03-01,00 Total,109.9
+2022-03-01,01 Food and non-alcoholic beverages,110.8
+2022-03-01,02 Alcoholic beverages and tobacco,121.4
+2022-03-01,03 Clothing and footwear,93.0
+2022-03-01,04 Housing and utilities,113.4
+2022-03-01,05 Furnishings and household equipment,99.7
+2022-03-01,06 Health,106.0
+2022-03-01,07 Transport,114.8
+2022-03-01,08 Communication,81.2
+2022-03-01,09 Recreation and culture,106.8
+2022-03-01,10 Education,119.6
+2022-03-01,11 Restaurants and hotels,114.0
+2022-03-01,12 Miscellaneous goods and services,110.3
+2022-04-01,00 Total,111.7
+2022-04-01,01 Food and non-alcoholic beverages,112.8
+2022-04-01,02 Alcoholic beverages and tobacco,127.1
+2022-04-01,03 Clothing and footwear,94.7
+2022-04-01,04 Housing and utilities,116.3
+2022-04-01,05 Furnishings and household equipment,100.0
+2022-04-01,06 Health,105.5
+2022-04-01,07 Transport,115.8
+2022-04-01,08 Communication,81.7
+2022-04-01,09 Recreation and culture,107.6
+2022-04-01,10 Education,119.6
+2022-04-01,11 Restaurants and hotels,116.8
+2022-04-01,12 Miscellaneous goods and services,110.4
+2022-05-01,00 Total,112.7
+2022-05-01,01 Food and non-alcoholic beverages,116.0
+2022-05-01,02 Alcoholic beverages and tobacco,127.8
+2022-05-01,03 Clothing and footwear,95.9
+2022-05-01,04 Housing and utilities,115.8
+2022-05-01,05 Furnishings and household equipment,101.7
+2022-05-01,06 Health,105.5
+2022-05-01,07 Transport,118.9
+2022-05-01,08 Communication,82.8
+2022-05-01,09 Recreation and culture,107.7
+2022-05-01,10 Education,119.6
+2022-05-01,11 Restaurants and hotels,118.6
+2022-05-01,12 Miscellaneous goods and services,111.1
+2022-06-01,00 Total,113.6
+2022-06-01,01 Food and non-alcoholic beverages,119.2
+2022-06-01,02 Alcoholic beverages and tobacco,127.9
+2022-06-01,03 Clothing and footwear,93.9
+2022-06-01,04 Housing and utilities,115.9
+2022-06-01,05 Furnishings and household equipment,102.5
+2022-06-01,06 Health,106.5
+2022-06-01,07 Transport,122.0
+2022-06-01,08 Communication,83.4
+2022-06-01,09 Recreation and culture,107.8
+2022-06-01,10 Education,119.6
+2022-06-01,11 Restaurants and hotels,121.2
+2022-06-01,12 Miscellaneous goods and services,111.1
+2022-07-01,00 Total,114.9
+2022-07-01,01 Food and non-alcoholic beverages,122.9
+2022-07-01,02 Alcoholic beverages and tobacco,129.1
+2022-07-01,03 Clothing and footwear,92.2
+2022-07-01,04 Housing and utilities,117.0
+2022-07-01,05 Furnishings and household equipment,103.1
+2022-07-01,06 Health,106.5
+2022-07-01,07 Transport,121.7
+2022-07-01,08 Communication,83.6
+2022-07-01,09 Recreation and culture,109.9
+2022-07-01,10 Education,119.6
+2022-07-01,11 Restaurants and hotels,126.0
+2022-07-01,12 Miscellaneous goods and services,111.5
+2022-08-01,00 Total,114.9
+2022-08-01,01 Food and non-alcoholic beverages,123.0
+2022-08-01,02 Alcoholic beverages and tobacco,128.8
+2022-08-01,03 Clothing and footwear,93.5
+2022-08-01,04 Housing and utilities,118.1
+2022-08-01,05 Furnishings and household equipment,103.2
+2022-08-01,06 Health,106.2
+2022-08-01,07 Transport,119.5
+2022-08-01,08 Communication,83.6
+2022-08-01,09 Recreation and culture,109.0
+2022-08-01,10 Education,121.3
+2022-08-01,11 Restaurants and hotels,125.3
+2022-08-01,12 Miscellaneous goods and services,111.6
+2022-09-01,00 Total,116.4
+2022-09-01,01 Food and non-alcoholic beverages,122.3
+2022-09-01,02 Alcoholic beverages and tobacco,128.9
+2022-09-01,03 Clothing and footwear,97.4
+2022-09-01,04 Housing and utilities,123.1
+2022-09-01,05 Furnishings and household equipment,105.5
+2022-09-01,06 Health,106.0
+2022-09-01,07 Transport,119.2
+2022-09-01,08 Communication,83.9
+2022-09-01,09 Recreation and culture,109.2
+2022-09-01,10 Education,121.3
+2022-09-01,11 Restaurants and hotels,121.1
+2022-09-01,12 Miscellaneous goods and services,111.4
+2022-10-01,00 Total,117.6
+2022-10-01,01 Food and non-alcoholic beverages,122.9
+2022-10-01,02 Alcoholic beverages and tobacco,129.5
+2022-10-01,03 Clothing and footwear,98.2
+2022-10-01,04 Housing and utilities,124.6
+2022-10-01,05 Furnishings and household equipment,106.8
+2022-10-01,06 Health,107.0
+2022-10-01,07 Transport,121.2
+2022-10-01,08 Communication,85.2
+2022-10-01,09 Recreation and culture,110.1
+2022-10-01,10 Education,122.4
+2022-10-01,11 Restaurants and hotels,121.9
+2022-10-01,12 Miscellaneous goods and services,113.3
+2022-11-01,00 Total,116.6
+2022-11-01,01 Food and non-alcoholic beverages,123.5
+2022-11-01,02 Alcoholic beverages and tobacco,129.2
+2022-11-01,03 Clothing and footwear,97.8
+2022-11-01,04 Housing and utilities,122.0
+2022-11-01,05 Furnishings and household equipment,106.5
+2022-11-01,06 Health,107.7
+2022-11-01,07 Transport,119.0
+2022-11-01,08 Communication,84.8
+2022-11-01,09 Recreation and culture,109.5
+2022-11-01,10 Education,122.4
+2022-11-01,11 Restaurants and hotels,121.2
+2022-11-01,12 Miscellaneous goods and services,113.4
+2022-12-01,00 Total,115.9
+2022-12-01,01 Food and non-alcoholic beverages,121.2
+2022-12-01,02 Alcoholic beverages and tobacco,127.8
+2022-12-01,03 Clothing and footwear,97.6
+2022-12-01,04 Housing and utilities,120.5
+2022-12-01,05 Furnishings and household equipment,107.6
+2022-12-01,06 Health,108.1
+2022-12-01,07 Transport,117.3
+2022-12-01,08 Communication,86.0
+2022-12-01,09 Recreation and culture,110.5
+2022-12-01,10 Education,122.4
+2022-12-01,11 Restaurants and hotels,121.3
+2022-12-01,12 Miscellaneous goods and services,113.6
+2023-01-01,00 Total,116.4
+2023-01-01,01 Food and non-alcoholic beverages,124.3
+2023-01-01,02 Alcoholic beverages and tobacco,131.4
+2023-01-01,03 Clothing and footwear,92.3
+2023-01-01,04 Housing and utilities,120.3
+2023-01-01,05 Furnishings and household equipment,107.1
+2023-01-01,06 Health,108.0
+2023-01-01,07 Transport,118.4
+2023-01-01,08 Communication,85.0
+2023-01-01,09 Recreation and culture,111.2
+2023-01-01,10 Education,123.2
+2023-01-01,11 Restaurants and hotels,122.7
+2023-01-01,12 Miscellaneous goods and services,115.5
+2023-02-01,00 Total,117.5
+2023-02-01,01 Food and non-alcoholic beverages,127.2
+2023-02-01,02 Alcoholic beverages and tobacco,131.9
+2023-02-01,03 Clothing and footwear,94.2
+2023-02-01,04 Housing and utilities,120.3
+2023-02-01,05 Furnishings and household equipment,108.2
+2023-02-01,06 Health,108.8
+2023-02-01,07 Transport,118.9
+2023-02-01,08 Communication,86.6
+2023-02-01,09 Recreation and culture,112.7
+2023-02-01,10 Education,123.2
+2023-02-01,11 Restaurants and hotels,125.3
+2023-02-01,12 Miscellaneous goods and services,116.3
+2023-03-01,00 Total,117.3
+2023-03-01,01 Food and non-alcoholic beverages,128.3
+2023-03-01,02 Alcoholic beverages and tobacco,131.1
+2023-03-01,03 Clothing and footwear,96.6
+2023-03-01,04 Housing and utilities,119.5
+2023-03-01,05 Furnishings and household equipment,108.3
+2023-03-01,06 Health,108.7
+2023-03-01,07 Transport,118.8
+2023-03-01,08 Communication,86.4
+2023-03-01,09 Recreation and culture,112.1
+2023-03-01,10 Education,123.2
+2023-03-01,11 Restaurants and hotels,124.2
+2023-03-01,12 Miscellaneous goods and services,116.3
+2023-04-01,00 Total,117.6
+2023-04-01,01 Food and non-alcoholic beverages,127.6
+2023-04-01,02 Alcoholic beverages and tobacco,131.0
+2023-04-01,03 Clothing and footwear,98.3
+2023-04-01,04 Housing and utilities,118.6
+2023-04-01,05 Furnishings and household equipment,108.9
+2023-04-01,06 Health,110.1
+2023-04-01,07 Transport,118.8
+2023-04-01,08 Communication,86.1
+2023-04-01,09 Recreation and culture,112.6
+2023-04-01,10 Education,123.2
+2023-04-01,11 Restaurants and hotels,128.5
+2023-04-01,12 Miscellaneous goods and services,117.4
+2023-05-01,00 Total,116.0
+2023-05-01,01 Food and non-alcoholic beverages,128.3
+2023-05-01,02 Alcoholic beverages and tobacco,132.3
+2023-05-01,03 Clothing and footwear,98.4
+2023-05-01,04 Housing and utilities,113.9
+2023-05-01,05 Furnishings and household equipment,107.2
+2023-05-01,06 Health,110.5
+2023-05-01,07 Transport,117.7
+2023-05-01,08 Communication,85.8
+2023-05-01,09 Recreation and culture,111.8
+2023-05-01,10 Education,123.2
+2023-05-01,11 Restaurants and hotels,127.9
+2023-05-01,12 Miscellaneous goods and services,117.4
+2023-06-01,00 Total,116.4
+2023-06-01,01 Food and non-alcoholic beverages,129.7
+2023-06-01,02 Alcoholic beverages and tobacco,131.9
+2023-06-01,03 Clothing and footwear,95.7
+2023-06-01,04 Housing and utilities,113.7
+2023-06-01,05 Furnishings and household equipment,108.1
+2023-06-01,06 Health,110.5
+2023-06-01,07 Transport,118.2
+2023-06-01,08 Communication,85.6
+2023-06-01,09 Recreation and culture,112.7
+2023-06-01,10 Education,123.2
+2023-06-01,11 Restaurants and hotels,130.6
+2023-06-01,12 Miscellaneous goods and services,117.6
+2023-07-01,00 Total,118.5
+2023-07-01,01 Food and non-alcoholic beverages,131.0
+2023-07-01,02 Alcoholic beverages and tobacco,133.4
+2023-07-01,03 Clothing and footwear,92.9
+2023-07-01,04 Housing and utilities,115.8
+2023-07-01,05 Furnishings and household equipment,107.5
+2023-07-01,06 Health,110.5
+2023-07-01,07 Transport,118.6
+2023-07-01,08 Communication,86.2
+2023-07-01,09 Recreation and culture,117.8
+2023-07-01,10 Education,123.2
+2023-07-01,11 Restaurants and hotels,141.8
+2023-07-01,12 Miscellaneous goods and services,117.8
+2023-08-01,00 Total,117.7
+2023-08-01,01 Food and non-alcoholic beverages,129.2
+2023-08-01,02 Alcoholic beverages and tobacco,132.9
+2023-08-01,03 Clothing and footwear,93.8
+2023-08-01,04 Housing and utilities,115.8
+2023-08-01,05 Furnishings and household equipment,106.4
+2023-08-01,06 Health,110.6
+2023-08-01,07 Transport,120.0
+2023-08-01,08 Communication,85.6
+2023-08-01,09 Recreation and culture,114.2
+2023-08-01,10 Education,127.6
+2023-08-01,11 Restaurants and hotels,137.3
+2023-08-01,12 Miscellaneous goods and services,117.7
+2023-09-01,00 Total,117.4
+2023-09-01,01 Food and non-alcoholic beverages,128.4
+2023-09-01,02 Alcoholic beverages and tobacco,132.4
+2023-09-01,03 Clothing and footwear,97.4
+2023-09-01,04 Housing and utilities,116.0
+2023-09-01,05 Furnishings and household equipment,107.2
+2023-09-01,06 Health,110.2
+2023-09-01,07 Transport,120.5
+2023-09-01,08 Communication,85.7
+2023-09-01,09 Recreation and culture,114.5
+2023-09-01,10 Education,127.6
+2023-09-01,11 Restaurants and hotels,130.1
+2023-09-01,12 Miscellaneous goods and services,117.6
+2023-10-01,00 Total,117.7
+2023-10-01,01 Food and non-alcoholic beverages,127.4
+2023-10-01,02 Alcoholic beverages and tobacco,132.4
+2023-10-01,03 Clothing and footwear,98.5
+2023-10-01,04 Housing and utilities,116.4
+2023-10-01,05 Furnishings and household equipment,106.1
+2023-10-01,06 Health,110.8
+2023-10-01,07 Transport,119.7
+2023-10-01,08 Communication,85.1
+2023-10-01,09 Recreation and culture,115.4
+2023-10-01,10 Education,129.6
+2023-10-01,11 Restaurants and hotels,133.0
+2023-10-01,12 Miscellaneous goods and services,117.7
+2023-11-01,00 Total,117.3
+2023-11-01,01 Food and non-alcoholic beverages,127.4
+2023-11-01,02 Alcoholic beverages and tobacco,133.0
+2023-11-01,03 Clothing and footwear,97.9
+2023-11-01,04 Housing and utilities,116.9
+2023-11-01,05 Furnishings and household equipment,106.9
+2023-11-01,06 Health,110.3
+2023-11-01,07 Transport,118.3
+2023-11-01,08 Communication,85.2
+2023-11-01,09 Recreation and culture,115.1
+2023-11-01,10 Education,129.6
+2023-11-01,11 Restaurants and hotels,127.8
+2023-11-01,12 Miscellaneous goods and services,117.9
+2023-12-01,00 Total,116.7
+2023-12-01,01 Food and non-alcoholic beverages,123.9
+2023-12-01,02 Alcoholic beverages and tobacco,130.5
+2023-12-01,03 Clothing and footwear,98.0
+2023-12-01,04 Housing and utilities,117.0
+2023-12-01,05 Furnishings and household equipment,107.9
+2023-12-01,06 Health,111.8
+2023-12-01,07 Transport,117.2
+2023-12-01,08 Communication,84.0
+2023-12-01,09 Recreation and culture,114.3
+2023-12-01,10 Education,129.6
+2023-12-01,11 Restaurants and hotels,128.3
+2023-12-01,12 Miscellaneous goods and services,117.8
+2024-01-01,00 Total,117.8
+2024-01-01,01 Food and non-alcoholic beverages,127.0
+2024-01-01,02 Alcoholic beverages and tobacco,134.3
+2024-01-01,03 Clothing and footwear,92.5
+2024-01-01,04 Housing and utilities,119.0
+2024-01-01,05 Furnishings and household equipment,105.4
+2024-01-01,06 Health,112.1
+2024-01-01,07 Transport,117.9
+2024-01-01,08 Communication,84.9
+2024-01-01,09 Recreation and culture,114.6
+2024-01-01,10 Education,130.4
+2024-01-01,11 Restaurants and hotels,129.2
+2024-01-01,12 Miscellaneous goods and services,119.9
+2024-02-01,00 Total,118.4
+2024-02-01,01 Food and non-alcoholic beverages,126.5
+2024-02-01,02 Alcoholic beverages and tobacco,134.1
+2024-02-01,03 Clothing and footwear,93.3
+2024-02-01,04 Housing and utilities,119.8
+2024-02-01,05 Furnishings and household equipment,105.3
+2024-02-01,06 Health,112.4
+2024-02-01,07 Transport,119.5
+2024-02-01,08 Communication,83.8
+2024-02-01,09 Recreation and culture,116.0
+2024-02-01,10 Education,130.4
+2024-02-01,11 Restaurants and hotels,130.8
+2024-02-01,12 Miscellaneous goods and services,120.0
+2024-03-01,00 Total,118.4
+2024-03-01,01 Food and non-alcoholic beverages,127.3
+2024-03-01,02 Alcoholic beverages and tobacco,133.1
+2024-03-01,03 Clothing and footwear,98.2
+2024-03-01,04 Housing and utilities,119.6
+2024-03-01,05 Furnishings and household equipment,104.3
+2024-03-01,06 Health,112.6
+2024-03-01,07 Transport,119.3
+2024-03-01,08 Communication,83.8
+2024-03-01,09 Recreation and culture,115.6
+2024-03-01,10 Education,130.4
+2024-03-01,11 Restaurants and hotels,128.9
+2024-03-01,12 Miscellaneous goods and services,119.9
+2024-04-01,00 Total,118.5
+2024-04-01,01 Food and non-alcoholic beverages,128.8
+2024-04-01,02 Alcoholic beverages and tobacco,134.3
+2024-04-01,03 Clothing and footwear,99.2
+2024-04-01,04 Housing and utilities,118.1
+2024-04-01,05 Furnishings and household equipment,103.9
+2024-04-01,06 Health,112.3
+2024-04-01,07 Transport,119.7
+2024-04-01,08 Communication,84.4
+2024-04-01,09 Recreation and culture,116.0
+2024-04-01,10 Education,130.4
+2024-04-01,11 Restaurants and hotels,130.8
+2024-04-01,12 Miscellaneous goods and services,119.9
+2024-05-01,00 Total,118.5
+2024-05-01,01 Food and non-alcoholic beverages,129.2
+2024-05-01,02 Alcoholic beverages and tobacco,133.8
+2024-05-01,03 Clothing and footwear,99.4
+2024-05-01,04 Housing and utilities,118.2
+2024-05-01,05 Furnishings and household equipment,102.4
+2024-05-01,06 Health,112.0
+2024-05-01,07 Transport,119.8
+2024-05-01,08 Communication,85.2
+2024-05-01,09 Recreation and culture,115.1
+2024-05-01,10 Education,130.4
+2024-05-01,11 Restaurants and hotels,132.4
+2024-05-01,12 Miscellaneous goods and services,120.1
+2024-06-01,00 Total,118.5
+2024-06-01,01 Food and non-alcoholic beverages,130.5
+2024-06-01,02 Alcoholic beverages and tobacco,132.9
+2024-06-01,03 Clothing and footwear,95.7
+2024-06-01,04 Housing and utilities,118.4
+2024-06-01,05 Furnishings and household equipment,102.1
+2024-06-01,06 Health,112.0
+2024-06-01,07 Transport,119.6
+2024-06-01,08 Communication,84.0
+2024-06-01,09 Recreation and culture,114.9
+2024-06-01,10 Education,130.4
+2024-06-01,11 Restaurants and hotels,134.6
+2024-06-01,12 Miscellaneous goods and services,120.1
+2024-07-01,00 Total,119.8
+2024-07-01,01 Food and non-alcoholic beverages,132.0
+2024-07-01,02 Alcoholic beverages and tobacco,135.1
+2024-07-01,03 Clothing and footwear,91.6
+2024-07-01,04 Housing and utilities,118.4
+2024-07-01,05 Furnishings and household equipment,103.2
+2024-07-01,06 Health,112.7
+2024-07-01,07 Transport,121.0
+2024-07-01,08 Communication,84.2
+2024-07-01,09 Recreation and culture,117.9
+2024-07-01,10 Education,130.4
+2024-07-01,11 Restaurants and hotels,144.7
+2024-07-01,12 Miscellaneous goods and services,120.3
+2024-08-01,00 Total,119.3
+2024-08-01,01 Food and non-alcoholic beverages,131.5
+2024-08-01,02 Alcoholic beverages and tobacco,135.1
+2024-08-01,03 Clothing and footwear,92.0
+2024-08-01,04 Housing and utilities,119.6
+2024-08-01,05 Furnishings and household equipment,102.5
+2024-08-01,06 Health,112.3
+2024-08-01,07 Transport,119.2
+2024-08-01,08 Communication,84.8
+2024-08-01,09 Recreation and culture,115.8
+2024-08-01,10 Education,132.9
+2024-08-01,11 Restaurants and hotels,139.5
+2024-08-01,12 Miscellaneous goods and services,120.1
+2024-09-01,00 Total,118.9
+2024-09-01,01 Food and non-alcoholic beverages,131.9
+2024-09-01,02 Alcoholic beverages and tobacco,134.8
+2024-09-01,03 Clothing and footwear,98.4
+2024-09-01,04 Housing and utilities,118.9
+2024-09-01,05 Furnishings and household equipment,104.0
+2024-09-01,06 Health,113.4
+2024-09-01,07 Transport,117.1
+2024-09-01,08 Communication,84.9
+2024-09-01,09 Recreation and culture,116.1
+2024-09-01,10 Education,132.9
+2024-09-01,11 Restaurants and hotels,132.4
+2024-09-01,12 Miscellaneous goods and services,120.1
+2024-10-01,00 Total,119.6
+2024-10-01,01 Food and non-alcoholic beverages,132.4
+2024-10-01,02 Alcoholic beverages and tobacco,135.0
+2024-10-01,03 Clothing and footwear,99.7
+2024-10-01,04 Housing and utilities,120.2
+2024-10-01,05 Furnishings and household equipment,101.6
+2024-10-01,06 Health,113.8
+2024-10-01,07 Transport,118.7
+2024-10-01,08 Communication,84.9
+2024-10-01,09 Recreation and culture,116.3
+2024-10-01,10 Education,134.6
+2024-10-01,11 Restaurants and hotels,133.7
+2024-10-01,12 Miscellaneous goods and services,120.1
+2024-11-01,00 Total,119.2
+2024-11-01,01 Food and non-alcoholic beverages,132.4
+2024-11-01,02 Alcoholic beverages and tobacco,134.8
+2024-11-01,03 Clothing and footwear,98.6
+2024-11-01,04 Housing and utilities,121.0
+2024-11-01,05 Furnishings and household equipment,103.7
+2024-11-01,06 Health,112.4
+2024-11-01,07 Transport,117.7
+2024-11-01,08 Communication,84.3
+2024-11-01,09 Recreation and culture,115.0
+2024-11-01,10 Education,134.6
+2024-11-01,11 Restaurants and hotels,128.6
+2024-11-01,12 Miscellaneous goods and services,119.9
+2024-12-01,00 Total,118.9
+2024-12-01,01 Food and non-alcoholic beverages,129.7
+2024-12-01,02 Alcoholic beverages and tobacco,132.5
+2024-12-01,03 Clothing and footwear,98.5
+2024-12-01,04 Housing and utilities,120.7
+2024-12-01,05 Furnishings and household equipment,104.1
+2024-12-01,06 Health,113.8
+2024-12-01,07 Transport,117.6
+2024-12-01,08 Communication,85.9
+2024-12-01,09 Recreation and culture,113.8
+2024-12-01,10 Education,134.6
+2024-12-01,11 Restaurants and hotels,131.6
+2024-12-01,12 Miscellaneous goods and services,119.9
+2025-01-01,00 Total,119.6
+2025-01-01,01 Food and non-alcoholic beverages,132.6
+2025-01-01,02 Alcoholic beverages and tobacco,136.8
+2025-01-01,03 Clothing and footwear,91.8
+2025-01-01,04 Housing and utilities,121.3
+2025-01-01,05 Furnishings and household equipment,102.7
+2025-01-01,06 Health,113.7
+2025-01-01,07 Transport,119.1
+2025-01-01,08 Communication,85.0
+2025-01-01,09 Recreation and culture,114.4
+2025-01-01,10 Education,135.2
+2025-01-01,11 Restaurants and hotels,131.7
+2025-01-01,12 Miscellaneous goods and services,122.5
+2025-02-01,00 Total,120.8
+2025-02-01,01 Food and non-alcoholic beverages,133.7
+2025-02-01,02 Alcoholic beverages and tobacco,135.7
+2025-02-01,03 Clothing and footwear,94.0
+2025-02-01,04 Housing and utilities,123.0
+2025-02-01,05 Furnishings and household equipment,103.6
+2025-02-01,06 Health,114.4
+2025-02-01,07 Transport,119.9
+2025-02-01,08 Communication,86.3
+2025-02-01,09 Recreation and culture,117.3
+2025-02-01,10 Education,135.2
+2025-02-01,11 Restaurants and hotels,132.2
+2025-02-01,12 Miscellaneous goods and services,122.4
+2025-03-01,00 Total,120.2
+2025-03-01,01 Food and non-alcoholic beverages,133.7
+2025-03-01,02 Alcoholic beverages and tobacco,135.1
+2025-03-01,03 Clothing and footwear,97.1
+2025-03-01,04 Housing and utilities,122.1
+2025-03-01,05 Furnishings and household equipment,103.8
+2025-03-01,06 Health,114.1
+2025-03-01,07 Transport,118.9
+2025-03-01,08 Communication,86.1
+2025-03-01,09 Recreation and culture,114.5
+2025-03-01,10 Education,135.2
+2025-03-01,11 Restaurants and hotels,131.2
+2025-03-01,12 Miscellaneous goods and services,122.6
+2025-04-01,00 Total,120.3
+2025-04-01,01 Food and non-alcoholic beverages,133.6
+2025-04-01,02 Alcoholic beverages and tobacco,132.4
+2025-04-01,03 Clothing and footwear,98.0
+2025-04-01,04 Housing and utilities,120.8
+2025-04-01,05 Furnishings and household equipment,102.9
+2025-04-01,06 Health,114.1
+2025-04-01,07 Transport,119.7
+2025-04-01,08 Communication,86.3
+2025-04-01,09 Recreation and culture,115.6
+2025-04-01,10 Education,135.2
+2025-04-01,11 Restaurants and hotels,136.7
+2025-04-01,12 Miscellaneous goods and services,122.8
+2025-05-01,00 Total,120.4
+2025-05-01,01 Food and non-alcoholic beverages,135.9
+2025-05-01,02 Alcoholic beverages and tobacco,134.1
+2025-05-01,03 Clothing and footwear,98.6
+2025-05-01,04 Housing and utilities,120.8
+2025-05-01,05 Furnishings and household equipment,102.8
+2025-05-01,06 Health,114.5
+2025-05-01,07 Transport,119.1
+2025-05-01,08 Communication,86.9
+2025-05-01,09 Recreation and culture,115.1
+2025-05-01,10 Education,135.2
+2025-05-01,11 Restaurants and hotels,133.1
+2025-05-01,12 Miscellaneous goods and services,123.0
+2025-06-01,00 Total,120.7
+2025-06-01,01 Food and non-alcoholic beverages,137.3
+2025-06-01,02 Alcoholic beverages and tobacco,134.1
+2025-06-01,03 Clothing and footwear,94.8
+2025-06-01,04 Housing and utilities,120.5
+2025-06-01,05 Furnishings and household equipment,103.1
+2025-06-01,06 Health,115.2
+2025-06-01,07 Transport,119.7
+2025-06-01,08 Communication,86.0
+2025-06-01,09 Recreation and culture,116.6
+2025-06-01,10 Education,135.2
+2025-06-01,11 Restaurants and hotels,135.8
+2025-06-01,12 Miscellaneous goods and services,123.1
+2025-07-01,00 Total,122.5
+2025-07-01,01 Food and non-alcoholic beverages,140.6
+2025-07-01,02 Alcoholic beverages and tobacco,135.9
+2025-07-01,03 Clothing and footwear,91.7
+2025-07-01,04 Housing and utilities,121.2
+2025-07-01,05 Furnishings and household equipment,104.2
+2025-07-01,06 Health,115.3
+2025-07-01,07 Transport,119.7
+2025-07-01,08 Communication,87.4
+2025-07-01,09 Recreation and culture,122.8
+2025-07-01,10 Education,135.2
+2025-07-01,11 Restaurants and hotels,144.8
+2025-07-01,12 Miscellaneous goods and services,123.4
+2025-08-01,00 Total,121.7
+2025-08-01,01 Food and non-alcoholic beverages,139.1
+2025-08-01,02 Alcoholic beverages and tobacco,136.4
+2025-08-01,03 Clothing and footwear,92.6
+2025-08-01,04 Housing and utilities,121.2
+2025-08-01,05 Furnishings and household equipment,104.1
+2025-08-01,06 Health,115.1
+2025-08-01,07 Transport,119.9
+2025-08-01,08 Communication,87.5
+2025-08-01,09 Recreation and culture,118.8
+2025-08-01,10 Education,138.4
+2025-08-01,11 Restaurants and hotels,140.6
+2025-08-01,12 Miscellaneous goods and services,123.3
+2025-09-01,00 Total,121.6
+2025-09-01,01 Food and non-alcoholic beverages,138.9
+2025-09-01,02 Alcoholic beverages and tobacco,136.0
+2025-09-01,03 Clothing and footwear,97.6
+2025-09-01,04 Housing and utilities,120.8
+2025-09-01,05 Furnishings and household equipment,103.9
+2025-09-01,06 Health,114.6
+2025-09-01,07 Transport,119.4
+2025-09-01,08 Communication,88.4
+2025-09-01,09 Recreation and culture,119.6
+2025-09-01,10 Education,138.4
+2025-09-01,11 Restaurants and hotels,134.8
+2025-09-01,12 Miscellaneous goods and services,123.4
