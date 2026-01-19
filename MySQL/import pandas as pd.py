@@ -4,9 +4,9 @@ from mysql.connector import Error
 
 # Load CSV
 df = pd.read_csv(r'C:\Users\alexr\Desktop\Trade Index Data\Data\Clean data\Retail_CPI_Merged.csv')
-
+#Connect to MySQL
 try:
-    # Connect to MySQL
+    
     connection = mysql.connector.connect(
         host='localhost',
         database='retail_analysis',

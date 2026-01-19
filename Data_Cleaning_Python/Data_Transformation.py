@@ -1,118 +1,94 @@
 import pandas as pd
-import numpy as np
 import os
 
-# Set working directory
-os.chdir(r'C:\Users\alexr\Desktop\Trade Index Data\Data\Clean data')
+data_folder = r'C:\Users\alexr\Desktop\Trade Index Data\Data\Clean data'
+os.chdir(data_folder)
+         
+# Load all three CSV files
+cpi_data = pd.read_csv('CPI_Clean.csv')
+retail_data = pd.read_csv('Retail_Clean.csv')
+confidence_data = pd.read_csv('Consumer_Confidence_Clean.csv')
 
-# Verify the right place
-print(f"Current directory: {os.getcwd()}")
-print(f"Files in directory: {os.listdir()}")
+# Convert the Date columns from text to dates
+cpi_data['Date'] = pd.to_datetime(cpi_data['Date'])
+retail_data['Date'] = pd.to_datetime(retail_data['Date'])
+confidence_data['Date'] = pd.to_datetime(confidence_data['Date'])
 
-# Load all three clean datasets
-cpi_df = pd.read_csv('CPI_Clean.csv')
-retail_df = pd.read_csv('Retail_Clean.csv')
-confidence_df = pd.read_csv('Consumer_Confidence_Clean.csv')
+# Keep only the "Total" row for CPI 
+cpi_total = cpi_data[cpi_data['Category'] == '00 Total'].copy()
 
-# Convert Date columns to datetime
-cpi_df['Date'] = pd.to_datetime(cpi_df['Date'])
-retail_df['Date'] = pd.to_datetime(retail_df['Date'])
-confidence_df['Date'] = pd.to_datetime(confidence_df['Date'])
-
-#Filter for main categories
-
-# Keep only "Total" categories for main analysis
-cpi_total = cpi_df[cpi_df['Category'] == '00 Total'].copy()
-retail_total = retail_df[retail_df['Category'] == 'Retail trade total'].copy()
-
-# Rename columns for clarity
-cpi_total = cpi_total.rename(columns={'CPI': 'CPI_Total'})
-retail_total = retail_total.rename(columns={'Retail_Index': 'Retail_Index_Total'})
+# Keep only the "Total" row for Retail
+retail_total = retail_data[retail_data['Category'] == 'Retail trade total'].copy()
 
 # Merge datasets
+merged_data = confidence_data.copy()
 
-# Consumer confidence (has all dates)
-merged_df = confidence_df.copy()
-
-# Merge with CPI data
-merged_df = merged_df.merge(
-    cpi_total[['Date', 'CPI_Total']], 
+# Add CPI data (matching by Date)
+merged_data = merged_data.merge(
+    cpi_total[['Date', 'CPI']], 
     on='Date', 
     how='left'
 )
 
-# Merge with Retail data
-merged_df = merged_df.merge(
-    retail_total[['Date', 'Retail_Index_Total']], 
+# Add Retail data (matching by Date)
+merged_data = merged_data.merge(
+    retail_total[['Date', 'Retail_Index']], 
     on='Date', 
-    how='left'
-)
+    how='left')
 
-print(f"Merged dataset created: {len(merged_df)} rows, {len(merged_df.columns)} columns")
-print(f"\nColumns: {list(merged_df.columns)}")
+# Count how many values are missing in each column
+missing_values = merged_data.isnull().sum()
+print(missing_values)
+print()
 
-# Check for missing values
-
-missing_counts = merged_df.isnull().sum()
-print("\nMissing values per column:")
-print(missing_counts)
-
-if missing_counts.sum() > 0:
-    print(f"\n Total missing values: {missing_counts.sum()}")
+# If there are any missing values, fill them in
+if missing_values.sum() > 0:
+    # Use the last known value to fill gaps
+    merged_data = merged_data.fillna(method='ffill')
     
-    # Show rows with missing data
-    print("\nRows with missing data:")
-    print(merged_df[merged_df.isnull().any(axis=1)])
+    # If still missing at the start, use next known value
+    merged_data = merged_data.fillna(method='bfill')
     
-    # Fill missing values using forward fill (carry last known value)
-
-    merged_df = merged_df.fillna(method='fill')
-    
-    # Check again
-    remaining_missing = merged_df.isnull().sum().sum()
-    if remaining_missing > 0:
-        print(f" Still {remaining_missing} missing values.")
-        merged_df = merged_df.fillna(method='bfill')
-    
-    print(" All missing values are filled now")
+    print("Missing values filled")
 else:
-    print(" No missing values found")
+    print("No missing values found!")
 
+print()
 
-# Create calculated columns
+# Calculations:
 
-# Monthly percentage change for CPI
-merged_df['CPI_Monthly_Change_Pct'] = merged_df['CPI_Total'].pct_change() * 100
+# How much did CPI change from last month?
+merged_data['CPI_Monthly_Change_Pct'] = merged_data['CPI'].pct_change() * 100
 
-# Monthly percentage change for Retail Index
-merged_df['Retail_Monthly_Change_Pct'] = merged_df['Retail_Index_Total'].pct_change() * 100
+# How much did retail sales change from last month?
+merged_data['Retail_Monthly_Change_Pct'] = merged_data['Retail_Index'].pct_change() * 100
 
-# Adjusted Retail Index (Real Retail Index)
-# Formula: (Retail Index / CPI) * 100
+# What would retail sales look like if we account for inflation?
+merged_data['Retail_Index_Adjusted'] = (merged_data['Retail_Index'] / merged_data['CPI']) * 100
 
-merged_df['Retail_Index_Adjusted'] = (merged_df['Retail_Index_Total'] / merged_df['CPI_Total']) * 100
+# How much did CPI change compared to 12 months ago?
+merged_data['CPI_YoY_Change_Pct'] = merged_data['CPI'].pct_change(periods=12) * 100
 
-# Year-over-Year CPI Change (12 months)
-merged_df['CPI_YoY_Change_Pct'] = merged_df['CPI_Total'].pct_change(periods=12) * 100
+# How much did retail sales change compared to 12 months ago?
+merged_data['Retail_YoY_Change_Pct'] = merged_data['Retail_Index'].pct_change(periods=12) * 100
 
-# Year-over-Year Retail Change
-merged_df['Retail_YoY_Change_Pct'] = merged_df['Retail_Index_Total'].pct_change(periods=12) * 100
+# How much did confidence change from last month?
+merged_data['Confidence_Change'] = merged_data['Consumer_Confidence'].diff()
 
-# Consumer Confidence Change
-merged_df['Confidence_Change'] = merged_df['Consumer_Confidence'].diff()
+# Find all columns that contain numbers
+numeric_columns = merged_data.select_dtypes(include=['float64', 'int64']).columns
 
-# Round all numeric columns to 2 decimal places
-numeric_columns = merged_df.select_dtypes(include=[np.number]).columns
-merged_df[numeric_columns] = merged_df[numeric_columns].round(2)
+# Round each numeric column to 2 decimal places
+for column in numeric_columns:
+    merged_data[column] = merged_data[column].round(2)
 
-# Reorder columns for clarity
-
+# Organize columns
 column_order = [
     'Date',
-    'CPI_Total',
+    'CPI',
     'CPI_Monthly_Change_Pct',
     'CPI_YoY_Change_Pct',
-    'Retail_Index_Total',
+    'Retail_Index',
     'Retail_Monthly_Change_Pct',
     'Retail_YoY_Change_Pct',
     'Retail_Index_Adjusted',
@@ -120,19 +96,7 @@ column_order = [
     'Confidence_Change'
 ]
 
-merged_df = merged_df[column_order]
+merged_data = merged_data[column_order]
 
-# Preview some of the data
-
-print("DATA PREVIEW")
-
-print("\n First 10 rows:")
-print(merged_df.head(10).to_string(index=False))
-
-print("\n Last 10 rows:")
-print(merged_df.tail(10).to_string(index=False))
-
-# Save data set
-
-merged_df.to_csv('Retail_CPI_Merged.csv', index=False)
-print("Saved as: Retail_CPI_Merged.csv")
+output_filename = 'Retail_CPI_Merged.csv'
+merged_data.to_csv(output_filename, index=False)
