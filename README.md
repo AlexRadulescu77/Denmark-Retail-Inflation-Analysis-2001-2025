@@ -42,11 +42,15 @@ Inflation Impact on Real Purchasing Power
 
 Data is processed with Python, stored in SharePoint, explored via Power Apps and visualized in Power BI.
 
- Python - Merges 3 datasets, calculates 10 KPIs including YoY growth and inflation-adjusted retail index
- SharePoint - Stores 297 processed records as centralized cloud repository
- Power Apps - Interactive data viewer with 4 filters, Year search and 5 KPI cards
- Power BI - Two-page dashboard showing CPI trends, quarterly retail patterns, nominal vs real retail comparison and consumer confidence analysis
- Power Automate - Automated processes (In progress)
+- Python - Merges 3 datasets, calculates 10 KPIs including YoY growth and inflation-adjusted retail index
+
+- SharePoint - Stores 297 processed records as centralized cloud repository
+
+- Power Apps - Interactive data viewer with 4 filters, Year search and 5 KPI cards
+  
+- Power BI - Two-page dashboard showing CPI trends, quarterly retail patterns, nominal vs real retail comparison and consumer confidence analysis
+
+- Power Automate - Automated processes (In progress)
 
 
 ##Data Source
