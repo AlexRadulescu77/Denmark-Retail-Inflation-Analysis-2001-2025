@@ -11,7 +11,7 @@ The project began as a Python + Power BI analysis and was later expanded into a 
 ## Dashboard Preview
 
 ### Page 1 – Inflation, Consumer Confidence & Real Retail Analysis
-![Retail Dashboard Page 1](Visualization%20-%20PowerBI/dashboard1.png)
+![Retail Dashboard Page 1](Visualization%20-%20PowerBI/dasboard1.png)
 
 This page analyzes macroeconomic impact:
 
@@ -23,7 +23,7 @@ This page analyzes macroeconomic impact:
 
 
 ### Page 2 – Quarterly Retail Growth Analysis
-![Retail Dashboard Page 2](Visualization%20-%20PowerBI/dashboard2.png)
+![Retail Dashboard Page 2](Visualization%20-%20PowerBI/dasboard2.png)
 
 This page focuses on retail structure and seasonal patterns:
 
