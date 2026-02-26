@@ -4,7 +4,7 @@ This project analyzes Denmark’s retail trade market and inflation trends from 
 
 The objective was to examine how price changes (CPI) influence consumer purchasing behaviour, retail performance, and real purchasing power over time.
 
-The project began as a Python + Power BI analysis and was later expanded into a Microsoft Power Platform solution including SharePoint, Power Apps, and Power Automate.
+The project began as a Python + Power BI analysis and was later expanded into a Microsoft Power Platform solution including SharePoint, Power Apps and Power Automate.
 
 ---
 
