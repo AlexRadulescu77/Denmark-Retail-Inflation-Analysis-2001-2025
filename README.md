@@ -10,8 +10,20 @@ The project began as a Python + Power BI analysis and was later expanded into a 
 
 ## Dashboard Preview
 
-### Page 1 – Quarterly Retail Growth Analysis
-![Retail Dashboard Page 1](PowerBI/dashboard1.png)
+### Page 1 – Inflation, Consumer Confidence & Real Retail Analysis
+![Retail Dashboard Page 1](Visualization%20-%20PowerBI/dashboard1.png)
+
+This page analyzes macroeconomic impact:
+
+- CPI development (2001–2025)
+- Annual inflation spikes
+- Consumer confidence trends
+- Nominal vs inflation-adjusted retail index
+- Key KPI indicators (Latest CPI, Average Retail Index, Average Confidence)
+
+
+### Page 2 – Quarterly Retail Growth Analysis
+![Retail Dashboard Page 2](Visualization%20-%20PowerBI/dashboard2.png)
 
 This page focuses on retail structure and seasonal patterns:
 
