@@ -32,20 +32,6 @@ This page focuses on retail structure and seasonal patterns:
 - Identification of strongest and weakest quarters
 - Impact of financial crisis and post-pandemic recovery
 
----
-
-### Page 2 – Inflation, Consumer Confidence & Real Retail Analysis
-![Retail Dashboard Page 2](PowerBI/dashboard2.png)
-
-This page analyzes macroeconomic impact:
-
-- CPI development (2001–2025)
-- Annual inflation spikes
-- Consumer confidence trends
-- Nominal vs inflation-adjusted retail index
-- Key KPI indicators (Latest CPI, Average Retail Index, Average Confidence)
-
----
 
 ## Business Context
 
